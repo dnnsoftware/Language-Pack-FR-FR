@@ -1,0 +1,985 @@
+﻿<dotnetnuke type="Package" version="5.0">
+  <packages>
+    <package name="Core_fr-FR" type="CoreLanguagePack" version="09.02.00">
+      <friendlyName>DNN Core français (France)</friendlyName>
+      <description>French (France) language pack for DNN Platform.</description>
+      <iconFile />
+      <owner>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
+      </owner>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="CoreLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <displayName>français (France)</displayName>
+            <fallback />
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Export.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>Import.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleLocalization.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModulePermissions.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ModuleSettings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Modules\App_LocalResources</path>
+              <name>ViewSource.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Privacy.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Portal\App_LocalResources</path>
+              <name>Terms.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>AccessDenied.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>PasswordReset.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Security\App_LocalResources</path>
+              <name>SendPassword.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Copyright.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Language.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToFullSite.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToMobileSite.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>LinkToTabletSite.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Login.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Privacy.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Search.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Tags.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Terms.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>Toast.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>TreeViewMenu.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>User.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Skins\App_LocalResources</path>
+              <name>UserAndLogin.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Export.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Tabs\App_LocalResources</path>
+              <name>Import.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>admin\Users\App_LocalResources</path>
+              <name>ViewProfile.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>Exceptions.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>FileUpload.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>GlobalResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>List_Country.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>App_GlobalResources</path>
+              <name>WebControls.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Address.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>DualListControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>filepickeruploader.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>Help.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>LocaleSelectorControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>ModuleAuditControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>SkinControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>TextEditor.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>URLControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>UrlTrackingControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>controls\App_LocalResources</path>
+              <name>User.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Authentication.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Login.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+              <name>Logoff.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Console\App_LocalResources</path>
+              <name>ViewConsole.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\App_LocalResources</path>
+              <name>ProviderConfiguration.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\HtmlEditorManager\Controls\App_LocalResources</path>
+              <name>InvalidConfiguration.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+              <name>CreateModule.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+              <name>ViewSource.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>ResultsSettings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchableModules.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+              <name>SearchResults.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditGroups.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditProfileDefinition.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditRoles.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>EditUser.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ManageUsers.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>MemberServices.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Membership.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Password.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Profile.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>ProfileDefinitions.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Register.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Roles.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SecurityRoles.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>User.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>Users.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Security\App_LocalResources</path>
+              <name>UserSettings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+              <name>ViewProfile.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>Installwizard.aspx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Install\App_LocalResources</path>
+              <name>UpgradeWizard.aspx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Blank Website.template.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Portals\_default</path>
+              <name>Default Website.template.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>AuthenticationEditor.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+              <name>EditExtension.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DDR Menu français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for DDR Menu.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DDRMenu</package>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuSettings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DDRMenu\App_LocalResources</path>
+              <name>MenuView.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Digital Asset Management français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Digital Asset Management.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DigitalAssetsManagement</package>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>EditFolderMapping.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FileFieldsControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FileProperties.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FolderMappings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>FolderProperties.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>SearchBoxControl.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
+              <name>View.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>HTML français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for HTML.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DNN_HTML</package>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>EditHtml.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>HtmlModule.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>MyWork.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\HTML\App_LocalResources</path>
+              <name>Workflow.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Journal_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Journal français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Journal.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>Journal</package>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Edit.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Journal\App_LocalResources</path>
+              <name>View.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Member Directory français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Member Directory.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DotNetNuke.Modules.MemberDirectory</package>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
+              <name>View.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Message Center français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Message Center.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DotNetNuke.Modules.CoreMessaging</package>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
+              <name>View.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Razor Host français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Razor Host.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DNNCorp.RazorHost</package>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>AddScript.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>CreateModule.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>EditScript.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>RazorHost.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Social Groups français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Social Groups.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>Social Groups</package>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>CreateSettings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>Edit.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>ListSettings.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\SocialGroups\App_LocalResources</path>
+              <name>View.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Default Authentication français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Default Authentication.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DefaultAuthentication</package>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Login.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn.EditBar.UI français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Dnn.EditBar.UI.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>Dnn.EditBar.UI</package>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddExistingModule.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>AddModule.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>Common.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+              <name>EditBar.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn.PersonaBar.UI français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>Dnn.PersonaBar.UI</package>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>PersonaBar.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+              <name>Tabs.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
+              <name>AdminLogs.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
+              <name>ConfigConsole.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
+              <name>CssEditor.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
+              <name>Extensions.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
+              <name>Licensing.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
+              <name>Pages.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
+              <name>Recyclebin.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
+              <name>Roles.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
+              <name>Security.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
+              <name>Seo.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
+              <name>Servers.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
+              <name>SiteImportExport.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
+              <name>Sites.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
+              <name>SiteSettings.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
+              <name>SqlConsole.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
+              <name>TaskScheduler.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
+              <name>Themes.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
+              <name>Users.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
+              <name>Vocabularies.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Connectors\App_LocalResources</path>
+              <name>Connectors.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Prompt\App_LocalResources</path>
+              <name>Prompt.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Site Export Import français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Site Export Import.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>SiteExportImport</package>
+            <languageFile>
+              <path>DesktopModules\SiteExportImport\App_LocalResources</path>
+              <name>ExportImport.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>Dnn Azure Connector français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for Dnn Azure Connector.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>Dnn.AzureConnector</package>
+            <languageFile>
+              <path>DesktopModules\Connectors\Azure\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DotNetNuke ASP.NET Client Capability Provider français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>AspNetClientCapabilityProvider</package>
+            <languageFile>
+              <path>Providers\ClientCapabilityProviders\AspNetClientCapabilityProvider\App_LocalResources</path>
+              <name>SharedResources.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DotNetNuke Folder Providers français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DotNetNuke.Providers.FolderProviders</package>
+            <languageFile>
+              <path>Providers\FolderProviders\AzureFolderProvider\App_LocalResources</path>
+              <name>Settings.ascx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+    <package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+      <friendlyName>DNN Connect CKEditor Provider français (France)</friendlyName>
+      <description><![CDATA[French (France) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <iconFile />
+      <owner>
+        <name>DNN Corporation</name>
+        <organization>DNN Corporation</organization>
+        <url>www.dnnsoftware.com</url>
+        <email>support@dnnsoftware.com</email>
+      </owner>
+      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <releaseNotes />
+      <components>
+        <component type="ExtensionLanguage">
+          <languageFiles>
+            <code>fr-FR</code>
+            <package>DNNConnect.CKEditorProvider</package>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Browser.aspx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>EditorConfigManager.ascx.fr-FR.resx</name>
+            </languageFile>
+            <languageFile>
+              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+              <name>Options.aspx.fr-FR.resx</name>
+            </languageFile>
+          </languageFiles>
+        </component>
+      </components>
+    </package>
+  </packages>
+</dotnetnuke>
