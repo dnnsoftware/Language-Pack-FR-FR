@@ -1,1 +1,1 @@
-# DNN Language Patch for (FR-FR)
+# DNN Language Pack for (FR-FR)
