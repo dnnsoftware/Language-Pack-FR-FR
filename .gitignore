@@ -1,0 +1,7 @@
+# By default, ignore everything
+*
+
+# Whitelist only what goes into the language packs
+!.gitignore
+!*.resx
+!**/*.resx
