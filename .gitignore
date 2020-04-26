@@ -3,5 +3,5 @@
 
 # Whitelist only what goes into the language packs
 !.gitignore
-!*.resx
+!.gitattributes
 !**/*.resx
