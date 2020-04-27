@@ -19,7 +19,7 @@
     <value xml:space="preserve">Afficher la source du contrôle du module</value>
   </data>
   <data name="NoFileTypeSelected.Text">
-    <value xml:space="preserve">Vous devez sélectionner un type de fichier à modifier avant de cliquer sur le bouton "Mettre à jour".</value>
+    <value xml:space="preserve">Vous devez sélectionner un type de fichier à éditer avant de cliquer sur le bouton "Mettre à jour".</value>
   </data>
   <data name="plFile.Help">
     <value xml:space="preserve">Sélectionnez le fichier dont vous souhaitez afficher la source.</value>
@@ -28,7 +28,7 @@
     <value xml:space="preserve">Sélectionnez le fichier :</value>
   </data>
   <data name="plSource.Help">
-    <value xml:space="preserve">Vous pouvez afficher la source du module de contrôle dans la zone de texte ci-dessous.  Si vous exécutez sur un ordinateur local, vous pouvez également modifier et modifier la source.</value>
+    <value xml:space="preserve">Vous pouvez afficher la source du contrôle du module dans la zone de texte ci-dessous. Si vous exécutez l'application sur un ordinateur local, vous pouvez également éditer et modifier le code source.</value>
   </data>
   <data name="plSource.Text">
     <value xml:space="preserve">Source du contrôle du module :</value>

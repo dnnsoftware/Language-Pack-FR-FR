@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Add.Text" xml:space="preserve">
-    <value xml:space="preserve">Ajouter des tags</value>
+    <value xml:space="preserve">Ajouter des étiquettes</value>
   </data>
   <data name="Add.ToolTip" xml:space="preserve">
-    <value xml:space="preserve">Cliquer ici pour ajouter des tags.</value>
+    <value xml:space="preserve">Cliquer ici pour ajouter des étiquettes.</value>
   </data>
   <data name="Cancel.Text">
     <value xml:space="preserve">Annuler</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Cliquer pour enregistrer.</value>
   </data>
   <data name="Tag.ToolTip">
-    <value xml:space="preserve">Tags</value>
+    <value xml:space="preserve">Étiquettes</value>
   </data>
   <!---->
 </root>

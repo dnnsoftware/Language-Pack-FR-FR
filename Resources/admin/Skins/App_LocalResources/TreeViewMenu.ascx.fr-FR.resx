@@ -16,9 +16,9 @@
     <value xml:space="preserve">Aller sur la page parente</value>
   </data>
   <data name="Parent.Text">
-    <value xml:space="preserve">Parent</value>
+    <value xml:space="preserve">Parente</value>
   </data>
   <data name="Title.Text">
-    <value xml:space="preserve">Navigation</value>
+    <value xml:space="preserve">Navigation du site</value>
   </data>
 </root>
