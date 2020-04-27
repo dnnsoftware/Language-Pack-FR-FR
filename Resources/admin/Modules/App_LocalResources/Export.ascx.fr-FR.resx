@@ -16,19 +16,19 @@
     <value xml:space="preserve">Exporter</value>
   </data>
   <data name="ControlTitle_exportmodule.Text" xml:space="preserve">
-    <value xml:space="preserve">Export de module</value>
+    <value xml:space="preserve">Exportation de module</value>
   </data>
   <data name="Error.Text" xml:space="preserve">
     <value xml:space="preserve">Une erreur s'est produite lors de l'exportation.</value>
   </data>
   <data name="ExportNotSupported.Text" xml:space="preserve">
-    <value xml:space="preserve">Le module spécifié ne supporte pas ce type de contenu.</value>
+    <value xml:space="preserve">Le module spécifié ne supporte pas l'exportation de contenu.</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value xml:space="preserve">&lt;h1&gt;Export de module&lt;/h1&gt;&lt;p&gt;Cette fonction vous permet d'exporter le contenu du module dans le dossier spécifié.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Exportation de module&lt;/h1&gt;&lt;p&gt;Les administrateurs peuvent exporter le contenu du module spécifié.&lt;/p&gt;</value>
   </data>
   <data name="NoContent.Text" xml:space="preserve">
-    <value xml:space="preserve">Le module spécifié est vide.</value>
+    <value xml:space="preserve">Le module spécifié n'a pas de contenu.</value>
   </data>
   <data name="plFile.Help" xml:space="preserve">
     <value xml:space="preserve">Entrer un nom pour le fichier d'exportation.</value>

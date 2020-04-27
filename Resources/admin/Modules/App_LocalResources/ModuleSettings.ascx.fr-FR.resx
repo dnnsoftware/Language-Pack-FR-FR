@@ -13,43 +13,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllowIndexLabel.Help" xml:space="preserve">
-    <value xml:space="preserve">Ce paramètre détermine si un module doit être indexé par les robots de recherche.</value>
+    <value xml:space="preserve">Cochez cette case si le module doit être indexé par le moteur de recherche.</value>
   </data>
   <data name="AllowIndexLabel.Text" xml:space="preserve">
     <value xml:space="preserve">Autoriser l'indexation</value>
   </data>
   <data name="Appearance.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres de base</value>
+    <value xml:space="preserve">Réglages de base</value>
   </data>
   <data name="Bind.Text">
     <value xml:space="preserve">Lier</value>
   </data>
   <data name="CacheDuration.Help" xml:space="preserve">
-    <value xml:space="preserve">Saisissez la durée (en secondes) du cache de la page (ce de doit être un nombre entier).</value>
+    <value xml:space="preserve">Saisissez la durée (en secondes) de la cache de la page (ce de doit être un nombre entier).</value>
   </data>
   <data name="CacheDuration.Text" xml:space="preserve">
     <value xml:space="preserve">Durée de mise en cache (secondes)</value>
   </data>
   <data name="CacheDurationWarning.Text" xml:space="preserve">
-    <value xml:space="preserve">Ce module recommande de désactiver la mise en cache (sélectionnez NONE dans la liste fournisseur de cache ci-dessus). L’activation de la mise en cache de ce module n'est pas recommandée et peut entraîner l’affichage d’informations données obsolètes.</value>
+    <value xml:space="preserve">Ce module recommande de désactiver la mise en cache (sélectionnez AUCUN dans la liste de fournisseurs de cache ci-dessus). L’activation de la mise en cache de ce module n'est pas recommandée et peut entraîner l’affichage de données obsolètes.</value>
   </data>
   <data name="CacheInherited.Text">
     <value xml:space="preserve">Hérité</value>
   </data>
   <data name="CacheProvider.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionner le provider à utiliser pour cette page.</value>
+    <value xml:space="preserve">Sélectionner le fournisseur à utiliser pour cette page.</value>
   </data>
   <data name="CacheProvider.Text" xml:space="preserve">
     <value xml:space="preserve">Fournisseur de cache de sortie</value>
   </data>
   <data name="CacheSettings.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres du cache</value>
+    <value xml:space="preserve">Paramètres de mise en cache</value>
   </data>
   <data name="cmdClearAllTabModuleCache.Text" xml:space="preserve">
-    <value xml:space="preserve">Vider le cache pour tous les modules</value>
+    <value xml:space="preserve">Vider le cache pour tous les modules de page</value>
   </data>
   <data name="cmdClearTabModuleCache.Text" xml:space="preserve">
-    <value xml:space="preserve">Vider le cache pour ce module</value>
+    <value xml:space="preserve">Vider le cache pour ce module de page</value>
   </data>
   <data name="ContainerPreview.Text">
     <value xml:space="preserve">Aperçu</value>
@@ -58,25 +58,25 @@
     <value xml:space="preserve">Module</value>
   </data>
   <data name="ControlTitle_settings.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres {0}</value>
+    <value xml:space="preserve">Réglages de {0}</value>
   </data>
   <data name="CreateBoundCopies.Text" xml:space="preserve">
     <value xml:space="preserve">Créer des Copies liés</value>
   </data>
   <data name="cultureLabel.Help" xml:space="preserve">
-    <value xml:space="preserve">Langue de ce module</value>
+    <value xml:space="preserve">Langue de ce module.</value>
   </data>
   <data name="cultureLabel.Text" xml:space="preserve">
     <value xml:space="preserve">Langue de ce module :</value>
   </data>
   <data name="CustomSettings.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres {0}</value>
+    <value xml:space="preserve">Réglages de {0}</value>
   </data>
   <data name="defaultCultureLabel.Help" xml:space="preserve">
     <value xml:space="preserve">Cliquer sur ce lien pour voir la version de ce module dans la culture par défaut.</value>
   </data>
   <data name="defaultCultureLabel.Text" xml:space="preserve">
-    <value xml:space="preserve">Culture par défaut :</value>
+    <value xml:space="preserve">Culture par défaut:</value>
   </data>
   <data name="edit.Text">
     <value xml:space="preserve">Modifier</value>
@@ -91,7 +91,7 @@
     <value xml:space="preserve">Hériter des permissions &lt;b&gt;d'affichage&lt;/b&gt; de la &lt;b&gt;page&lt;/b&gt;</value>
   </data>
   <data name="InstalledOn.Help" xml:space="preserve">
-    <value xml:space="preserve">Liste les pages qui contiennent ce module. Un module existant peut être ajouté à d'autres pages en utilisant la fonctionnalité Ajouter un module existant. Cette liste n'affiche que les pages pour lesquelles ce module a été ajouté en utilisant cette fonctionnalité.</value>
+    <value xml:space="preserve">Cette liste affiche les pages sur lesquelles ce module a été ajouté en utilisant la fonction "Ajouter un module existant".</value>
   </data>
   <data name="InstalledOn.Text" xml:space="preserve">
     <value xml:space="preserve">Ce module a été ajouté dans les pages suivantes :</value>
@@ -106,10 +106,10 @@
     <value xml:space="preserve">Cocher cette case pour restreindre le partage en affichage uniquement (lecture seule).</value>
   </data>
   <data name="isShareableViewOnlyLabel.Text" xml:space="preserve">
-    <value xml:space="preserve">Voir uniquement</value>
+    <value xml:space="preserve">Affichage uniquement</value>
   </data>
   <data name="lblCachedItemCount.Text" xml:space="preserve">
-    <value xml:space="preserve">Valeur courante du cache: {0}</value>
+    <value xml:space="preserve">Compte courant de la cache : {0} item(s) pour ce module de page.</value>
   </data>
   <data name="lblNoRecords.Text" xml:space="preserve">
     <value xml:space="preserve">Ce module n'a pas été ajouté à d'autres pages.</value>
@@ -118,16 +118,16 @@
     <value xml:space="preserve">Localisation de module</value>
   </data>
   <data name="ModuleExists.Text" xml:space="preserve">
-    <value xml:space="preserve">Ce module existe déjà dans la page de destination (il peut se trouver dans la corbeille), et seule une instance d'un module peut exister dans une page.</value>
+    <value xml:space="preserve">Ce module existe déjà dans la page de destination (il peut se trouver dans la corbeille), et une seule instance d'un module peut exister dans une page.</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value xml:space="preserve">&lt;h1&gt;Paramètres du module&lt;/h1&gt;&lt;p&gt;Les membres du groupe Administrateurs gèrent ici les paramètres du module sur la page courante. Ces paramètres modifient le contenu, les permissions et propriétés d&amp;#146;affichage&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Réglages du module&lt;/h1&gt;&lt;p&gt;Gère les réglages du module pour la page actuelle. Ceci vous permet de spécifier des caractéristiques du module incluant le contenu, les permissions et les propriétés d'affichage.&lt;/p&gt;</value>
   </data>
   <data name="ModuleInstalledOn.Text" xml:space="preserve">
-    <value xml:space="preserve">Ajoutés aux pages</value>
+    <value xml:space="preserve">Ajouté aux pages</value>
   </data>
   <data name="ModuleSettings.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres du module</value>
+    <value xml:space="preserve">Réglages du module</value>
   </data>
   <data name="MsgInstalledOnAll.Text" xml:space="preserve">
     <value xml:space="preserve">Cette instance du module est affichée sur toutes les pages.</value>
@@ -136,28 +136,28 @@
     <value xml:space="preserve">Cette instance du module n'a pas été ajoutée dans d'autres pages.</value>
   </data>
   <data name="OtherSettings.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres avancés</value>
+    <value xml:space="preserve">Réglages avancés</value>
   </data>
   <data name="Page.Header">
     <value xml:space="preserve">Page</value>
   </data>
   <data name="PageSettings.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres de la page</value>
+    <value xml:space="preserve">Réglages de la page</value>
   </data>
   <data name="Permissions.Text">
     <value xml:space="preserve">Permissions</value>
   </data>
   <data name="plAdminBorder.Help" xml:space="preserve">
-    <value xml:space="preserve">Cocher cette case affichera une bordure rouge informant que l'affichage de ce module ne peut se faire que par les Administrateurs du site.</value>
+    <value xml:space="preserve">Cocher cette case cachera la bordure rouge informant que l'affichage de ce module ne peut se faire que par les Administrateurs du site.</value>
   </data>
   <data name="plAdminBorder.Text" xml:space="preserve">
     <value xml:space="preserve">Masquer la bordure d'alerte administrateur</value>
   </data>
   <data name="plAlign.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionner le type d'alignement des données dans le module.</value>
+    <value xml:space="preserve">Sélectionner le type d'alignement du contenu du module.</value>
   </data>
   <data name="plAlign.Text" xml:space="preserve">
-    <value xml:space="preserve">Alignement interne :</value>
+    <value xml:space="preserve">Alignement :</value>
   </data>
   <data name="plAllModules.Help" xml:space="preserve">
     <value xml:space="preserve">Cocher cette case pour appliquer les paramètres de page de ce module à l'ensemble des modules existants. Administrateurs uniquement.</value>
@@ -166,7 +166,7 @@
     <value xml:space="preserve">Appliquer à tous les modules</value>
   </data>
   <data name="plAllTabs.Help" xml:space="preserve">
-    <value xml:space="preserve">Cocher cette case si vous souhaitez faire apparaitre le module sur toutes les pages de votre site.</value>
+    <value xml:space="preserve">Cocher cette case si vous souhaitez afficher le module sur toutes les pages de votre site.</value>
   </data>
   <data name="plAllTabs.Text" xml:space="preserve">
     <value xml:space="preserve">Afficher le module sur toutes les pages</value>
@@ -175,25 +175,25 @@
     <value xml:space="preserve">Spécifiez l'épaisseur de la bordure du module</value>
   </data>
   <data name="plBorder.Text" xml:space="preserve">
-    <value xml:space="preserve">Epaisseur de la bordure :</value>
+    <value xml:space="preserve">Bordure :</value>
   </data>
   <data name="plCacheTime.Help" xml:space="preserve">
-    <value xml:space="preserve">Saisissez la durée de mise en cache de cet objet (en secondes)</value>
+    <value xml:space="preserve">Entrez le nombre de secondes pour garder le contenu de ce module en cache.</value>
   </data>
   <data name="plCacheTime.Text" xml:space="preserve">
-    <value xml:space="preserve">Durée de cache :</value>
+    <value xml:space="preserve">Durée de cache (sec.) :</value>
   </data>
   <data name="plColor.Help" xml:space="preserve">
-    <value xml:space="preserve">Spécifiez la couleur de fond du module</value>
+    <value xml:space="preserve">Spécifiez le nom anglais ou le code hexadécimal de la couleur de fond de ce module.</value>
   </data>
   <data name="plColor.Text" xml:space="preserve">
-    <value xml:space="preserve">Couleur de fond :</value>
+    <value xml:space="preserve">Couleur :</value>
   </data>
   <data name="plDefault.Help" xml:space="preserve">
-    <value xml:space="preserve">Cocher cette case si vous voulez utiliser ce paramètre comme valeur par défaut lors de l'ajout de nouveaux modules.</value>
+    <value xml:space="preserve">Cocher cette case si vous voulez utiliser ce paramètre comme valeur par défaut lors de l'ajout de nouveaux modules. Administrateurs seulement.</value>
   </data>
   <data name="plDefault.Text" xml:space="preserve">
-    <value xml:space="preserve">Définir comme paramètre par défaut</value>
+    <value xml:space="preserve">Définir comme réglages par défaut</value>
   </data>
   <data name="plDisplayPrint.Help" xml:space="preserve">
     <value xml:space="preserve">Sélectionner cette option si vous souhaitez activer la fonction d'impression de ce module.</value>
@@ -202,22 +202,22 @@
     <value xml:space="preserve">Autoriser l'impression</value>
   </data>
   <data name="plDisplaySyndicate.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionner cette option si vou souhaitez activer la fonction RSS de ce module.</value>
+    <value xml:space="preserve">Sélectionner cette option si vous souhaitez activer la fonction RSS de ce module.</value>
   </data>
   <data name="plDisplaySyndicate.Text" xml:space="preserve">
     <value xml:space="preserve">Autoriser la syndication</value>
   </data>
   <data name="plDisplayTitle.Help" xml:space="preserve">
-    <value xml:space="preserve">Cocher cette option si vous souhaitez que le contenu du module soit affiché sans aucun des éléments graphiques du container (titre, cadre, icônes, etc).</value>
+    <value xml:space="preserve">Cochez cette case pour afficher le conteneur du module.</value>
   </data>
   <data name="plDisplayTitle.Text" xml:space="preserve">
-    <value xml:space="preserve">Afficher le container</value>
+    <value xml:space="preserve">Afficher le conteneur</value>
   </data>
   <data name="plEndDate.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionner la date pour afficher ce module. Le module ne sera visible aux utilisateurs disposant d'autorisations de gestion uniquement après cette date.</value>
+    <value xml:space="preserve">Sélectionner la date de fin d'affichage de ce module. Le module ne sera visible qu'aux utilisateurs disposant d'autorisations de gestion après cette date.</value>
   </data>
   <data name="plEndDate.Text" xml:space="preserve">
-    <value xml:space="preserve">Disparaît le :</value>
+    <value xml:space="preserve">Date de fin :</value>
   </data>
   <data name="plFooter.Help" xml:space="preserve">
     <value xml:space="preserve">Saisissez le texte qui s'affichera dans le pied de page du module</value>
@@ -232,7 +232,7 @@
     <value xml:space="preserve">Module :</value>
   </data>
   <data name="plHeader.Help" xml:space="preserve">
-    <value xml:space="preserve">Saisissez le texte qui s'affichera en tête du module</value>
+    <value xml:space="preserve">Saisissez le texte qui s'affichera en entête du module</value>
   </data>
   <data name="plHeader.Text" xml:space="preserve">
     <value xml:space="preserve">Entête :</value>
@@ -244,52 +244,52 @@
     <value xml:space="preserve">Icône :</value>
   </data>
   <data name="plModuleContainer.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionner un container pour ce module ( Pour ajouter un nouveau container, utilisez le Gestionnaire de Fichiers)</value>
+    <value xml:space="preserve">Sélectionner un conteneur pour ce module.</value>
   </data>
   <data name="plModuleContainer.Text" xml:space="preserve">
-    <value xml:space="preserve">Container :</value>
+    <value xml:space="preserve">Conteneur :</value>
   </data>
   <data name="plNewTabs.Help" xml:space="preserve">
-    <value xml:space="preserve">Cocher cette case pour n'ajouter le module que sur les nouvelles pages.</value>
+    <value xml:space="preserve">Cocher cette case pour n'ajouter le module que sur les nouvelles pages. Administrateurs seulement.</value>
   </data>
   <data name="plNewTabs.Text" xml:space="preserve">
     <value xml:space="preserve">Ajouter seulement sur les nouvelles pages</value>
   </data>
   <data name="plPermissions.Help" xml:space="preserve">
-    <value xml:space="preserve">Spécifier les droits de visualisation et d'édition en cochant/décochant les cases. Le Module hérite des permissions de la Page. Pour ce faire, cochez la case "Hériter les droits de Visualisation".</value>
+    <value xml:space="preserve">Spécifier les droits d'affichage et d'édition en cochant/décochant les cases de la grille. Cochez "Hériter les permissions d'affichage" pour que le module hérite des permissions d'affichage de la page.</value>
   </data>
   <data name="plPermissions.Text" xml:space="preserve">
     <value xml:space="preserve">Permissions :</value>
   </data>
   <data name="plStartDate.Help" xml:space="preserve">
-    <value xml:space="preserve">Spécifier la date à laquelle le module s'affichera. Utilisez le calendrier pour choisir une date.</value>
+    <value xml:space="preserve">Spécifier la date à laquelle le module commencera à s'afficher. Le module sera seulement visible au utilisateurs ayant la permission de gestion avant cette date.</value>
   </data>
   <data name="plStartDate.Text" xml:space="preserve">
-    <value xml:space="preserve">Apparaît le :</value>
+    <value xml:space="preserve">Date de début :</value>
   </data>
   <data name="plTab.Help" xml:space="preserve">
-    <value xml:space="preserve">Spécifier la page sur laquelle le module apparaitra.</value>
+    <value xml:space="preserve">Spécifier la page vers laquelle le module sera déplacé.</value>
   </data>
   <data name="plTab.Text" xml:space="preserve">
-    <value xml:space="preserve">Aller à la page :</value>
+    <value xml:space="preserve">Déplacer vers la page :</value>
   </data>
   <data name="plTags.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionner des éléments dans le menu déroulant pour taguer ce module.</value>
+    <value xml:space="preserve">Sélectionner des éléments dans le menu déroulant pour étiqueter ce module.</value>
   </data>
   <data name="plTags.Text" xml:space="preserve">
-    <value xml:space="preserve">Tags :</value>
+    <value xml:space="preserve">Étiquettes :</value>
   </data>
   <data name="plTitle.Help" xml:space="preserve">
-    <value xml:space="preserve">Saisissez un titre pour ce module. Il apparaitra dans la barre de titre du container utilisé pour ce module, si cette fonction est supportée par le container.</value>
+    <value xml:space="preserve">Saisissez un titre pour ce module. Il apparaîtra dans la barre de titre du conteneur utilisé pour ce module, si cette fonction est supportée par le conteneur.</value>
   </data>
   <data name="plTitle.Text" xml:space="preserve">
-    <value xml:space="preserve">Titre :</value>
+    <value xml:space="preserve">Titre du module :</value>
   </data>
   <data name="plVisibility.Help" xml:space="preserve">
     <value xml:space="preserve">Choisir la visibilité par défaut pour ce module. C'est-à-dire si le module est réduit ou développé.</value>
   </data>
   <data name="plVisibility.Text" xml:space="preserve">
-    <value xml:space="preserve">Reduire / Elargir</value>
+    <value xml:space="preserve">Réduire / Développer</value>
   </data>
   <data name="plWebSlice.Help" xml:space="preserve">
     <value xml:space="preserve">Cocher cette case pour faire de ce module un "WebSlice" pour IE8.</value>
@@ -319,7 +319,7 @@
     <value xml:space="preserve">Sélectionner un conteneur à prévisualiser</value>
   </data>
   <data name="Security.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres avancés</value>
+    <value xml:space="preserve">Réglages avancés</value>
   </data>
   <data name="Translated.Text" xml:space="preserve">
     <value xml:space="preserve">Marquer comme traduit</value>
@@ -340,10 +340,10 @@
     <value xml:space="preserve">Date de fin invalide</value>
   </data>
   <data name="valEndDate2.ErrorMessage" xml:space="preserve">
-    <value xml:space="preserve">&lt;br&gt;La date de fin doit être après la date de début.</value>
+    <value xml:space="preserve">La date de fin doit être après la date de début.</value>
   </data>
   <data name="valStartDate.ErrorMessage" xml:space="preserve">
-    <value xml:space="preserve">Date de commencement invalide</value>
+    <value xml:space="preserve">Date de début invalide</value>
   </data>
   <data name="valWebSliceExpiry.ErrorMessage" xml:space="preserve">
     <value xml:space="preserve">Date d'expiration invalide</value>
@@ -355,13 +355,13 @@
     <value>Site</value>
   </data>
   <data name="plMoniker.Text" xml:space="preserve">
-    <value>Module Moniker :</value>
+    <value>"Moniker" du module :</value>
   </data>
   <data name="plMoniker.Help" xml:space="preserve">
-    <value>Un identifiant unique pour ce module. Ceci peut être utilisé par des appels à l'API Web afin de définir le contexte du module et de la page.</value>
+    <value>Un identifiant unique pour ce module. Ceci peut être utilisé par des appels de l'API Web afin de définir le contexte du module et de la page.</value>
   </data>
   <data name="MonikerExists.Text" xml:space="preserve">
-    <value>La nouvelle valeur du moniker existe déjà, celle-ci doit être unique au sein du site.</value>
+    <value>La nouvelle valeur du "moniker" existe déjà, celle-ci doit être unique au sein du site.</value>
   </data>
   <!---->
 </root>
