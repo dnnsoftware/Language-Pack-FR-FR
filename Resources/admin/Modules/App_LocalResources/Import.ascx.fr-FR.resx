@@ -16,7 +16,7 @@
     <value xml:space="preserve">Importer</value>
   </data>
   <data name="ControlTitle_importmodule.Text" xml:space="preserve">
-    <value xml:space="preserve">Importer  le module</value>
+    <value xml:space="preserve">Importer le module</value>
   </data>
   <data name="Error.Text" xml:space="preserve">
     <value xml:space="preserve">Une erreur s'est produite lors de l'importation.</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">&lt;h1&gt;Importation de contenu&lt;/h1&gt;&lt;p&gt;Cette fonction vous permet d'importer du contenu dans ce module.&lt;/p&gt;</value>
   </data>
   <data name="NotCorrectType.Text" xml:space="preserve">
-    <value xml:space="preserve">Le fichié spécifié ne peut pas être importé dans ce module.</value>
+    <value xml:space="preserve">Le type de contenu du module n'est pas approprié pour ce module.</value>
   </data>
   <data name="NotValidXml.Text" xml:space="preserve">
     <value xml:space="preserve">La structure XML du document sélectionné est n'est pas valide.</value>

@@ -16,7 +16,7 @@
     <value xml:space="preserve">Importer</value>
   </data>
   <data name="ControlTitle_importtab.Text" xml:space="preserve">
-    <value xml:space="preserve">Importer une page et son contenu</value>
+    <value xml:space="preserve">Importer une page</value>
   </data>
   <data name="Error.Text" xml:space="preserve">
     <value xml:space="preserve">Une erreur s'est produite lors de l'importation.</value>
@@ -25,13 +25,13 @@
     <value xml:space="preserve">Après</value>
   </data>
   <data name="InsertAtEnd.Text" xml:space="preserve">
-    <value xml:space="preserve">Ajouter en bas</value>
+    <value xml:space="preserve">Ajouter à la fin</value>
   </data>
   <data name="InsertBefore.Text">
     <value xml:space="preserve">Avant</value>
   </data>
   <data name="InsertPosition.Help" xml:space="preserve">
-    <value xml:space="preserve">Selectionnez la page que vous  voulez inserer</value>
+    <value xml:space="preserve">Sélectionnez la page par rapport à la  vous désirez insérer celle-ci avant ou après.</value>
   </data>
   <data name="InsertPosition.Text" xml:space="preserve">
     <value xml:space="preserve">Insérer la page</value>
@@ -40,7 +40,7 @@
     <value xml:space="preserve">Créer une nouvelle page</value>
   </data>
   <data name="ModeReplace.Text" xml:space="preserve">
-    <value xml:space="preserve">Remplacer la page courante</value>
+    <value xml:space="preserve">Remplacer la page actuelle</value>
   </data>
   <data name="ModeSettings.Text" xml:space="preserve">
     <value xml:space="preserve">Editer la page importée</value>
@@ -49,10 +49,10 @@
     <value xml:space="preserve">Voir la page importée</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value xml:space="preserve">&lt;h1&gt;Importer la page/h1&gt;&lt;p&gt;Les administrateurs peuvent importer du contenu pour la page spécifiée.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Importer la page&lt;/h1&gt;&lt;p&gt;Les administrateurs peuvent importer du contenu pour la page spécifiée.&lt;/p&gt;</value>
   </data>
   <data name="NoTabsInTemplate.Text" xml:space="preserve">
-    <value xml:space="preserve">Le modèle ne contient pas d'onglet.</value>
+    <value xml:space="preserve">Le modèle ne contient pas de pages.</value>
   </data>
   <data name="NotCorrectType.Text" xml:space="preserve">
     <value xml:space="preserve">Le fichier importé n'est pas d'un type correct pour cette page.</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">La structure XML n'est pas valide</value>
   </data>
   <data name="plFolder.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionnez le dossier où se trouve les gabarits</value>
+    <value xml:space="preserve">Sélectionnez le dossier où se trouve le modèle.</value>
   </data>
   <data name="plFolder.Text" xml:space="preserve">
     <value xml:space="preserve">Dossier :</value>
@@ -79,10 +79,10 @@
     <value xml:space="preserve">Page parente</value>
   </data>
   <data name="plRedirect.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionnez l'action qui suivra l'importation d'une page.</value>
+    <value xml:space="preserve">Sélectionnez l'action qui suivra l'importation réussie d'une page.</value>
   </data>
   <data name="plRedirect.Text" xml:space="preserve">
-    <value xml:space="preserve">Mode redirection ?</value>
+    <value xml:space="preserve">Mode de redirection</value>
   </data>
   <data name="plTabName.Help" xml:space="preserve">
     <value xml:space="preserve">Donner un nom à cette page.</value>
@@ -91,22 +91,19 @@
     <value xml:space="preserve">Nom de la page :</value>
   </data>
   <data name="plTemplate.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionnez le gabarit à importer.</value>
+    <value xml:space="preserve">Sélectionnez le modèle à importer.</value>
   </data>
   <data name="plTemplate.Text" xml:space="preserve">
-    <value xml:space="preserve">Gabarit :</value>
+    <value xml:space="preserve">Modèle :</value>
   </data>
   <data name="Root.Text">
     <value xml:space="preserve">Racine</value>
   </data>
   <data name="SpecifyFile.Text" xml:space="preserve">
-    <value xml:space="preserve">Spécifier le gabarit à importer</value>
+    <value xml:space="preserve">Spécifier le modèle à importer.</value>
   </data>
   <data name="SpecifyMode.Text" xml:space="preserve">
     <value xml:space="preserve">Spécifiez le mode d'importation</value>
-  </data>
-  <data name="SpecifyName.Text" version="deprecated" xml:space="preserve">
-    <value xml:space="preserve">Vous devez donner un nom à la page</value>
   </data>
   <data name="TabExists.Text" xml:space="preserve">
     <value xml:space="preserve">Le nom de la page que vous avez choisi est déjà utilisé par une autre page au même niveau de la hiérarchie.</value>
@@ -115,7 +112,7 @@
     <value xml:space="preserve">Une page avec ce nom existe dans la Corbeille.  Pour restaurer cette page utiliser la Corbeille.</value>
   </data>
   <data name="valTemplate.ErrorMessage" xml:space="preserve">
-    <value xml:space="preserve">Sélectionnez un gabarit</value>
+    <value xml:space="preserve">Sélectionnez un modèle.</value>
   </data>
   <data name="EmptyTabName.Text" xml:space="preserve">
     <value>Vous devez spécifier un nom pour la page.</value>
