@@ -1,6 +1,6 @@
 ﻿<dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="Core_fr-FR" type="CoreLanguagePack" version="09.02.00">
+    <package name="Core_fr-FR" type="CoreLanguagePack" version="09.06.00">
       <friendlyName>DNN Core français (France)</friendlyName>
       <description>French (France) language pack for DNN Platform.</description>
       <iconFile />
@@ -353,17 +353,17 @@
         </component>
       </components>
     </package>
-    <package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DDR Menu français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for DDR Menu.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for DDR Menu.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -382,17 +382,17 @@
         </component>
       </components>
     </package>
-    <package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Digital Asset Management français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Digital Asset Management.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Digital Asset Management.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -439,17 +439,17 @@
         </component>
       </components>
     </package>
-    <package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>HTML français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for HTML.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for HTML.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -484,17 +484,17 @@
         </component>
       </components>
     </package>
-    <package name="Journal_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="Journal_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Journal français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Journal.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Journal.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -521,17 +521,17 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Member Directory français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Member Directory.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Member Directory.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -550,17 +550,17 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Message Center français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Message Center.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Message Center.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -579,17 +579,17 @@
         </component>
       </components>
     </package>
-    <package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Razor Host français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Razor Host.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Razor Host.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -620,17 +620,17 @@
         </component>
       </components>
     </package>
-    <package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Social Groups français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Social Groups.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Social Groups.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -661,17 +661,17 @@
         </component>
       </components>
     </package>
-    <package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Default Authentication français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Default Authentication.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Default Authentication.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -690,17 +690,17 @@
         </component>
       </components>
     </package>
-    <package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Dnn.EditBar.UI français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Dnn.EditBar.UI.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Dnn.EditBar.UI.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -731,17 +731,17 @@
         </component>
       </components>
     </package>
-    <package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Dnn.PersonaBar.UI français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Dnn.PersonaBar.UI.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -848,17 +848,17 @@
         </component>
       </components>
     </package>
-    <package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Site Export Import français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Site Export Import.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Site Export Import.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -873,17 +873,17 @@
         </component>
       </components>
     </package>
-    <package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Dnn Azure Connector français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for Dnn Azure Connector.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for Dnn Azure Connector.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -898,17 +898,17 @@
         </component>
       </components>
     </package>
-    <package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DotNetNuke ASP.NET Client Capability Provider français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for DotNetNuke ASP.NET Client Capability Provider.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -923,17 +923,17 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DotNetNuke Folder Providers français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for DotNetNuke Folder Providers.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
@@ -948,17 +948,17 @@
         </component>
       </components>
     </package>
-    <package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="09.02.00">
+    <package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DNN Connect CKEditor Provider français (France)</friendlyName>
-      <description><![CDATA[French (France) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into French (France) was done by <a href="http://www.bsi.fr">BSI Alès</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
+      <description><![CDATA[French (France) language pack for DNN Connect CKEditor Provider.]]></description>
       <iconFile />
       <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
+        <name>.NET Foundation</name>
+        <organization>.NET Foundation</organization>
+        <url>https://www.dnncommunity.org</url>
+        <email>info@dnncommunity.org</email>
       </owner>
-      <license><![CDATA[DNN - http://www.dnnsoftware.com<br>Copyright (c) 2002-2018<br>by DNN Corp.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
+      <license><![CDATA[Copyright (c) 2002-2020<br>by .NET Foundation.<br><br>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br><br>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br><br>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.]]></license>
       <releaseNotes />
       <components>
         <component type="ExtensionLanguage">
