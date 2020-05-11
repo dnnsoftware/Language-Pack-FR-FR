@@ -13,22 +13,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BindConfirm.Text">
-    <value xml:space="preserve">La liaison à la version de la langue par défaut supprimera le contenu des versions de cultures spécifiques.  Cela est irreversible. Etes vous sur de vouloir  effectuer cette action?</value>
+    <value xml:space="preserve">La liaison à la version de la langue par défaut supprimera le contenu des versions de cultures spécifiques.  Cela est irreversible. Etes vous sûr de vouloir poursuivre?</value>
   </data>
   <data name="bindModule.Text">
     <value xml:space="preserve">Langue de référence par défaut</value>
   </data>
   <data name="Edit.Header">
-    <value xml:space="preserve">Modifier</value>
+    <value xml:space="preserve">Éditer</value>
   </data>
   <data name="Language.Header">
     <value xml:space="preserve">Langue</value>
   </data>
   <data name="markModuleTranslated.Text">
-    <value xml:space="preserve">Consideré comme traduit</value>
+    <value xml:space="preserve">Marquer traduit</value>
   </data>
   <data name="markModuleUnTranslated.Text">
-    <value xml:space="preserve">Consideré comme non traduitt</value>
+    <value xml:space="preserve">Marquer non traduit</value>
   </data>
   <data name="ModuleTitle.Header">
     <value xml:space="preserve">Titre du module</value>
@@ -37,7 +37,7 @@
     <value xml:space="preserve">Module</value>
   </data>
   <data name="NA.Text">
-    <value xml:space="preserve">Non disponible.</value>
+    <value xml:space="preserve">N/D</value>
   </data>
   <data name="Translated.Header">
     <value xml:space="preserve">Traduit ?</value>

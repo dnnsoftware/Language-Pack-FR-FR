@@ -22,7 +22,7 @@
     <value xml:space="preserve">Permissions</value>
   </data>
   <data name="plPermissions.Help">
-    <value xml:space="preserve">Sélectionner les permissions d'affichage et de modification en cochant/décochant les cases de la grille. Le module peut hériter des permissions de la page en cliquant sur l'option appropriée.</value>
+    <value xml:space="preserve">Sélectionner les permissions d'affichage et de modification en cochant/décochant les cases de la grille. Cochez "Hériter les permissions de la page" pour permettre au module d'hériter des permissions de la page.</value>
   </data>
   <data name="plPermissions.Text">
     <value xml:space="preserve">Permissions :</value>
