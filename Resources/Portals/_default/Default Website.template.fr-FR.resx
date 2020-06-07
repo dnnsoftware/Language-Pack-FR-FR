@@ -449,7 +449,7 @@ Someplace, CA 12345</value>
     <value>Rester en contact avec DNN</value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Link">
-    <value>http://twitter.com/dnn</value>
+    <value>https://twitter.com/DNNAwareness</value>
   </data>
   <data name="Tab.Home.SocialLinks.Youtube.Link">
     <value>http://www.youtube.com/user/dotnetnuke</value>
