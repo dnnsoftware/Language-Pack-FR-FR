@@ -130,7 +130,7 @@
     <value xml:space="preserve">fr-FR</value>
   </data>
   <data name="Setting.FooterText.Text" xml:space="preserve">
-    <value xml:space="preserve">Copyright [year] DNN Corp</value>
+    <value xml:space="preserve">Copyright [year] mon site web</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text" xml:space="preserve">
     <value xml:space="preserve">Désolé, la page que vous cherchez est introuvable, elle a peut-être été supprimée, son nom a peut être changé ou elle est temporairement indisponible. Il est recommandé de réessayer d’y accéder directement depuis la page d’accueil. N'hésitez pas à nous contacter si le problème persiste ou si vous ne pouvez vraiment pas trouver ce que vous cherchez.</value>
@@ -449,7 +449,7 @@ Someplace, CA 12345</value>
     <value>Rester en contact avec DNN</value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Link">
-    <value>http://twitter.com/dnncorp</value>
+    <value>https://twitter.com/DNNAwareness</value>
   </data>
   <data name="Tab.Home.SocialLinks.Youtube.Link">
     <value>http://www.youtube.com/user/dotnetnuke</value>
