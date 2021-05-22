@@ -13,16 +13,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AlreadyExists.Text" xml:space="preserve">
-    <value xml:space="preserve">Le fichier existe déjà.</value>
+    <value>Le fichier existe déjà.</value>
   </data>
   <data name="ErrorMessage.Text" xml:space="preserve">
-    <value xml:space="preserve">Le fichier '{0}' n'a pas pu être chargé : {1}.</value>
+    <value>Le fichier '{0}' n'a pas pu être chargé : {1}.</value>
   </data>
   <data name="ExtensionNotAllowed.Text" xml:space="preserve">
-    <value xml:space="preserve">Extension de fichier non autorisée.</value>
+    <value>Extension de fichier non autorisée.</value>
   </data>
   <data name="NoPermission.Text" xml:space="preserve">
-    <value xml:space="preserve">Aucune permission.</value>
+    <value>Aucune permission.</value>
   </data>
-  <!---->
 </root>

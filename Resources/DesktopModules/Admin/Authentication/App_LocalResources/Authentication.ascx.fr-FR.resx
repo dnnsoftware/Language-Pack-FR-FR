@@ -13,13 +13,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cmdUpdate.Text" xml:space="preserve">
-    <value xml:space="preserve">Mise à jour des paramètres</value>
+    <value>Mise à jour des paramètres</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">
-    <value xml:space="preserve">Paramètres d'authentification</value>
+    <value>Paramètres d'authentification</value>
   </data>
   <data name="NoProvidersEnabled.Text" xml:space="preserve">
-    <value xml:space="preserve">Aucun provider activé. La méthode d’authentification par défaut de Dotnetnuke sera utilisée.</value>
+    <value>Aucun provider activé. La méthode d’authentification par défaut de Dotnetnuke sera utilisée.</value>
   </data>
-  <!---->
 </root>

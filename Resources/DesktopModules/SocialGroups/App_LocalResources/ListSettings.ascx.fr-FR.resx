@@ -12,73 +12,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Module de paramètres de groupe</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Module de paramètres de groupe</value>
   </data>
-  <data name="DefaultRoleGroup.Help">
-    <value xml:space="preserve">Sélectionnez le groupe de rôles qui contient les rôles que vous désirez afficher.</value>
+  <data name="DefaultRoleGroup.Help" xml:space="preserve">
+    <value>Sélectionnez le groupe de rôles qui contient les rôles que vous désirez afficher.</value>
   </data>
-  <data name="DefaultRoleGroup.Text">
-    <value xml:space="preserve">Groupe de rôles par défaut</value>
+  <data name="DefaultRoleGroup.Text" xml:space="preserve">
+    <value>Groupe de rôles par défaut</value>
   </data>
-  <data name="GroupCreatePage.Help">
-    <value xml:space="preserve">Sélectionnez la page où les utilisateurs se rendront pour créer de nouveaux groupes.</value>
+  <data name="GroupCreatePage.Help" xml:space="preserve">
+    <value>Sélectionnez la page où les utilisateurs se rendront pour créer de nouveaux groupes.</value>
   </data>
-  <data name="GroupListEnableSearch.Help">
-    <value xml:space="preserve">Cocher cette case pour permettre à l'utilisateur de filtrer les groupes affichés.</value>
+  <data name="GroupListEnableSearch.Help" xml:space="preserve">
+    <value>Cocher cette case pour permettre à l'utilisateur de filtrer les groupes affichés.</value>
   </data>
-  <data name="GroupListEnableSearch.Text">
-    <value xml:space="preserve">Activer la recherche de groupe</value>
+  <data name="GroupListEnableSearch.Text" xml:space="preserve">
+    <value>Activer la recherche de groupe</value>
   </data>
-  <data name="GroupListPageSize.Help">
-    <value xml:space="preserve">Spécifier le nombre de groupes affichés sur chaque page.</value>
+  <data name="GroupListPageSize.Help" xml:space="preserve">
+    <value>Spécifier le nombre de groupes affichés sur chaque page.</value>
   </data>
-  <data name="GroupListPageSize.Text">
-    <value xml:space="preserve">Groupes affichés par page</value>
+  <data name="GroupListPageSize.Text" xml:space="preserve">
+    <value>Groupes affichés par page</value>
   </data>
-  <data name="GroupListSortDirField.Help">
-    <value xml:space="preserve">Choisir le sens de tri de la liste des groupes.</value>
+  <data name="GroupListSortDirField.Help" xml:space="preserve">
+    <value>Choisir le sens de tri de la liste des groupes.</value>
   </data>
-  <data name="GroupListSortDirField.Text">
-    <value xml:space="preserve">Sens de tri</value>
+  <data name="GroupListSortDirField.Text" xml:space="preserve">
+    <value>Sens de tri</value>
   </data>
-  <data name="GroupListSortField.Help">
-    <value xml:space="preserve">Choisir le champ à utiliser pour trier la liste des groupes</value>
+  <data name="GroupListSortField.Help" xml:space="preserve">
+    <value>Choisir le champ à utiliser pour trier la liste des groupes</value>
   </data>
-  <data name="GroupListSortField.Text">
-    <value xml:space="preserve">Trier la liste par</value>
+  <data name="GroupListSortField.Text" xml:space="preserve">
+    <value>Trier la liste par</value>
   </data>
-  <data name="GroupListTemplateText.Help">
-    <value xml:space="preserve">Vous pouvez modifier le modèle par défaut afin de personnaliser l'affichage de la liste de groupes  Les tokens communs sont : &lt;br /&gt;[groupitem:GroupName]&lt;br /&gt;[groupitem:GroupDescription]&lt;br /&gt;[groupitem:PhotoURL]&lt;br /&gt;[groupviewurl]&lt;br /&gt;</value>
+  <data name="GroupListTemplateText.Help" xml:space="preserve">
+    <value>Vous pouvez modifier le modèle par défaut afin de personnaliser l'affichage de la liste de groupes  Les tokens communs sont : &lt;br /&gt;[groupitem:GroupName]&lt;br /&gt;[groupitem:GroupDescription]&lt;br /&gt;[groupitem:PhotoURL]&lt;br /&gt;[groupviewurl]&lt;br /&gt;</value>
   </data>
-  <data name="GroupListTemplateText.Text">
-    <value xml:space="preserve">Modèle de liste de groupe</value>
+  <data name="GroupListTemplateText.Text" xml:space="preserve">
+    <value>Modèle de liste de groupe</value>
   </data>
-  <data name="GroupListUserGroups.Help">
-    <value xml:space="preserve">Cocher cette case pour afficher uniquement les groupes auxquels appartient l'utilisateur actuel.</value>
+  <data name="GroupListUserGroups.Help" xml:space="preserve">
+    <value>Cocher cette case pour afficher uniquement les groupes auxquels appartient l'utilisateur actuel.</value>
   </data>
-  <data name="GroupListUserGroups.Text">
-    <value xml:space="preserve">Afficher seulement les groupes de l'utilisateur</value>
+  <data name="GroupListUserGroups.Text" xml:space="preserve">
+    <value>Afficher seulement les groupes de l'utilisateur</value>
   </data>
-  <data name="GroupModeration.Help">
-    <value xml:space="preserve">Cocher cette case pour exiger l'approbation de tout nouveau groupe par un modérateur de groupe.</value>
+  <data name="GroupModeration.Help" xml:space="preserve">
+    <value>Cocher cette case pour exiger l'approbation de tout nouveau groupe par un modérateur de groupe.</value>
   </data>
-  <data name="GroupModeration.Text">
-    <value xml:space="preserve">Approbation nécessaire lors de la création d'un groupe</value>
+  <data name="GroupModeration.Text" xml:space="preserve">
+    <value>Approbation nécessaire lors de la création d'un groupe</value>
   </data>
-  <data name="GroupViewPage.Help">
-    <value xml:space="preserve">Sélectionnez la page où les utilisateurs se rendront pour afficher un groupe particulier.</value>
+  <data name="GroupViewPage.Help" xml:space="preserve">
+    <value>Sélectionnez la page où les utilisateurs se rendront pour afficher un groupe particulier.</value>
   </data>
-  <data name="GroupViewTemplateText.Help">
-    <value xml:space="preserve">Vous pouvez modifier le modèle par défaut afin de personnaliser l'affichage de la liste de groupes  Les tokens communs sont : &lt;br /&gt;[groupitem:GroupName]&lt;br /&gt;[groupitem:GroupDescription]&lt;br /&gt;[groupitem:PhotoURL]&lt;br /&gt;[groupviewurl]&lt;br /&gt;</value>
+  <data name="GroupViewTemplateText.Help" xml:space="preserve">
+    <value>Vous pouvez modifier le modèle par défaut afin de personnaliser l'affichage de la liste de groupes  Les tokens communs sont : &lt;br /&gt;[groupitem:GroupName]&lt;br /&gt;[groupitem:GroupDescription]&lt;br /&gt;[groupitem:PhotoURL]&lt;br /&gt;[groupviewurl]&lt;br /&gt;</value>
   </data>
-  <data name="PageSizeValidation.Text">
-    <value xml:space="preserve">Taille de page invalide. (1-9999)</value>
+  <data name="PageSizeValidation.Text" xml:space="preserve">
+    <value>Taille de page invalide. (1-9999)</value>
   </data>
-  <data name="ViewMode.Help">
-    <value xml:space="preserve">Sélectionnez le mode dans lequel le module doit s'afficher.</value>
+  <data name="ViewMode.Help" xml:space="preserve">
+    <value>Sélectionnez le mode dans lequel le module doit s'afficher.</value>
   </data>
-  <data name="ViewMode.Text">
-    <value xml:space="preserve">Module de mode d'affichage</value>
+  <data name="ViewMode.Text" xml:space="preserve">
+    <value>Module de mode d'affichage</value>
   </data>
 </root>

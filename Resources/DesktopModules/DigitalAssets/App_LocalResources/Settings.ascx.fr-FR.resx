@@ -1,34 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-   
-
-  <note></note>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
   <data name="BasicSettings.Text" xml:space="preserve">
-    <value xml:space="preserve">Réglages de base</value>
+    <value>Réglages de base</value>
   </data>
   <data name="DefaultFolderType.Help" xml:space="preserve">
-    <value xml:space="preserve">Définit le type de dossier par défaut à utiliser lorsque vous créez un nouveau dossier dans le dossier racine</value>
+    <value>Définit le type de dossier par défaut à utiliser lorsque vous créez un nouveau dossier dans le dossier racine</value>
   </data>
   <data name="DefaultFolderType.Text" xml:space="preserve">
-    <value xml:space="preserve">Type de dossier par défaut</value>
-  </data>
-  <data name="Group.Text">
-    <value>Groupe</value>
-  </data>
-  <data name="GroupMode.Help" version="deprecated" xml:space="preserve">
-    <value>Le mode dans lequel le module devra fonctionner</value>
-  </data>
-  <data name="GroupMode.Text" version="deprecated">
-    <value>Mode</value>
-  </data>
-  <data name="Normal.Text">
-    <value>Normal</value>
-  </data>
-  <data name="RootFolder.Help" version="deprecated" xml:space="preserve">
-    <value>Définir le dossier sélectionné comme dossier racine pour cette instance de module</value>
-  </data>
-  <data name="RootFolder.Text" version="deprecated" xml:space="preserve">
-    <value>Dossier racine</value>
+    <value>Type de dossier par défaut</value>
   </data>
   <data name="ExcludeSubfolders.Text" xml:space="preserve">
     <value>Exclure des sous-dossiers</value>
@@ -36,7 +27,7 @@
   <data name="ExcludeSubfoldersLabel.Help" xml:space="preserve">
     <value>Si cochée, le module affichera uniquement les fichiers et les fichiers dans les sous-dossiers, mais il n'affichera pas les sous-dossiers.</value>
   </data>
-  <data name="ExcludeSubfoldersLabel.Text">
+  <data name="ExcludeSubfoldersLabel.Text" xml:space="preserve">
     <value>&amp;nbsp;</value>
   </data>
   <data name="FilterByFolder.Text" xml:space="preserve">
@@ -44,6 +35,9 @@
   </data>
   <data name="FolderMustBeSelected.ErrorMessage" xml:space="preserve">
     <value>Un dossier doit être sélectionné lorsque l'option « Filtre de dossier » est cochée</value>
+  </data>
+  <data name="Group.Text" xml:space="preserve">
+    <value>Groupe</value>
   </data>
   <data name="IncludeSubfoldersFilesOnly.Text" xml:space="preserve">
     <value>Inclure les sous-dossiers (fichiers uniquement)</value>
@@ -54,13 +48,16 @@
   <data name="Mode.Help" xml:space="preserve">
     <value>Le mode dans lequel le module devra fonctionner</value>
   </data>
-  <data name="Mode.Text">
+  <data name="Mode.Text" xml:space="preserve">
     <value>Mode</value>
+  </data>
+  <data name="Normal.Text" xml:space="preserve">
+    <value>Normal</value>
   </data>
   <data name="NoSet.Text" xml:space="preserve">
     <value>Aucun ensemble</value>
   </data>
-  <data name="User.Text">
+  <data name="User.Text" xml:space="preserve">
     <value>Utilisateur</value>
   </data>
   <data name="ViewCondition.Help" xml:space="preserve">
@@ -69,5 +66,4 @@
   <data name="ViewCondition.Text" xml:space="preserve">
     <value>Définir les options à appliquer</value>
   </data>
-  
 </root>

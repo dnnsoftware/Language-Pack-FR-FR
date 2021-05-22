@@ -12,28 +12,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdCancel.Text">
-    <value xml:space="preserve">Annuler</value>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>Annuler</value>
   </data>
-  <data name="cmdNewMapping.Text">
-    <value xml:space="preserve">Ajouter un type</value>
+  <data name="cmdNewMapping.Text" xml:space="preserve">
+    <value>Ajouter un type</value>
   </data>
-  <data name="ControlTitle_foldermappings.Text">
-    <value xml:space="preserve">Types de dossiers</value>
+  <data name="ControlTitle_foldermappings.Text" xml:space="preserve">
+    <value>Types de dossiers</value>
   </data>
-  <data name="DeleteConfirm.Text">
-    <value xml:space="preserve">Êtes-vous sûr de vouloir supprimer le type de dossier : {0} ?</value>
+  <data name="DeleteConfirm.Text" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir supprimer le type de dossier : {0} ?</value>
   </data>
-  <data name="Description.Text">
-    <value xml:space="preserve">Gérer les types de dossiers disponibles sur ce site. Les types par défaut - Standard, Sécurisé et Base de données - ne peuvent être modifiés ou supprimés. Les autres peuvent être triés en les sélectionnant et en les déplaçant à la position désirée. Cela sera pris en considération durant la résolution des conflits lors des synchronisations de dossiers.</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Gérer les types de dossiers disponibles sur ce site. Les types par défaut - Standard, Sécurisé et Base de données - ne peuvent être modifiés ou supprimés. Les autres peuvent être triés en les sélectionnant et en les déplaçant à la position désirée. Cela sera pris en considération durant la résolution des conflits lors des synchronisations de dossiers.</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Nom</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Nom</value>
   </data>
-  <data name="TableHeader.Text">
-    <value xml:space="preserve">Définitions des types de dossiers</value>
+  <data name="TableHeader.Text" xml:space="preserve">
+    <value>Définitions des types de dossiers</value>
   </data>
-  <data name="Type.Header">
-    <value xml:space="preserve">Provider de dossier</value>
+  <data name="Type.Header" xml:space="preserve">
+    <value>Provider de dossier</value>
   </data>
 </root>

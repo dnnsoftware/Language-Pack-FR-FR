@@ -12,23 +12,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdCreate.Text">
-    <value xml:space="preserve">Créer le module</value>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>Créer le module</value>
   </data>
-  <data name="ControlTitle_createmodule.Text">
-    <value xml:space="preserve">Créer le module</value>
+  <data name="ControlTitle_createmodule.Text" xml:space="preserve">
+    <value>Créer le module</value>
   </data>
-  <data name="FolderExists.Text">
-    <value xml:space="preserve">Le dossier que vous avez sélectionné existe déjà. Veuillez choisir un autre nom.</value>
+  <data name="FolderExists.Text" xml:space="preserve">
+    <value>Le dossier que vous avez sélectionné existe déjà. Veuillez choisir un autre nom.</value>
   </data>
-  <data name="ImportControl.ErrorMessage">
-    <value xml:space="preserve">Il y a eu une erreur lors de l'importation du contrôle du module, veuillez consulter le journal des événements pour plus de détails.</value>
+  <data name="ImportControl.ErrorMessage" xml:space="preserve">
+    <value>Il y a eu une erreur lors de l'importation du contrôle du module, veuillez consulter le journal des événements pour plus de détails.</value>
   </data>
-  <data name="ManifestCreationError.Text">
-    <value xml:space="preserve">Il y a eu une erreur inattendue lors de la création du manifeste. Vérifiez l'observateur d'événements pour plus d'informations.</value>
+  <data name="ManifestCreationError.Text" xml:space="preserve">
+    <value>Il y a eu une erreur inattendue lors de la création du manifeste. Vérifiez l'observateur d'événements pour plus d'informations.</value>
   </data>
-  <data name="ManifestText.Text">
-    <value xml:space="preserve">&lt;dotnetnuke type="Package" version="5.0"&gt;
+  <data name="ManifestText.Text" xml:space="preserve">
+    <value>&lt;dotnetnuke type="Package" version="5.0"&gt;
   &lt;packages&gt;
     &lt;package name="{0}" type="Module" version="01.00.00"&gt;
       &lt;friendlyName&gt;{0}&lt;/friendlyName&gt;
@@ -171,61 +171,61 @@
   &lt;/packages&gt;
 &lt;/dotnetnuke&gt;</value>
   </data>
-  <data name="ModuleControlCreationError.Text">
-    <value xml:space="preserve">Il y a eu une erreur lors de la création du contrôle de module. Vérifiez l'observateur d'événements pour plus d'informations.</value>
+  <data name="ModuleControlCreationError.Text" xml:space="preserve">
+    <value>Il y a eu une erreur lors de la création du contrôle de module. Vérifiez l'observateur d'événements pour plus d'informations.</value>
   </data>
-  <data name="ModuleControlText.Text">
-    <value xml:space="preserve">&lt;%@ Control AutoEventWireup="false" Inherits="DotNetNuke.Web.Razor.RazorModuleBase" %&gt;</value>
+  <data name="ModuleControlText.Text" xml:space="preserve">
+    <value>&lt;%@ Control AutoEventWireup="false" Inherits="DotNetNuke.Web.Razor.RazorModuleBase" %&gt;</value>
   </data>
-  <data name="plAddPage.Help">
-    <value xml:space="preserve">Cocher cette case afin de créer une page de test pour votre nouveau module.</value>
+  <data name="plAddPage.Help" xml:space="preserve">
+    <value>Cocher cette case afin de créer une page de test pour votre nouveau module.</value>
   </data>
-  <data name="plAddPage.Text">
-    <value xml:space="preserve">Ajouter une page de test ?</value>
+  <data name="plAddPage.Text" xml:space="preserve">
+    <value>Ajouter une page de test ?</value>
   </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Vous pouvez spécifier une description pour votre module.</value>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Vous pouvez spécifier une description pour votre module.</value>
   </data>
-  <data name="plDescription.Text">
-    <value xml:space="preserve">Description :</value>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Description :</value>
   </data>
-  <data name="plFolder.Help">
-    <value xml:space="preserve">Entrer le nom du dossier pour ce nouveau module. Ce dossier sera créé dans "DesktopModules/RazorModules".</value>
+  <data name="plFolder.Help" xml:space="preserve">
+    <value>Entrer le nom du dossier pour ce nouveau module. Ce dossier sera créé dans "DesktopModules/RazorModules".</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Dossier :</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Dossier :</value>
   </data>
-  <data name="plName.Help">
-    <value xml:space="preserve">Entrer un nom convivial pour votre module.</value>
+  <data name="plName.Help" xml:space="preserve">
+    <value>Entrer un nom convivial pour votre module.</value>
   </data>
-  <data name="plName.Text">
-    <value xml:space="preserve">Nom du module :</value>
+  <data name="plName.Text" xml:space="preserve">
+    <value>Nom du module :</value>
   </data>
-  <data name="plSource.Text">
-    <value xml:space="preserve">Source du script :</value>
+  <data name="plSource.Text" xml:space="preserve">
+    <value>Source du script :</value>
   </data>
-  <data name="ScriptCopyError.Text">
-    <value xml:space="preserve">Il y a eu une erreur inattendue lors de la copie du script dans le dossier cible. Vérifiez l'observateur d'événements pour plus d'informations.</value>
+  <data name="ScriptCopyError.Text" xml:space="preserve">
+    <value>Il y a eu une erreur inattendue lors de la copie du script dans le dossier cible. Vérifiez l'observateur d'événements pour plus d'informations.</value>
   </data>
-  <data name="scriptsLabel.Help">
-    <value xml:space="preserve">Sélectionner le script que vous souhaitez utiliser dans la liste.</value>
+  <data name="scriptsLabel.Help" xml:space="preserve">
+    <value>Sélectionner le script que vous souhaitez utiliser dans la liste.</value>
   </data>
-  <data name="scriptsLabel.Text">
-    <value xml:space="preserve">Sélectionner le script :</value>
+  <data name="scriptsLabel.Text" xml:space="preserve">
+    <value>Sélectionner le script :</value>
   </data>
-  <data name="SourceControl.Text">
-    <value xml:space="preserve">Contrôle du module - {0}</value>
+  <data name="SourceControl.Text" xml:space="preserve">
+    <value>Contrôle du module - {0}</value>
   </data>
-  <data name="SourceFile.Text">
-    <value xml:space="preserve">Source du script - {0}</value>
+  <data name="SourceFile.Text" xml:space="preserve">
+    <value>Source du script - {0}</value>
   </data>
-  <data name="TabExists.Text">
-    <value xml:space="preserve">Le nom de page existe pour le nom de ce module. Le module a été créé mais la page de test n'a pu être générée.</value>
+  <data name="TabExists.Text" xml:space="preserve">
+    <value>Le nom de page existe pour le nom de ce module. Le module a été créé mais la page de test n'a pu être générée.</value>
   </data>
-  <data name="valFolder.Text">
-    <value xml:space="preserve">Le dossier est requis.&lt;br/&gt;</value>
+  <data name="valFolder.Text" xml:space="preserve">
+    <value>Le dossier est requis.&lt;br/&gt;</value>
   </data>
-  <data name="valName.Text">
-    <value xml:space="preserve">Le nom est requis.&lt;br/&gt;</value>
+  <data name="valName.Text" xml:space="preserve">
+    <value>Le nom est requis.&lt;br/&gt;</value>
   </data>
 </root>

@@ -15,11 +15,10 @@
   <data name="AddModule.Tooltip" xml:space="preserve">
     <value>Ajouter le module</value>
   </data>
-  <data name="Close.Text">
+  <data name="Close.Text" xml:space="preserve">
     <value>Fermer</value>
   </data>
-  <data name="Edit.Text">
+  <data name="Edit.Text" xml:space="preserve">
     <value>Modifier</value>
   </data>
-  <!---->
 </root>

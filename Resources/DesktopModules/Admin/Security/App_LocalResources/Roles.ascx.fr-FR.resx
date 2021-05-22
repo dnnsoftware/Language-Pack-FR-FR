@@ -12,55 +12,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Nouveau rôle</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Nouveau rôle</value>
   </data>
-  <data name="AddGroup.Action">
-    <value xml:space="preserve">Nouveau groupe de rôles</value>
+  <data name="AddGroup.Action" xml:space="preserve">
+    <value>Nouveau groupe de rôles</value>
   </data>
-  <data name="Auto.Header">
-    <value xml:space="preserve">Auto.</value>
+  <data name="Auto.Header" xml:space="preserve">
+    <value>Auto.</value>
   </data>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Gestion des rôles</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Gestion des rôles</value>
   </data>
-  <data name="Description.Header">
-    <value xml:space="preserve">Description</value>
+  <data name="Description.Header" xml:space="preserve">
+    <value>Description</value>
   </data>
-  <data name="Every.Header">
-    <value xml:space="preserve">Chaque</value>
+  <data name="Every.Header" xml:space="preserve">
+    <value>Chaque</value>
   </data>
-  <data name="Fee.Header">
-    <value xml:space="preserve">Montant</value>
+  <data name="Fee.Header" xml:space="preserve">
+    <value>Montant</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;A propos des rôles&lt;/h1&gt;&lt;p&gt;Cet outil permet à l'administrateur de gérer les rôles de sécurité du site.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;A propos des rôles&lt;/h1&gt;&lt;p&gt;Cet outil permet à l'administrateur de gérer les rôles de sécurité du site.&lt;/p&gt;</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Nom</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Nom</value>
   </data>
-  <data name="Period.Header">
-    <value xml:space="preserve">Périodicité</value>
+  <data name="Period.Header" xml:space="preserve">
+    <value>Périodicité</value>
   </data>
-  <data name="plRoleGroups.Help">
-    <value xml:space="preserve">Sélectionnez le groupe de rôles à afficher</value>
+  <data name="plRoleGroups.Help" xml:space="preserve">
+    <value>Sélectionnez le groupe de rôles à afficher</value>
   </data>
-  <data name="plRoleGroups.Text">
-    <value xml:space="preserve">Groupe de rôles :</value>
+  <data name="plRoleGroups.Text" xml:space="preserve">
+    <value>Groupe de rôles :</value>
   </data>
-  <data name="Public.Header">
-    <value xml:space="preserve">Public</value>
+  <data name="Public.Header" xml:space="preserve">
+    <value>Public</value>
   </data>
-  <data name="Trial.Header">
-    <value xml:space="preserve">Essai</value>
+  <data name="Trial.Header" xml:space="preserve">
+    <value>Essai</value>
   </data>
-  <data name="UserCount.Header">
-    <value xml:space="preserve">Utilisateurs</value>
+  <data name="UserCount.Header" xml:space="preserve">
+    <value>Utilisateurs</value>
   </data>
-  <data name="UserRoles.Text">
-    <value xml:space="preserve">Gérer les utilisateurs</value>
+  <data name="UserRoles.Text" xml:space="preserve">
+    <value>Gérer les utilisateurs</value>
   </data>
-  <data name="UserSettings.Action">
-    <value xml:space="preserve">Paramètres utilisateurs</value>
+  <data name="UserSettings.Action" xml:space="preserve">
+    <value>Paramètres utilisateurs</value>
   </data>
 </root>

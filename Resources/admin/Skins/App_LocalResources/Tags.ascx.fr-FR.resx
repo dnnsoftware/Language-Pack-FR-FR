@@ -13,28 +13,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Add.Text" xml:space="preserve">
-    <value xml:space="preserve">Ajouter des étiquettes</value>
+    <value>Ajouter des étiquettes</value>
   </data>
   <data name="Add.ToolTip" xml:space="preserve">
-    <value xml:space="preserve">Cliquer ici pour ajouter des étiquettes.</value>
+    <value>Cliquer ici pour ajouter des étiquettes.</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Annuler</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuler</value>
   </data>
   <data name="Cancel.ToolTip" xml:space="preserve">
-    <value xml:space="preserve">Cliquer pour annuler l'opération sans enregistrer.</value>
+    <value>Cliquer pour annuler l'opération sans enregistrer.</value>
   </data>
-  <data name="Category.ToolTip">
-    <value xml:space="preserve">Catégories</value>
+  <data name="Category.ToolTip" xml:space="preserve">
+    <value>Catégories</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Enregistrer</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Enregistrer</value>
   </data>
   <data name="Save.ToolTip" xml:space="preserve">
-    <value xml:space="preserve">Cliquer pour enregistrer.</value>
+    <value>Cliquer pour enregistrer.</value>
   </data>
-  <data name="Tag.ToolTip">
-    <value xml:space="preserve">Étiquettes</value>
+  <data name="Tag.ToolTip" xml:space="preserve">
+    <value>Étiquettes</value>
   </data>
-  <!---->
 </root>
