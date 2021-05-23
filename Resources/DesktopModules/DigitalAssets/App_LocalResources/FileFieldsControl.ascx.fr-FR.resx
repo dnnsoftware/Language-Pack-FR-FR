@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FileAttrbutesLabel.Help">
-    <value xml:space="preserve">Modifier les attributs du fichier</value>
+  <data name="FileAttrbutesLabel.Help" xml:space="preserve">
+    <value>Modifier les attributs du fichier</value>
   </data>
-  <data name="FileAttributeArchive.Text">
-    <value xml:space="preserve">Archive</value>
+  <data name="FileAttributeArchive.Text" xml:space="preserve">
+    <value>Archive</value>
   </data>
-  <data name="FileAttributeHidden.Text">
-    <value xml:space="preserve">Caché</value>
+  <data name="FileAttributeHidden.Text" xml:space="preserve">
+    <value>Caché</value>
   </data>
-  <data name="FileAttributeReadonly.Text">
-    <value xml:space="preserve">Lecture seule</value>
+  <data name="FileAttributeReadonly.Text" xml:space="preserve">
+    <value>Lecture seule</value>
   </data>
-  <data name="FileAttributesLabel.Text">
-    <value xml:space="preserve">Attributs</value>
+  <data name="FileAttributesLabel.Text" xml:space="preserve">
+    <value>Attributs</value>
   </data>
-  <data name="FileAttributeSystem.Text">
-    <value xml:space="preserve">Système</value>
+  <data name="FileAttributeSystem.Text" xml:space="preserve">
+    <value>Système</value>
   </data>
-  <data name="FileNameLabel.Help">
-    <value xml:space="preserve">Modifier le nom du fichier actuel</value>
+  <data name="FileNameLabel.Help" xml:space="preserve">
+    <value>Modifier le nom du fichier actuel</value>
   </data>
-  <data name="FileNameLabel.Text">
-    <value xml:space="preserve">Nom</value>
+  <data name="FileNameLabel.Text" xml:space="preserve">
+    <value>Nom</value>
   </data>
-  <data name="FileNameRequired.ErrorMessage">
-    <value xml:space="preserve">Nom de fichier nécessaire</value>
+  <data name="FileNameRequired.ErrorMessage" xml:space="preserve">
+    <value>Nom de fichier nécessaire</value>
   </data>
 </root>

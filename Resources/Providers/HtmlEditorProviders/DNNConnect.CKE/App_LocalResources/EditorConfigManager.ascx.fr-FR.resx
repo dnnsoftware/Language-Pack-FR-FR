@@ -12,23 +12,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System">
+  <data name="$this.DefaultModifiers" xml:space="preserve">
     <value>Privé</value>
   </data>
-  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib">
-    <value>Faux</value>
-  </data>
-  <data name="$this.TrayAutoArrange" type="System.Boolean, mscorlib">
+  <data name="$this.TrayAutoArrange" xml:space="preserve">
     <value>Vrai</value>
   </data>
-  <data name="EditorMangerPageName.Text" xml:space="preserve">
-    <value>Gestionnaire d'éditeur HTML</value>
-  </data>
-  <data name="EditorMangerPageDescription.Text" xml:space="preserve">
-    <value>Fournit des options de configuration pour le fournisseur de l'éditeur HTML.</value>
+  <data name="$this.TrayLargeIcon" xml:space="preserve">
+    <value>Faux</value>
   </data>
   <data name="EditorMangerName.Text" xml:space="preserve">
     <value>Gestionnaire de configuration pour CKEditor</value>
   </data>
-  <!---->
+  <data name="EditorMangerPageDescription.Text" xml:space="preserve">
+    <value>Fournit des options de configuration pour le fournisseur de l'éditeur HTML.</value>
+  </data>
+  <data name="EditorMangerPageName.Text" xml:space="preserve">
+    <value>Gestionnaire d'éditeur HTML</value>
+  </data>
 </root>

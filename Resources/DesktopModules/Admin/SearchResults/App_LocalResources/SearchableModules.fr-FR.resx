@@ -12,44 +12,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="All.Text">
-    <value xml:space="preserve">Tous</value>
+  <data name="All.Text" xml:space="preserve">
+    <value>Tous</value>
   </data>
-  <data name="Crawler_document.Text" version="deprecated">
-    <value xml:space="preserve">Documents</value>
+  <data name="Crawler_tab.Text" xml:space="preserve">
+    <value>Pages</value>
   </data>
-  <data name="Crawler_file.Text" version="deprecated">
-    <value xml:space="preserve">Documents</value>
-  </data>
-  <data name="Crawler_tab.Text">
-    <value xml:space="preserve">Pages</value>
-  </data>
-  <data name="Crawler_url.Text" version="deprecated">
-    <value xml:space="preserve">Pages</value>
-  </data>
-  <data name="Module_Answers.Text">
-    <value xml:space="preserve">Réponses</value>
-  </data>
-  <data name="Module_Blogs.Text">
-    <value xml:space="preserve">Blogs</value>
-  </data>
-  <data name="Module_Events.Text">
-    <value xml:space="preserve">Événements</value>
-  </data>
-  <data name="Module_Ideas.Text">
-    <value xml:space="preserve">Idées</value>
-  </data>
-  <data name="Module_Text/HTML.Text">
-    <value xml:space="preserve">Pages</value>
-  </data>
-  <data name="Crawler_user.Text">
+  <data name="Crawler_user.Text" xml:space="preserve">
     <value>Utilisateurs</value>
   </data>
-  <data name="Module_Journal.Text">
-    <value>Journal</value>
+  <data name="Module_Answers.Text" xml:space="preserve">
+    <value>Réponses</value>
+  </data>
+  <data name="Module_Blogs.Text" xml:space="preserve">
+    <value>Blogs</value>
+  </data>
+  <data name="Module_Events.Text" xml:space="preserve">
+    <value>Événements</value>
   </data>
   <data name="Module_Group Directory.Text" xml:space="preserve">
     <value>Répertoire du groupe</value>
   </data>
-  <!---->
+  <data name="Module_Ideas.Text" xml:space="preserve">
+    <value>Idées</value>
+  </data>
+  <data name="Module_Journal.Text" xml:space="preserve">
+    <value>Journal</value>
+  </data>
+  <data name="Module_Text/HTML.Text" xml:space="preserve">
+    <value>Pages</value>
+  </data>
 </root>

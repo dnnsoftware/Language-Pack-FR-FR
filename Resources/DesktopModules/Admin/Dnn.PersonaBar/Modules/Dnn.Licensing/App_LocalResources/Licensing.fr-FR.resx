@@ -12,80 +12,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="nav_Licensing.Text" xml:space="preserve">
-    <value>A propos</value>
-  </data>
-  <data name="NoLicense.Header" xml:space="preserve">
-    <value>Vous n'avez pas encore de licence EVOQ...</value>
-  </data>
-  <data name="NoLicense.Text" xml:space="preserve">
-    <value>Mettre à niveau vers EVOQ ci-dessous pour accéder aux fonctionnalités professionnelles pour vos sites.</value>
-  </data>
-  <data name="LicenseType.Header" xml:space="preserve">
-    <value>TYPE DE LICENCE</value>
-  </data>
-  <data name="InvoiceNumber.Header" xml:space="preserve">
-    <value>NUMÉRO DE LA FACTURE</value>
-  </data>
-  <data name="WebServer.Header" xml:space="preserve">
-    <value>SERVEUR WEB</value>
-  </data>
-  <data name="Activated.Header">
+  <data name="Activated.Header" xml:space="preserve">
     <value>ACTIVÉ</value>
-  </data>
-  <data name="Expires.Header">
-    <value>EXPIRE</value>
-  </data>
-  <data name="CheckOutEvoq.Header" xml:space="preserve">
-    <value>DÉCOUVREZ EVOQ</value>
-  </data>
-  <data name="CheckOutEvoq" xml:space="preserve">
-    <value>Evoq fournit un ensemble complet de fonctionnalités que votre équipe entière utilisera et aimera. De nombreuses organisations à travers le monde comptent sur Evoq pour offrir de puissantes expériences web.</value>
-  </data>
-  <data name="UpgradeToEvoq.Header" xml:space="preserve">
-    <value>MISE À NIVEAU</value>
-  </data>
-  <data name="UpgradeToEvoq" xml:space="preserve">
-    <value>Prêt à passer votre présence web au niveau supérieur ? Démarrez sur une version d'évaluation gratuite ou planifiez une démo personnalisée pour votre équipe.</value>
-  </data>
-  <data name="DocumentCenter.Header" xml:space="preserve">
-    <value>CENTRE DE DOCUMENTATION</value>
-  </data>
-  <data name="DocumentCenter" xml:space="preserve">
-    <value>Peu importe vos questions, le nouveau "Centre de documentation" de DNN est l'outil idéal pour trouver des réponses, des tutoriels et de l'aide sur notre produit.</value>
-  </data>
-  <data name="LicenseType.Development">
-    <value>Développement</value>
-  </data>
-  <data name="LicenseType.Production">
-    <value>Production</value>
-  </data>
-  <data name="LicenseType.Failover">
-    <value>Basculement/failover</value>
-  </data>
-  <data name="LicenseType.Staging">
-    <value>Staging</value>
-  </data>
-  <data name="LicenseType.Test">
-    <value>Test</value>
-  </data>
-  <data name="Error.Unknown.Activation" xml:space="preserve">
-    <value>Impossible de traiter votre demande, merci de réessayer plus tard ou de l’activer manuellement.</value>
-  </data>
-  <data name="Error.LicenseAlreadyExists" xml:space="preserve">
-    <value>L’activation de la licence a échoué. Le serveur hôte {0} possède déjà une licence {1}.</value>
-  </data>
-  <data name="Error.ContactServer.activate" xml:space="preserve">
-    <value>Impossible d'activer la licence. La connexion au serveur de licence a échoué. Veuillez réessayer plus tard ou l’activer manuellement. Si vous continuez à avoir des difficultés, merci de contacter le support technique.</value>
-  </data>
-  <data name="Error.ContactServer.canrenew" xml:space="preserve">
-    <value>La connexion au serveur de licence a échoué. Vous ne pourrez pas activer ou renouveler automatiquement les licences. Pour une activation, vous pouvez le faire manuellement. &lt;br /&gt; &lt;br /&gt; Pour un renouvellement de licence contactez &lt;a href="mailto:customercare@dnnsoftware.com"&gt; customercare@dnnsoftware.com &lt;/ a&gt;.</value>
-  </data>
-  <data name="Error.ContactServer.deactivate" xml:space="preserve">
-    <value>Votre licence a été supprimée. Il est impossible d’ajouter une activation de licence sur votre facture car la connexion au serveur  de licence a échoué.</value>
-  </data>
-  <data name="Error.ContactServer.renew" xml:space="preserve">
-    <value>Impossible de renouveler la licence. La connexion au serveur de licence a échoué. Merci d’essayer plus tard ou de contacter  contact &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercase@dnnsoftware.com&lt;/a&gt;</value>
   </data>
   <data name="Error.ACT1.Text" xml:space="preserve">
     <value>L’activation de la licence a échoué. Les informations fournies ne correspondent pas à une licence valide. .&lt;br /&gt;&lt;br /&gt; Veuillez vérifier sur la page &lt;a href="{0}" target="_blank"&gt; de dnnsoftware.com&lt;/a&gt; et essayez à nouveau. Veuillez contacter le support technique en cas de difficultés.</value>
@@ -102,17 +30,65 @@
   <data name="Error.ACT6.Text" xml:space="preserve">
     <value>L’activation de la licence a échoué. La validité pour cette licence a expirée le {0:d}. Merci de contacter &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
+  <data name="Error.ContactServer.activate" xml:space="preserve">
+    <value>Impossible d'activer la licence. La connexion au serveur de licence a échoué. Veuillez réessayer plus tard ou l’activer manuellement. Si vous continuez à avoir des difficultés, merci de contacter le support technique.</value>
+  </data>
+  <data name="Error.ContactServer.canrenew" xml:space="preserve">
+    <value>La connexion au serveur de licence a échoué. Vous ne pourrez pas activer ou renouveler automatiquement les licences. Pour une activation, vous pouvez le faire manuellement. &lt;br /&gt; &lt;br /&gt; Pour un renouvellement de licence contactez &lt;a href="mailto:customercare@dnnsoftware.com"&gt; customercare@dnnsoftware.com &lt;/ a&gt;.</value>
+  </data>
+  <data name="Error.ContactServer.deactivate" xml:space="preserve">
+    <value>Votre licence a été supprimée. Il est impossible d’ajouter une activation de licence sur votre facture car la connexion au serveur  de licence a échoué.</value>
+  </data>
+  <data name="Error.ContactServer.renew" xml:space="preserve">
+    <value>Impossible de renouveler la licence. La connexion au serveur de licence a échoué. Merci d’essayer plus tard ou de contacter  contact &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercase@dnnsoftware.com&lt;/a&gt;</value>
+  </data>
   <data name="Error.DEA1.Text" xml:space="preserve">
     <value>La suppression de la licence a échoué. La licence n’a pas été trouvée.</value>
   </data>
-  <data name="WebLicenseList.url">
-    <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
+  <data name="Error.ExpiredLicense" xml:space="preserve">
+    <value>L’activation de la licence a échoué. Votre licence expire dans {0:d}. Vérifiez vos licences sur &lt;a href="{1}" target="_blank"&gt; la page de dnnsoftware.com&lt;/a&gt;. Veuillez-vous connecter  avec le compte fourni lors de l’achat de votre produit.</value>
+  </data>
+  <data name="Error.LicenseAlreadyExists" xml:space="preserve">
+    <value>L’activation de la licence a échoué. Le serveur hôte {0} possède déjà une licence {1}.</value>
   </data>
   <data name="Error.Unknown" xml:space="preserve">
     <value>Impossible de traiter votre demande, merci de réessayer plus tard.</value>
   </data>
-  <data name="Error.ExpiredLicense" xml:space="preserve">
-    <value>L’activation de la licence a échoué. Votre licence expire dans {0:d}. Vérifiez vos licences sur &lt;a href="{1}" target="_blank"&gt; la page de dnnsoftware.com&lt;/a&gt;. Veuillez-vous connecter  avec le compte fourni lors de l’achat de votre produit.</value>
+  <data name="Error.Unknown.Activation" xml:space="preserve">
+    <value>Impossible de traiter votre demande, merci de réessayer plus tard ou de l’activer manuellement.</value>
+  </data>
+  <data name="Expires.Header" xml:space="preserve">
+    <value>EXPIRE</value>
+  </data>
+  <data name="InvoiceNumber.Header" xml:space="preserve">
+    <value>NUMÉRO DE LA FACTURE</value>
+  </data>
+  <data name="LicenseType.Development" xml:space="preserve">
+    <value>Développement</value>
+  </data>
+  <data name="LicenseType.Failover" xml:space="preserve">
+    <value>Basculement/failover</value>
+  </data>
+  <data name="LicenseType.Header" xml:space="preserve">
+    <value>TYPE DE LICENCE</value>
+  </data>
+  <data name="LicenseType.Production" xml:space="preserve">
+    <value>Production</value>
+  </data>
+  <data name="LicenseType.Staging" xml:space="preserve">
+    <value>Staging</value>
+  </data>
+  <data name="LicenseType.Test" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="nav_Licensing.Text" xml:space="preserve">
+    <value>A propos</value>
+  </data>
+  <data name="NoLicense.Header" xml:space="preserve">
+    <value>Vous n'avez pas encore de licence EVOQ...</value>
+  </data>
+  <data name="NoLicense.Text" xml:space="preserve">
+    <value>Mettre à niveau vers EVOQ ci-dessous pour accéder aux fonctionnalités professionnelles pour vos sites.</value>
   </data>
   <data name="Success.DevLicenseActivated" xml:space="preserve">
     <value>La licence de développement a été activée avec succès.</value>
@@ -147,5 +123,10 @@
   <data name="Success.TrialExtensionRequest" xml:space="preserve">
     <value>Votre demande de licence d’essai prolongé  a été envoyée. Vous devriez recevoir un email d’ici 1 jour ouvrable avec les instructions nécessaires. Si vous avez des questions sur les extensions de licence d’évaluation, merci de téléphoner au service facturation de DNN Corp. au 650-288-3150.</value>
   </data>
-  <!---->
+  <data name="WebLicenseList.url" xml:space="preserve">
+    <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
+  </data>
+  <data name="WebServer.Header" xml:space="preserve">
+    <value>SERVEUR WEB</value>
+  </data>
 </root>

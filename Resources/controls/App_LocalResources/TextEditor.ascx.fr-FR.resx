@@ -12,43 +12,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BasicTextBox.Text">
-    <value xml:space="preserve">Texte simple</value>
+  <data name="BasicTextBox.Text" xml:space="preserve">
+    <value>Texte simple</value>
   </data>
-  <data name="CompareListDefaultOption.Text">
-    <value xml:space="preserve">Comparer</value>
+  <data name="CompareListDefaultOption.Text" xml:space="preserve">
+    <value>Comparer</value>
   </data>
-  <data name="EditorTitleLabel.Text">
-    <value xml:space="preserve">Editeur {0}</value>
+  <data name="EditorTitleLabel.Text" xml:space="preserve">
+    <value>Editeur {0}</value>
   </data>
-  <data name="Html.Text">
-    <value xml:space="preserve">HTML</value>
+  <data name="Html.Text" xml:space="preserve">
+    <value>HTML</value>
   </data>
-  <data name="plRender.Help">
-    <value xml:space="preserve">Sélectionner le mode utilisé pour l'affichage de l'HTML</value>
+  <data name="plRender.Help" xml:space="preserve">
+    <value>Sélectionner le mode utilisé pour l'affichage de l'HTML</value>
   </data>
-  <data name="plRender.Text">
-    <value xml:space="preserve">Mode d'affichage :</value>
+  <data name="plRender.Text" xml:space="preserve">
+    <value>Mode d'affichage :</value>
   </data>
-  <data name="plView.Help">
-    <value xml:space="preserve">Sélectionnez l'éditeur à utiliser</value>
+  <data name="plView.Help" xml:space="preserve">
+    <value>Sélectionnez l'éditeur à utiliser</value>
   </data>
-  <data name="plView.Text">
-    <value xml:space="preserve">Editeur :</value>
+  <data name="plView.Text" xml:space="preserve">
+    <value>Editeur :</value>
   </data>
-  <data name="Raw.Text">
-    <value xml:space="preserve">Brut</value>
+  <data name="Raw.Text" xml:space="preserve">
+    <value>Brut</value>
   </data>
-  <data name="RichTextBox.Text">
-    <value xml:space="preserve">Texte enrichi</value>
+  <data name="RichTextBox.Text" xml:space="preserve">
+    <value>Texte enrichi</value>
   </data>
-  <data name="Text.Text">
-    <value xml:space="preserve">Texte</value>
+  <data name="Text.Text" xml:space="preserve">
+    <value>Texte</value>
   </data>
-  <data name="VersionLabel.Text">
-    <value xml:space="preserve">Version {0}</value>
+  <data name="VersionLabel.Text" xml:space="preserve">
+    <value>Version {0}</value>
   </data>
-  <data name="VersionListDefaultOption.Text">
-    <value xml:space="preserve">Version</value>
+  <data name="VersionListDefaultOption.Text" xml:space="preserve">
+    <value>Version</value>
   </data>
 </root>

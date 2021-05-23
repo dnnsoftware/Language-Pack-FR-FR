@@ -1,73 +1,81 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-   
-
-  <note></note>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
   <data name="AddContent.Action" xml:space="preserve">
-    <value xml:space="preserve">Nouvelle propriété de profil</value>
+    <value>Nouvelle propriété de profil</value>
   </data>
-  <data name="Category.Header">
-    <value xml:space="preserve">Catégorie</value>
+  <data name="Category.Header" xml:space="preserve">
+    <value>Catégorie</value>
   </data>
   <data name="cmdApply.Text" xml:space="preserve">
-    <value xml:space="preserve">Appliquer les modifications</value>
+    <value>Appliquer les modifications</value>
   </data>
-  <data name="cmdRefresh.Text">
-    <value xml:space="preserve">Rafraichir</value>
+  <data name="cmdRefresh.Text" xml:space="preserve">
+    <value>Rafraichir</value>
   </data>
   <data name="ControlTitle_manageprofile.Text" xml:space="preserve">
-    <value xml:space="preserve">Gestion des propriétés de profil</value>
+    <value>Gestion des propriétés de profil</value>
   </data>
   <data name="DataType.Header" xml:space="preserve">
-    <value xml:space="preserve">Type de données</value>
+    <value>Type de données</value>
   </data>
   <data name="DefaultValue.Header" xml:space="preserve">
-    <value xml:space="preserve">Valeur par défaut</value>
+    <value>Valeur par défaut</value>
   </data>
   <data name="DefaultVisibility.Header" xml:space="preserve">
-    <value xml:space="preserve">Visibilité par défaut</value>
+    <value>Visibilité par défaut</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">Supprimer</value>
+  <data name="Del.Header" xml:space="preserve">
+    <value>&amp;nbsp;</value>
   </data>
-  <data name="Edit.Text">
-    <value xml:space="preserve">Editer</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Supprimer</value>
   </data>
-  <data name="Length.Header">
-    <value xml:space="preserve">Longueur</value>
+  <data name="Dn.Header" xml:space="preserve">
+    <value>&amp;nbsp;</value>
+  </data>
+  <data name="Edit.Header" xml:space="preserve">
+    <value>&amp;nbsp;</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Length.Header" xml:space="preserve">
+    <value>Longueur</value>
   </data>
   <data name="MoveDown.Text" xml:space="preserve">
-    <value xml:space="preserve">Déplacer vers le bas</value>
+    <value>Déplacer vers le bas</value>
   </data>
   <data name="MoveUp.Text" xml:space="preserve">
-    <value xml:space="preserve">Déplacer vers le haut</value>
+    <value>Déplacer vers le haut</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Nom</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Nom</value>
   </data>
   <data name="ProfilePropertiesHelp.Text" xml:space="preserve">
-    <value xml:space="preserve">Vous pouvez changer l'ordre des champs et leur visibilité.  Cliquez sur "Appliquer les modifications" pour sauvegarder vos modifications. Cliquez sur le crayon pour modifier les propriétés de profil.</value>
+    <value>Vous pouvez changer l'ordre des champs et leur visibilité.  Cliquez sur "Appliquer les modifications" pour sauvegarder vos modifications. Cliquez sur le crayon pour modifier les propriétés de profil.</value>
   </data>
-  <data name="Required.Header">
-    <value xml:space="preserve">Requis</value>
+  <data name="Required.Header" xml:space="preserve">
+    <value>Requis</value>
+  </data>
+  <data name="Up.Header" xml:space="preserve">
+    <value>&amp;nbsp;</value>
   </data>
   <data name="ValidationExpression.Header" xml:space="preserve">
-    <value xml:space="preserve">Expression régulière</value>
+    <value>Expression régulière</value>
   </data>
-  <data name="Visible.Header">
-    <value xml:space="preserve">Visible</value>
+  <data name="Visible.Header" xml:space="preserve">
+    <value>Visible</value>
   </data>
-  <data name="Edit.Header">
-    <value>&amp;nbsp;</value>
-  </data>
-  <data name="Del.Header">
-    <value>&amp;nbsp;</value>
-  </data>
-  <data name="Dn.Header">
-    <value>&amp;nbsp;</value>
-  </data>
-  <data name="Up.Header">
-    <value>&amp;nbsp;</value>
-  </data>
-  
 </root>

@@ -12,40 +12,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddNew.Text">
-    <value xml:space="preserve">Ajouter un nouveau fichier de script</value>
+  <data name="AddNew.Text" xml:space="preserve">
+    <value>Ajouter un nouveau fichier de script</value>
   </data>
-  <data name="cmdSave.Text">
-    <value xml:space="preserve">Sauvegarder le script</value>
+  <data name="cmdSave.Text" xml:space="preserve">
+    <value>Sauvegarder le script</value>
   </data>
-  <data name="cmdSaveClose.Text">
-    <value xml:space="preserve">Sauvegarder le script et revenir sur la page</value>
+  <data name="cmdSaveClose.Text" xml:space="preserve">
+    <value>Sauvegarder le script et revenir sur la page</value>
   </data>
-  <data name="ControlTitle_edit.Text">
-    <value xml:space="preserve">Modifier le script</value>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
+    <value>Modifier le script</value>
   </data>
-  <data name="currentScriptLabel.Help">
-    <value xml:space="preserve">Cocher cette case pour rendre le script actuel actif.</value>
+  <data name="currentScriptLabel.Help" xml:space="preserve">
+    <value>Cocher cette case pour rendre le script actuel actif.</value>
   </data>
-  <data name="currentScriptLabel.Text">
-    <value xml:space="preserve">Est actif :</value>
+  <data name="currentScriptLabel.Text" xml:space="preserve">
+    <value>Est actif :</value>
   </data>
-  <data name="plSource.Text">
-    <value xml:space="preserve">Source du script :</value>
+  <data name="plSource.Text" xml:space="preserve">
+    <value>Source du script :</value>
   </data>
-  <data name="scriptListLabel.Help">
-    <value xml:space="preserve">Sélectionner le script à utiliser pour cette instance du module Razor Host</value>
+  <data name="scriptListLabel.Help" xml:space="preserve">
+    <value>Sélectionner le script à utiliser pour cette instance du module Razor Host</value>
   </data>
-  <data name="scriptListLabel.Text">
-    <value xml:space="preserve">Script :</value>
+  <data name="scriptListLabel.Text" xml:space="preserve">
+    <value>Script :</value>
   </data>
-  <data name="scriptsLabel.Help">
-    <value xml:space="preserve">Sélectionner le script que vous souhaitez modifier dans la liste.</value>
+  <data name="scriptsLabel.Help" xml:space="preserve">
+    <value>Sélectionner le script que vous souhaitez modifier dans la liste.</value>
   </data>
-  <data name="scriptsLabel.Text">
-    <value xml:space="preserve">Sélectionner le script :</value>
+  <data name="scriptsLabel.Text" xml:space="preserve">
+    <value>Sélectionner le script :</value>
   </data>
-  <data name="SourceFile.Text">
-    <value xml:space="preserve">Fichier Source - {0}</value>
+  <data name="SourceFile.Text" xml:space="preserve">
+    <value>Fichier Source - {0}</value>
   </data>
 </root>

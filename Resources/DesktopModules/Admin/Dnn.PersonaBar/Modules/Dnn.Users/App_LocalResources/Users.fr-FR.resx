@@ -12,35 +12,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="All.Text">
-    <value>Tous</value>
-  </data>
-  <data name="Deleted.Text">
-    <value>Supprimé</value>
-  </data>
-  <data name="nav_Users.Text">
-    <value>Utilisateurs</value>
-  </data>
-  <data name="RegisteredUsers.Text" xml:space="preserve">
-    <value>Utilisateurs enregistrés</value>
-  </data>
-  <data name="SuperUsers.Text">
-    <value>Superutilisateurs</value>
-  </data>
-  <data name="UnAuthorized.Text" xml:space="preserve">
-    <value>Non autorisés</value>
-  </data>
-  <data name="SearchPlaceHolder.Text" xml:space="preserve">
-    <value>Rechercher des utilisateurs</value>
+  <data name="AccountData.Text" xml:space="preserve">
+    <value>Données du compte</value>
   </data>
   <data name="AccountSettings.Text" xml:space="preserve">
     <value>Paramètres du compte</value>
   </data>
-  <data name="Add.Text">
+  <data name="Add.Text" xml:space="preserve">
     <value>Ajouter</value>
   </data>
   <data name="AddRolePlaceHolder.Text" xml:space="preserve">
     <value>Commencez à taper pour ajouter un rôle à cet utilisateur.</value>
+  </data>
+  <data name="All.Text" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="Answer.Help" xml:space="preserve">
+    <value>Saisissez la réponse à la question.</value>
+  </data>
+  <data name="Answer.Required" xml:space="preserve">
+    <value>Vous devez saisir une réponse.</value>
+  </data>
+  <data name="Answer.Text" xml:space="preserve">
+    <value>Réponse :</value>
   </data>
   <data name="Approved.Help" xml:space="preserve">
     <value>Indique si cet utilisateur est autorisé pour le site.</value>
@@ -48,25 +42,28 @@
   <data name="Approved.Text" xml:space="preserve">
     <value>Autorisé :</value>
   </data>
-  <data name="Authorized.Header">
+  <data name="Authorized.Header" xml:space="preserve">
     <value>Statut</value>
   </data>
-  <data name="Authorized.Text">
+  <data name="Authorized.Text" xml:space="preserve">
     <value>Autorisé</value>
   </data>
-  <data name="btnApply.Text">
+  <data name="btnApply.Text" xml:space="preserve">
     <value>Appliquer</value>
   </data>
-  <data name="btnCancel.Text">
+  <data name="btnCancel.Text" xml:space="preserve">
     <value>Annuler</value>
   </data>
-  <data name="btnCreate.Text">
+  <data name="btnCreate.Text" xml:space="preserve">
     <value>Créer</value>
   </data>
-  <data name="btnSave.Text">
+  <data name="btnCreateUser.Text" xml:space="preserve">
+    <value>Ajouter un utilisateur</value>
+  </data>
+  <data name="btnSave.Text" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
-  <data name="Cancel.Text">
+  <data name="Cancel.Text" xml:space="preserve">
     <value>Annuler</value>
   </data>
   <data name="CannotAddUser.Text" xml:space="preserve">
@@ -93,7 +90,22 @@
   <data name="cmdUnLock.Text" xml:space="preserve">
     <value>Déverrouillage du compte</value>
   </data>
-  <data name="Created.Header">
+  <data name="cmUnlockUser.Text" xml:space="preserve">
+    <value>Débloquer l’utilisateur</value>
+  </data>
+  <data name="Confirm.Help" xml:space="preserve">
+    <value>Saisir à nouveau le mot de passe pour confirmer.</value>
+  </data>
+  <data name="Confirm.Required" xml:space="preserve">
+    <value>Vous devez spécifier une confirmation de mot de passe.</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmer le mot de passe :</value>
+  </data>
+  <data name="ConfirmMismatch.ErrorMessage" xml:space="preserve">
+    <value>Le nouveau mot de passe et la confirmation mot de passe doivent correspondre.</value>
+  </data>
+  <data name="Created.Header" xml:space="preserve">
     <value>Rejoint</value>
   </data>
   <data name="CreatedDate.Help" xml:space="preserve">
@@ -102,8 +114,11 @@
   <data name="CreatedDate.Text" xml:space="preserve">
     <value>Date de création :</value>
   </data>
-  <data name="Delete.Text">
+  <data name="Delete.Text" xml:space="preserve">
     <value>Supprimer</value>
+  </data>
+  <data name="Deleted.Text" xml:space="preserve">
+    <value>Supprimé</value>
   </data>
   <data name="DeleteRole.Confirm" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir supprimer le rôle '{0}' de '{1}' ?</value>
@@ -117,26 +132,50 @@
   <data name="DemoteFromSuperUser.Text" xml:space="preserve">
     <value>Rétrograder en tant que "simple" utilisateur.</value>
   </data>
+  <data name="DemoteToRegularUser.Text" xml:space="preserve">
+    <value>Rétrograder en tant que "simple" utilisateur.</value>
+  </data>
   <data name="DisplayName.Help" xml:space="preserve">
     <value>Saisir un nom d’affichage.</value>
+  </data>
+  <data name="DisplayName.RegExError" xml:space="preserve">
+    <value>Le nom d'affichage n’est pas valide.</value>
+  </data>
+  <data name="DisplayName.Required" xml:space="preserve">
+    <value>Nom d’affichage est nécessaire.</value>
   </data>
   <data name="DisplayName.Text" xml:space="preserve">
     <value>Nom d'affichage :</value>
   </data>
-  <data name="Email.Header">
+  <data name="Email.Header" xml:space="preserve">
     <value>Courriel</value>
   </data>
   <data name="Email.Help" xml:space="preserve">
     <value>Saisir une adresse email valide.</value>
   </data>
+  <data name="Email.RegExError" xml:space="preserve">
+    <value>Vous devez entrer une adresse email valide.</value>
+  </data>
+  <data name="Email.Required" xml:space="preserve">
+    <value>Email requis.</value>
+  </data>
   <data name="Email.Text" xml:space="preserve">
     <value>Adresse de courriel :</value>
   </data>
-  <data name="Expires.Header">
+  <data name="Expires.Header" xml:space="preserve">
     <value>Expiration</value>
+  </data>
+  <data name="False.Text" xml:space="preserve">
+    <value>Faux</value>
   </data>
   <data name="FirstName.Help" xml:space="preserve">
     <value>Saisir un prénom.</value>
+  </data>
+  <data name="FirstName.RegExError" xml:space="preserve">
+    <value>Prénom invalide</value>
+  </data>
+  <data name="FirstName.Required" xml:space="preserve">
+    <value>Le prénom est requis.</value>
   </data>
   <data name="FirstName.Text" xml:space="preserve">
     <value>Prénom :</value>
@@ -144,10 +183,16 @@
   <data name="ForceChangePassword.Text" xml:space="preserve">
     <value>Forcer le changement de mot de passe</value>
   </data>
+  <data name="InSufficientPermissions.Text" xml:space="preserve">
+    <value>Vous n’avez pas les permissions pour effectuer cette action.</value>
+  </data>
+  <data name="InvalidPasswordAnswer.Text" xml:space="preserve">
+    <value>La réponse n’est pas valide.</value>
+  </data>
   <data name="IsDeleted.Help" xml:space="preserve">
     <value>Indique si cet utilisateur est supprimé.</value>
   </data>
-  <data name="IsDeleted.Text">
+  <data name="IsDeleted.Text" xml:space="preserve">
     <value>Supprimé</value>
   </data>
   <data name="IsOnLine.Help" xml:space="preserve">
@@ -177,6 +222,18 @@
   <data name="LastLoginDate.Text" xml:space="preserve">
     <value>Date de dernière connexion :</value>
   </data>
+  <data name="LastName.Help" xml:space="preserve">
+    <value>Saisir un nom de famille.</value>
+  </data>
+  <data name="LastName.RegExError" xml:space="preserve">
+    <value>Nom de famille invalide</value>
+  </data>
+  <data name="LastName.Required" xml:space="preserve">
+    <value>Le nom de famille est requis.</value>
+  </data>
+  <data name="LastName.Text" xml:space="preserve">
+    <value>Nom :</value>
+  </data>
   <data name="LastPasswordChangeDate.Help" xml:space="preserve">
     <value>La date à laquelle l'utilisateur a modifié son mot de passe.</value>
   </data>
@@ -186,7 +243,7 @@
   <data name="LockedOut.Help" xml:space="preserve">
     <value>Indique si l’utilisateur est actuellement verrouillé sur le site à cause d’échecs répétés de connexion.</value>
   </data>
-  <data name="LockedOut.Text">
+  <data name="LockedOut.Text" xml:space="preserve">
     <value>Verrouillé</value>
   </data>
   <data name="ManageProfile.title" xml:space="preserve">
@@ -198,17 +255,56 @@
   <data name="ManageSettings.title" xml:space="preserve">
     <value>Paramètres du compte</value>
   </data>
-  <data name="Name.Header">
+  <data name="Name.Header" xml:space="preserve">
     <value>Nom</value>
   </data>
-  <data name="Never.Text">
+  <data name="nav_Users.Text" xml:space="preserve">
+    <value>Utilisateurs</value>
+  </data>
+  <data name="Never.Text" xml:space="preserve">
     <value>Jamais</value>
+  </data>
+  <data name="NewConfirm.Help" xml:space="preserve">
+    <value>Saisir à nouveau votre mot de passe pour confirmer.</value>
+  </data>
+  <data name="NewConfirm.Required" xml:space="preserve">
+    <value>Vous devez spécifier une confirmation de mot de passe.</value>
+  </data>
+  <data name="NewConfirm.Text" xml:space="preserve">
+    <value>Confirmer le mot de passe :</value>
+  </data>
+  <data name="NewConfirmMismatch.ErrorMessage" xml:space="preserve">
+    <value>Le nouveau mot de passe et la confirmation mot de passe doivent correspondre.</value>
+  </data>
+  <data name="NewPassword.Help" xml:space="preserve">
+    <value>Saisir votre nouveau mot de passe.</value>
+  </data>
+  <data name="NewPassword.Required" xml:space="preserve">
+    <value>Vous devez saisir un mot de passe.</value>
+  </data>
+  <data name="NewPassword.Text" xml:space="preserve">
+    <value>Nouveau mot de passe :</value>
   </data>
   <data name="NoRoles.Text" xml:space="preserve">
     <value>Aucun rôle trouvé.</value>
   </data>
+  <data name="Notify.Text" xml:space="preserve">
+    <value>Envoyer un courriel à un nouvel utilisateur.</value>
+  </data>
+  <data name="noUsers.Text" xml:space="preserve">
+    <value>Aucun utilisateur trouvé.</value>
+  </data>
   <data name="OptionUnavailable.Text" xml:space="preserve">
     <value>La fonction de réinitialisation du mot de passe n'est pas disponible</value>
+  </data>
+  <data name="Password.Help" xml:space="preserve">
+    <value>Saisir un mot de passe pour cet utilisateur.</value>
+  </data>
+  <data name="Password.Required" xml:space="preserve">
+    <value>Vous devez saisir un mot de passe.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Mot de passe :</value>
   </data>
   <data name="PasswordInvalid.Text" xml:space="preserve">
     <value>Vous devez saisir un mot de passe valide. Veuillez vérifier auprès de l'administrateur du site si vous ne connaissez pas les exigences de complexité de mot de passe.</value>
@@ -225,290 +321,8 @@
   <data name="PasswordSent.Text" xml:space="preserve">
     <value>Si le nom d'utilisateur saisi était correct, vous devriez recevoir un nouveau courriel sous peu avec un lien pour réinitialiser votre mot de passe.</value>
   </data>
-  <data name="NewConfirmMismatch.ErrorMessage" xml:space="preserve">
-    <value>Le nouveau mot de passe et la confirmation mot de passe doivent correspondre.</value>
-  </data>
-  <data name="NewConfirm.Help" xml:space="preserve">
-    <value>Saisir à nouveau votre mot de passe pour confirmer.</value>
-  </data>
-  <data name="NewConfirm.Text" xml:space="preserve">
-    <value>Confirmer le mot de passe :</value>
-  </data>
-  <data name="NewPassword.Help" xml:space="preserve">
-    <value>Saisir votre nouveau mot de passe.</value>
-  </data>
-  <data name="NewPassword.Text" xml:space="preserve">
-    <value>Nouveau mot de passe :</value>
-  </data>
   <data name="PromoteToSuperUser.Text" xml:space="preserve">
     <value>Promouvoir en Super utilisateur</value>
-  </data>
-  <data name="RemoveUser.Confirm" xml:space="preserve">
-    <value>Êtes-vous certain de vouloir supprimer définitivement cet utilisateur ?</value>
-  </data>
-  <data name="RemoveUser.Text" xml:space="preserve">
-    <value>Supprimer définitivement l'utilisateur</value>
-  </data>
-  <data name="ResetPassword.Text" xml:space="preserve">
-    <value>Envoyer le lien de réinitialisation du mot de passe</value>
-  </data>
-  <data name="RestoreUser.Text" xml:space="preserve">
-    <value>Restaurer l’utilisateur</value>
-  </data>
-  <data name="Role.Header">
-    <value>Rôle</value>
-  </data>
-  <data name="Roles.Title">
-    <value>Rôles</value>
-  </data>
-  <data name="rolesPageInfoText.Text" xml:space="preserve">
-    <value>Page {0} sur {1}</value>
-  </data>
-  <data name="rolesSummaryText.Text" xml:space="preserve">
-    <value>Affichage de {0}-{1} sur {2}</value>
-  </data>
-  <data name="SendEmail.Text" xml:space="preserve">
-    <value>Envoyer le message</value>
-  </data>
-  <data name="Start.Header">
-    <value>Démarrer</value>
-  </data>
-  <data name="UpdatePassword.Help" xml:space="preserve">
-    <value>Indique si cet utilisateur est obligé de mettre à jour son mot de passe.</value>
-  </data>
-  <data name="UpdatePassword.Text" xml:space="preserve">
-    <value>Mise à jour du mot de passe :</value>
-  </data>
-  <data name="UserAuthorized.Text" xml:space="preserve">
-    <value>Utilisateur autorisé avec succès.</value>
-  </data>
-  <data name="UserDeleted.Text" xml:space="preserve">
-    <value>Utilisateur supprimé avec succès.</value>
-  </data>
-  <data name="UserFolder.Help" xml:space="preserve">
-    <value>Le dossier qui stocke les fichiers de cet utilisateur.</value>
-  </data>
-  <data name="UserFolder.Text" xml:space="preserve">
-    <value>Dossier de l’utilisateur :</value>
-  </data>
-  <data name="Username.Help" xml:space="preserve">
-    <value>Saisir un nom d’utilisateur. Il doit disposer d'au moins cinq caractères alphanumériques.</value>
-  </data>
-  <data name="Username.Text" xml:space="preserve">
-    <value>Nom d'utilisateur :</value>
-  </data>
-  <data name="UserPasswordUpdateChanged.Text" xml:space="preserve">
-    <value>L’utilisateur doit mettre à jour son mot de passe à la prochaine connexion.</value>
-  </data>
-  <data name="UserRestored.Text" xml:space="preserve">
-    <value>Utilisateur restauré avec succès</value>
-  </data>
-  <data name="usersPageSizeOptionText.Text" xml:space="preserve">
-    <value>{0} utilisateurs par page</value>
-  </data>
-  <data name="usersSummaryText.Text" xml:space="preserve">
-    <value>Affichage de {0}-{1} sur {2}</value>
-  </data>
-  <data name="UserUnAuthorized.Text" xml:space="preserve">
-    <value>Utilisateur désautorisé avec succès.</value>
-  </data>
-  <data name="UserUpdated.Text" xml:space="preserve">
-    <value>Utilisateur mis à jour avec succès.</value>
-  </data>
-  <data name="ViewProfile.Text" xml:space="preserve">
-    <value>Voir le profil</value>
-  </data>
-  <data name="btnCreateUser.Text" xml:space="preserve">
-    <value>Ajouter un utilisateur</value>
-  </data>
-  <data name="Confirm.Help" xml:space="preserve">
-    <value>Saisir à nouveau le mot de passe pour confirmer.</value>
-  </data>
-  <data name="Confirm.Text" xml:space="preserve">
-    <value>Confirmer le mot de passe :</value>
-  </data>
-  <data name="ConfirmMismatch.ErrorMessage" xml:space="preserve">
-    <value>Le nouveau mot de passe et la confirmation mot de passe doivent correspondre.</value>
-  </data>
-  <data name="LastName.Help" xml:space="preserve">
-    <value>Saisir un nom de famille.</value>
-  </data>
-  <data name="LastName.Text" xml:space="preserve">
-    <value>Nom :</value>
-  </data>
-  <data name="Notify.Text" xml:space="preserve">
-    <value>Envoyer un courriel à un nouvel utilisateur.</value>
-  </data>
-  <data name="Password.Help" xml:space="preserve">
-    <value>Saisir un mot de passe pour cet utilisateur.</value>
-  </data>
-  <data name="Password.Text" xml:space="preserve">
-    <value>Mot de passe :</value>
-  </data>
-  <data name="Random.Help" xml:space="preserve">
-    <value>Cocher cette case pour générer un mot de passe aléatoire.</value>
-  </data>
-  <data name="Random.Text" xml:space="preserve">
-    <value>Mot de passe auto généré</value>
-  </data>
-  <data name="UserCreated.Text" xml:space="preserve">
-    <value>Utilisateur créé avec succès.</value>
-  </data>
-  <data name="Confirm.Required" xml:space="preserve">
-    <value>Vous devez spécifier une confirmation de mot de passe.</value>
-  </data>
-  <data name="DisplayName.RegExError" xml:space="preserve">
-    <value>Le nom d'affichage n’est pas valide.</value>
-  </data>
-  <data name="DisplayName.Required" xml:space="preserve">
-    <value>Nom d’affichage est nécessaire.</value>
-  </data>
-  <data name="Email.RegExError" xml:space="preserve">
-    <value>Vous devez entrer une adresse email valide.</value>
-  </data>
-  <data name="Email.Required" xml:space="preserve">
-    <value>Email requis.</value>
-  </data>
-  <data name="FirstName.RegExError" xml:space="preserve">
-    <value>Prénom invalide</value>
-  </data>
-  <data name="FirstName.Required" xml:space="preserve">
-    <value>Le prénom est requis.</value>
-  </data>
-  <data name="LastName.RegExError" xml:space="preserve">
-    <value>Nom de famille invalide</value>
-  </data>
-  <data name="LastName.Required" xml:space="preserve">
-    <value>Le nom de famille est requis.</value>
-  </data>
-  <data name="NewConfirm.Required" xml:space="preserve">
-    <value>Vous devez spécifier une confirmation de mot de passe.</value>
-  </data>
-  <data name="NewPassword.Required" xml:space="preserve">
-    <value>Vous devez saisir un mot de passe.</value>
-  </data>
-  <data name="Password.Required" xml:space="preserve">
-    <value>Vous devez saisir un mot de passe.</value>
-  </data>
-  <data name="Username.RegExError" xml:space="preserve">
-    <value>Le nom d’utilisateur saisi n’est pas valide.</value>
-  </data>
-  <data name="Username.Required" xml:space="preserve">
-    <value>Nom d'utilisateur requis.</value>
-  </data>
-  <data name="noUsers.Text" xml:space="preserve">
-    <value>Aucun utilisateur trouvé.</value>
-  </data>
-  <data name="ShowLabel.Text" xml:space="preserve">
-    <value>Afficher :</value>
-  </data>
-  <data name="DemoteToRegularUser.Text" xml:space="preserve">
-    <value>Rétrograder en tant que "simple" utilisateur.</value>
-  </data>
-  <data name="InSufficientPermissions.Text" xml:space="preserve">
-    <value>Vous n’avez pas les permissions pour effectuer cette action.</value>
-  </data>
-  <data name="InvalidPasswordAnswer.Text" xml:space="preserve">
-    <value>La réponse n’est pas valide.</value>
-  </data>
-  <data name="RegisterationFailed.Text" xml:space="preserve">
-    <value>Échec de l'inscription. Veuillez essayer plus tard.</value>
-  </data>
-  <data name="UserDeleteError.Text" xml:space="preserve">
-    <value>Échec de la suppression de l'utilisateur.</value>
-  </data>
-  <data name="UsernameNotUnique.Text" xml:space="preserve">
-    <value>Le nom d'utilisateur doit être unique.</value>
-  </data>
-  <data name="UserNotFound.Text" xml:space="preserve">
-    <value>Utilisateur introuvable.</value>
-  </data>
-  <data name="UserRemoveError.Text" xml:space="preserve">
-    <value>Impossible de supprimer l'utilisateur.</value>
-  </data>
-  <data name="UserRestoreError.Text" xml:space="preserve">
-    <value>Impossible de restaurer l'utilisateur.</value>
-  </data>
-  <data name="RoleIsNotApproved.Text" xml:space="preserve">
-    <value>Impossible d'attribuer un rôle qui n'est pas approuvé.</value>
-  </data>
-  <data name="UserUnlockError.Text" xml:space="preserve">
-    <value>Échec lors du déverrouillage de l'utilisateur.</value>
-  </data>
-  <data name="cmUnlockUser.Text" xml:space="preserve">
-    <value>Débloquer l’utilisateur</value>
-  </data>
-  <data name="UserUnLocked.Text" xml:space="preserve">
-    <value>Utilisateur déverrouillé avec succès.</value>
-  </data>
-  <data name="AccountData.Text" xml:space="preserve">
-    <value>Données du compte</value>
-  </data>
-  <data name="False.Text">
-    <value>Faux</value>
-  </data>
-  <data name="SwitchOff.Text">
-    <value>Off</value>
-  </data>
-  <data name="SwitchOn.Text">
-    <value>On</value>
-  </data>
-  <data name="True.Text">
-    <value>Vrai</value>
-  </data>
-  <data name="Prompt_CannotPurgeUser.Text" xml:space="preserve">
-    <value>Impossible de purger l'utilisateur qui n'a pas été supprimé en premier. Essayez delete-user.</value>
-  </data>
-  <data name="Prompt_DateParseError.Text" xml:space="preserve">
-    <value>Impossible d'analyser la date {0} '{1}'. Essayez d'utiliser le format AAAA-MM-JJ.</value>
-  </data>
-  <data name="Prompt_EmailSent.Text" xml:space="preserve">
-    <value>Un email a été envoyé à l'utilisateur.</value>
-  </data>
-  <data name="Prompt_IfSpecifiedMustHaveValue.Text" xml:space="preserve">
-    <value>Si vous spécifiez l'option --{0}, il doit être défini sur "True" ou "False".</value>
-  </data>
-  <data name="Prompt_InvalidFlag.Text" xml:space="preserve">
-    <value>Option invalide '--{0}'. Vouliez-vous dire --{1} ?</value>
-  </data>
-  <data name="Prompt_NothingToSetUser.Text" xml:space="preserve">
-    <value>Rien à mettre à jour. Veuillez passer une ou plusieurs option(s) avec des valeurs affin de mettre à jour l'utilisateur ou saisissez 'help set-user' pour plus d'aide</value>
-  </data>
-  <data name="Prompt_NoUserId.Text" xml:space="preserve">
-    <value>Aucun ID utilisateur transmis. Rien à faire.</value>
-  </data>
-  <data name="Prompt_OnlyOneFlagRequired.Text" xml:space="preserve">
-    <value>Vous devez spécifier une seule et unique option : --{0}, --{1}, or --{2}.</value>
-  </data>
-  <data name="Prompt_PasswordReset.Text" xml:space="preserve">
-    <value>Le mot de passe de l'utilisateur a été réinitialisé.</value>
-  </data>
-  <data name="Prompt_RestoreNotRequired.Text" xml:space="preserve">
-    <value>Cet utilisateur n'a pas été supprimé. Rien à restaurer.</value>
-  </data>
-  <data name="Prompt_RolesEmpty.Text" xml:space="preserve">
-    <value>--roles ne peut être vide.</value>
-  </data>
-  <data name="Prompt_SearchUserParameterRequired.Text" xml:space="preserve">
-    <value>Pour rechercher un utilisateur, vous devez spécifier --id (UserId), --email (Email de l'utilisateur) ou --name (Nom d'utilisateur).</value>
-  </data>
-  <data name="Prompt_StartDateGreaterThanEnd.Text" xml:space="preserve">
-    <value>La date de début ne peut pas être inférieure à la date de fin.</value>
-  </data>
-  <data name="Prompt_UserAlreadyDeleted.Text" xml:space="preserve">
-    <value>L'utilisateur est déjà supprimé. Voulez-vous supprimer définitivement ? Utilisez \"purge-user\"</value>
-  </data>
-  <data name="Prompt_UserDeletionFailed.Text" xml:space="preserve">
-    <value>L'utilisateur a été trouvé mais le système est incapable de le supprimer.</value>
-  </data>
-  <data name="Prompt_UserIdIsRequired.Text" xml:space="preserve">
-    <value>Vous devez spécifier un ID d'utilisateur valide en tant que premier argument ou en utilisant l'option --id.</value>
-  </data>
-  <data name="Prompt_UserPurged.Text" xml:space="preserve">
-    <value>L'utilisateur a été définitivement retiré du site.</value>
-  </data>
-  <data name="Prompt_AddRoles_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;h4&gt;Ajoute un rôle à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles Editor&lt;/code&gt; OR &lt;code class="block"&gt;add-roles 23 --roles Editor&lt;/code&gt; OR &lt;code class="block"&gt;add-roles --id 23 "Editor"&lt;/code&gt; &lt;h4&gt;Ajoute un rôle (dont le nom comporte plusieurs mots) à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles "Article Reviewer"&lt;/code&gt; &lt;h4&gt;Ajoute de multiples rôles à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles "Editor, Writer, Article Reviewer"&lt;/code&gt;</value>
   </data>
   <data name="Prompt_AddRoles_Description.Text" xml:space="preserve">
     <value>Ajouter un ou plusieurs rôles de sécurité DNN à un utilisateur.</value>
@@ -525,6 +339,15 @@
   <data name="Prompt_AddRoles_FlagStart.Text" xml:space="preserve">
     <value>Date d'entrée en vigueur du rôle</value>
   </data>
+  <data name="Prompt_AddRoles_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Ajoute un rôle à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles Editor&lt;/code&gt; OR &lt;code class="block"&gt;add-roles 23 --roles Editor&lt;/code&gt; OR &lt;code class="block"&gt;add-roles --id 23 "Editor"&lt;/code&gt; &lt;h4&gt;Ajoute un rôle (dont le nom comporte plusieurs mots) à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles "Article Reviewer"&lt;/code&gt; &lt;h4&gt;Ajoute de multiples rôles à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles "Editor, Writer, Article Reviewer"&lt;/code&gt;</value>
+  </data>
+  <data name="Prompt_CannotPurgeUser.Text" xml:space="preserve">
+    <value>Impossible de purger l'utilisateur qui n'a pas été supprimé en premier. Essayez delete-user.</value>
+  </data>
+  <data name="Prompt_DateParseError.Text" xml:space="preserve">
+    <value>Impossible d'analyser la date {0} '{1}'. Essayez d'utiliser le format AAAA-MM-JJ.</value>
+  </data>
   <data name="Prompt_DeleteUser_Description.Text" xml:space="preserve">
     <value>Supprime l'utilisateur spécifié du site. Après la suppression l'utilisateur peut toujours être récupéré. Pour supprimer définitivement l'utilisateur, saisir ensuite la commande &lt;code&gt;purge-user&lt;/code&gt;.</value>
   </data>
@@ -537,6 +360,12 @@
   <data name="Prompt_DeleteUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Supprimer un utilisateur&lt;/h4&gt; &lt;p&gt;Ceci supprime l'utilisateur ayant l'ID 345. L'utilisateur n'est pas définitivement supprimé à ce stade. Il est dans une sorte de corbeille. Vous pouvez utiliser &lt;code&gt;get-user 345&lt;/code&gt; pour voir les détails de l'utilisateur et vous verrez que la propriété &lt;code&gt;IsDeleted&lt;/code&gt; est maintenant sur "True". Vous pouvez alors utiliser la commande &lt;code&gt;restore-user&lt;/code&gt; ou bien passer par l'interface utilisateur de DNN pour restaurer ce dernier. Si vous voulez supprimer définitivement l'utilisateur, vous devrez exécuter une seconde commande : &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt; &lt;code class="block"&gt;delete-user 345&lt;/code&gt; &lt;p&gt;Ceci est la forme plus explicite du code ci-dessus.&lt;/p&gt; &lt;code class="block"&gt;delete-user --id 345&lt;/code&gt; &lt;h4&gt;Supprimer un utilisateur et envoyer une notification&lt;/h4&gt; &lt;p&gt;Ceci supprime l'utilisateur ayant l'ID 345 et envoie une notification par email. Comme ci-dessus, l'utilisateur n'est pas définitivement supprimé à ce stade. Si vous voulez supprimer définitivement l'utilisateur, vous devrez exécuter une seconde commande : &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt; &lt;code class="block"&gt;delete-user 345 --notify true&lt;/code&gt; &lt;p&gt;Ceci est la forme plus explicite du code ci-dessus.&lt;/p&gt; &lt;code class="block"&gt;delete-user --id 345 --notify true&lt;/code&gt;</value>
   </data>
+  <data name="Prompt_EmailSent.Text" xml:space="preserve">
+    <value>Un email a été envoyé à l'utilisateur.</value>
+  </data>
+  <data name="Prompt_GetUser_Description.Text" xml:space="preserve">
+    <value>Vous permet d'afficher les informations de l'utilisateur actuel ou de récupérer un utilisateur par son ID utilisateur, son nom d'utilisateur ou son adresse électronique. Prend en charge la recherche partielle. Retourne le premier utilisateur trouvé.</value>
+  </data>
   <data name="Prompt_GetUser_FlagEmail.Text" xml:space="preserve">
     <value>L'adresse e-mail de l'utilisateur à récupérer. Vous pouvez utiliser l'astérisque (&lt;span class="mono"&gt;*&lt;/span&gt;) comme caractère pour signifier 0 ou plusieurs caractères.</value>
   </data>
@@ -548,6 +377,12 @@
   </data>
   <data name="Prompt_GetUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt; &lt;h4&gt;Obtenir l'utilisateur actuel&lt;/h4&gt; &lt;code class="block"&gt; get-user &lt;/code&gt; &lt;h4&gt;Obtenir un utilisateur via son ID&lt;/h4&gt; &lt;h5&gt;Utilisation implicite de l'option &lt;span class="mono"&gt;--id&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Lorsque vous indiquez une seule valeur après le nom de la commande, s'il s'agit d'un entier, Prompt considérera qu'il s'agit d'un ID utilisateur&lt;/p&gt; &lt;code class="block"&gt;get-user 345&lt;/code&gt; &lt;h5&gt;Utilisation explicite de l'option &lt;span class="mono"&gt;--id&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Vous pouvez utiliser explicitement l'option &lt;span class="mono"&gt;--id&lt;/span&gt; pour éviter toute confusion&lt;/p&gt; &lt;code class="block"&gt;get-user --id 345&lt;/code&gt; &lt;table class="command-result-tbl"&gt; &lt;tr&gt; &lt;td&gt;UserId&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;345&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Username&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Email&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith@sample.com&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;DisplayName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;FirstName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastLogin&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;2016-12-06T09:31:38.413-07:00&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;IsAuthorized&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;true&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;h4&gt;Obtenir un utilisateur via son email&lt;/h4&gt; &lt;h5&gt;Utilisation implicite de l'option &lt;span class="mono"&gt;--email&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Lorsque vous indiquez une seule valeur après le nom de la commande, si elle contient le symbole "at" (&lt;span class="mono"&gt;@&lt;/span&gt;), Prompt considérera qu'il s'agit d'un email&lt;/p&gt; &lt;code class="block"&gt;get-user jsmith@sample.com&lt;/code&gt; &lt;h5&gt;Utilisation explicite de l'option &lt;span class="mono"&gt;--email&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Vous pouvez utiliser explicitement l'option &lt;span class="mono"&gt;--email&lt;/span&gt; pour éviter toute confusion&lt;/p&gt; &lt;code class="block"&gt;get-user --email jsmith@sample.com&lt;/code&gt; &lt;table class="command-result-tbl"&gt; &lt;tr&gt; &lt;td&gt;UserId&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;345&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Username&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Email&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith@sample.com&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;DisplayName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;FirstName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastLogin&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;2016-12-06T09:31:38.413-07:00&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;IsAuthorized&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;true&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;h4&gt;Rechercher un utilisateur par email en utilisant un "wildcard"&lt;/h4&gt; &lt;h5&gt;Utilisation implicite de l'option &lt;span class="mono"&gt;--email&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Lorsque vous indiquez une seule valeur après le nom de la commande, si elle contient le symbole "at" (&lt;span class="mono"&gt;@&lt;/span&gt;), Prompt considérera qu'il s'agit d'un email. Seul le premier enregistrement correspondant sera renvoyé. Essayez d'utiliser &lt;span class="mono"&gt;list-users&lt;/span&gt; si vous souhaitez trouver tous les utilisateurs correspondants.&lt;/p&gt; &lt;code class="block"&gt;get-user jsmith*@sample.com&lt;/code&gt; &lt;h5&gt;Utilisation explicite de l'option &lt;span class="mono"&gt;--email&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Vous pouvez utiliser explicitement l'option &lt;span class="mono"&gt;--email&lt;/span&gt; pour éviter toute confusion&lt;/p&gt; &lt;code class="block"&gt;get-user --email jsmith*@sample.com&lt;/code&gt; &lt;table class="command-result-tbl"&gt; &lt;tr&gt; &lt;td&gt;UserId&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;345&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Username&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Email&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith@sample.com&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;DisplayName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;FirstName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastLogin&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;2016-12-06T09:31:38.413-07:00&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;IsAuthorized&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;true&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;h4&gt;Obtenir un utilisateur via son nom d'utilisateur&lt;/h4&gt; &lt;h5&gt;Utilisation implicite de l'option &lt;span class="mono"&gt;--username&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Lorsque vous indiquez une seule valeur après le nom de la commande, s'il ne s'agit pas d'un nombre et qu'il ne contient pas le symbole "at" (&lt;span class="mono"&gt;@&lt;/span&gt;), Prompt considérera qu'il s'agit d'un nom d'utilisateur&lt;/p&gt; &lt;code class="block"&gt;get-user jsmith&lt;/code&gt; &lt;h5&gt;Utilisation explicite de l'option &lt;span class="mono"&gt;--username&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Vous pouvez utiliser explicitement l'option &lt;span class="mono"&gt;--username&lt;/span&gt; pour éviter toute confusion&lt;/p&gt; &lt;code class="block"&gt;get-user --username jsmith&lt;/code&gt; &lt;table class="command-result-tbl"&gt; &lt;tr&gt; &lt;td&gt;UserId&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;345&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Username&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Email&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith@sample.com&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;DisplayName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;FirstName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastLogin&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;2016-12-06T09:31:38.413-07:00&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;IsAuthorized&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;true&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;h4&gt;Rechercher un utilisateur par nom d'utilisateur en utilisant un "wildcard"&lt;/h4&gt; &lt;h5&gt;Utilisation implicite de l'option &lt;span class="mono"&gt;--username&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Lorsque vous indiquez une seule valeur après le nom de la commande, s'il ne s'agit pas d'un nombre et qu'il ne contient pas le symbole "at" (&lt;span class="mono"&gt;@&lt;/span&gt;), Prompt considérera qu'il s'agit d'un nom d'utilisateur.&lt;/p&gt; &lt;code class="block"&gt;get-user --username jsmith*&lt;/code&gt; &lt;h5&gt;Utilisation explicite de l'option &lt;span class="mono"&gt;--username&lt;/span&gt;&lt;/h5&gt; &lt;p&gt;Vous pouvez utiliser explicitement l'option &lt;span class="mono"&gt;--username&lt;/span&gt; pour éviter toute confusion&lt;/p&gt; &lt;code class="block"&gt;get-user jsmith*&lt;/code&gt; (la valeur ne peut pas avoir un symbole @ ou être interprété comme un entier pour que cela fonctionne) &lt;table class="command-result-tbl"&gt; &lt;tr&gt; &lt;td&gt;UserId&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;345&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Username&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Email&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;jsmith@sample.com&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;DisplayName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;FirstName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;John&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastName&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;Smith&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;LastLogin&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;2016-12-06T09:31:38.413-07:00&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;IsAuthorized&lt;/td&gt; &lt;td&gt;:&lt;/td&gt; &lt;td&gt;true&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_IfSpecifiedMustHaveValue.Text" xml:space="preserve">
+    <value>Si vous spécifiez l'option --{0}, il doit être défini sur "True" ou "False".</value>
+  </data>
+  <data name="Prompt_InvalidFlag.Text" xml:space="preserve">
+    <value>Option invalide '--{0}'. Vouliez-vous dire --{1} ?</value>
   </data>
   <data name="Prompt_ListUsers_Description.Text" xml:space="preserve">
     <value>Trouver des utilisateurs en fonction de leur email ou nom d'utilisateur. Prend en charge les "wildcards". Vous ne pouvez effectuer une recherche que sur une option à la fois. Les options ne peuvent pas être combinées.</value>
@@ -597,6 +432,18 @@
   <data name="Prompt_NewUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Crée un nouvel utilisateur avec seulement les valeurs requises&lt;/h4&gt; &lt;p&gt;Cela génère un mot de passe aléatoire et l'affecte à l'utilisateur nouvellement créé. Le nom complet est généré en concaténant le prénom et le nom. Notez que parce que "van Doorne" contient un espace, nous devons le placer entre guillemets. Le nom d'affichage résultant sera alors "Erik van Doorne".&lt;/p&gt; &lt;code class="block"&gt;new-user --username edoorne --email edoorne@myemail.com --firstname Erik --lastname "van Doorne"&lt;/code&gt;</value>
   </data>
+  <data name="Prompt_NothingToSetUser.Text" xml:space="preserve">
+    <value>Rien à mettre à jour. Veuillez passer une ou plusieurs option(s) avec des valeurs affin de mettre à jour l'utilisateur ou saisissez 'help set-user' pour plus d'aide</value>
+  </data>
+  <data name="Prompt_NoUserId.Text" xml:space="preserve">
+    <value>Aucun ID utilisateur transmis. Rien à faire.</value>
+  </data>
+  <data name="Prompt_OnlyOneFlagRequired.Text" xml:space="preserve">
+    <value>Vous devez spécifier une seule et unique option : --{0}, --{1}, or --{2}.</value>
+  </data>
+  <data name="Prompt_PasswordReset.Text" xml:space="preserve">
+    <value>Le mot de passe de l'utilisateur a été réinitialisé.</value>
+  </data>
   <data name="Prompt_ResetPassword_Description.Text" xml:space="preserve">
     <value>Définit le jeton de réinitialisation du mot de passe pour l'utilisateur.&lt;em&gt;Il ne réinitialise pas automatiquement le mot de passe de l'utilisateur&lt;/em&gt;. Par défaut cette commande enverra l'email de réinitialisation de mot de passe à l'utilisateur. Vous pouvez remplacer ce comportement en spécifiant l'option &lt;code&gt;--notify&lt;/code&gt; avec la valeur &lt;code&gt;false&lt;/code&gt;</value>
   </data>
@@ -610,6 +457,15 @@
     <value>&lt;code class="block"&gt;
     reset-password &lt;em&gt;userId&lt;/em&gt;
   &lt;/code&gt;</value>
+  </data>
+  <data name="Prompt_RestoreNotRequired.Text" xml:space="preserve">
+    <value>Cet utilisateur n'a pas été supprimé. Rien à restaurer.</value>
+  </data>
+  <data name="Prompt_RolesEmpty.Text" xml:space="preserve">
+    <value>--roles ne peut être vide.</value>
+  </data>
+  <data name="Prompt_SearchUserParameterRequired.Text" xml:space="preserve">
+    <value>Pour rechercher un utilisateur, vous devez spécifier --id (UserId), --email (Email de l'utilisateur) ou --name (Nom d'utilisateur).</value>
   </data>
   <data name="Prompt_SetUser_Description.Text" xml:space="preserve">
     <value>Vous permet de définir différentes valeurs liées à l'utilisateur spécifié.</value>
@@ -641,20 +497,23 @@
   <data name="Prompt_SetUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt; &lt;h4&gt;Approuver/désapprouver un utilisateur&lt;/h4&gt; &lt;p&gt;Approuve/désapprouve l'utilisateur ayant l'ID 345. Dans cet exemple, l'option &lt;span class="mono"&gt;--approbation&lt;/span&gt; est sur "true".&lt;/p&gt; &lt;code class="block"&gt; set-user 345 --approve true &lt;/code&gt; &lt;h4&gt;Modifier le nom d'utilisateur d'un utilisateur&lt;/h4&gt; &lt;p&gt;Change le nom d'utilisateur pour l'utilisateur ayant l'ID 345 en &lt;em&gt;john.smith&lt;/em&gt;.&lt;/p&gt; &lt;code class="block"&gt; set-user 345 --username "john.smith"&lt;/code&gt; &lt;h4&gt;Modifier les propriétés d'un nom d'utilisateur&lt;/h4&gt; &lt;p&gt; Définit le prénom, le nom et le nom d'affichage de l'utilisateur ayant l'ID 345. Notez que &lt;em&gt;John&lt;/em&gt; et &lt;em&gt;Smith&lt;/em&gt; n'ont pas besoin d'être entourés de guillemets, mais &lt;em&gt;Johnny Smith&lt;/em&gt; doit l'être car il s'agit de plusieurs mots. &lt;/p&gt; &lt;code class="block"&gt; set-user 345 --firstname John --lastname Smith --displayname "Johnny Smith"&lt;/code&gt; &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_GetUser_Description.Text" xml:space="preserve">
-    <value>Vous permet d'afficher les informations de l'utilisateur actuel ou de récupérer un utilisateur par son ID utilisateur, son nom d'utilisateur ou son adresse électronique. Prend en charge la recherche partielle. Retourne le premier utilisateur trouvé.</value>
+  <data name="Prompt_StartDateGreaterThanEnd.Text" xml:space="preserve">
+    <value>La date de début ne peut pas être inférieure à la date de fin.</value>
+  </data>
+  <data name="Prompt_UserAlreadyDeleted.Text" xml:space="preserve">
+    <value>L'utilisateur est déjà supprimé. Voulez-vous supprimer définitivement ? Utilisez \"purge-user\"</value>
+  </data>
+  <data name="Prompt_UserDeletionFailed.Text" xml:space="preserve">
+    <value>L'utilisateur a été trouvé mais le système est incapable de le supprimer.</value>
+  </data>
+  <data name="Prompt_UserIdIsRequired.Text" xml:space="preserve">
+    <value>Vous devez spécifier un ID d'utilisateur valide en tant que premier argument ou en utilisant l'option --id.</value>
+  </data>
+  <data name="Prompt_UserPurged.Text" xml:space="preserve">
+    <value>L'utilisateur a été définitivement retiré du site.</value>
   </data>
   <data name="Prompt_UsersCategory.Text" xml:space="preserve">
     <value>Commandes utilisateur</value>
-  </data>
-  <data name="Answer.Help" xml:space="preserve">
-    <value>Saisissez la réponse à la question.</value>
-  </data>
-  <data name="Answer.Required" xml:space="preserve">
-    <value>Vous devez saisir une réponse.</value>
-  </data>
-  <data name="Answer.Text" xml:space="preserve">
-    <value>Réponse :</value>
   </data>
   <data name="Question.Help" xml:space="preserve">
     <value>Entrez une question à utiliser lors de la récupération du mot de passe.</value>
@@ -665,5 +524,145 @@
   <data name="Question.Text" xml:space="preserve">
     <value>Question :</value>
   </data>
-  <!---->
+  <data name="Random.Help" xml:space="preserve">
+    <value>Cocher cette case pour générer un mot de passe aléatoire.</value>
+  </data>
+  <data name="Random.Text" xml:space="preserve">
+    <value>Mot de passe auto généré</value>
+  </data>
+  <data name="RegisterationFailed.Text" xml:space="preserve">
+    <value>Échec de l'inscription. Veuillez essayer plus tard.</value>
+  </data>
+  <data name="RegisteredUsers.Text" xml:space="preserve">
+    <value>Utilisateurs enregistrés</value>
+  </data>
+  <data name="RemoveUser.Confirm" xml:space="preserve">
+    <value>Êtes-vous certain de vouloir supprimer définitivement cet utilisateur ?</value>
+  </data>
+  <data name="RemoveUser.Text" xml:space="preserve">
+    <value>Supprimer définitivement l'utilisateur</value>
+  </data>
+  <data name="ResetPassword.Text" xml:space="preserve">
+    <value>Envoyer le lien de réinitialisation du mot de passe</value>
+  </data>
+  <data name="RestoreUser.Text" xml:space="preserve">
+    <value>Restaurer l’utilisateur</value>
+  </data>
+  <data name="Role.Header" xml:space="preserve">
+    <value>Rôle</value>
+  </data>
+  <data name="RoleIsNotApproved.Text" xml:space="preserve">
+    <value>Impossible d'attribuer un rôle qui n'est pas approuvé.</value>
+  </data>
+  <data name="Roles.Title" xml:space="preserve">
+    <value>Rôles</value>
+  </data>
+  <data name="rolesPageInfoText.Text" xml:space="preserve">
+    <value>Page {0} sur {1}</value>
+  </data>
+  <data name="rolesSummaryText.Text" xml:space="preserve">
+    <value>Affichage de {0}-{1} sur {2}</value>
+  </data>
+  <data name="SearchPlaceHolder.Text" xml:space="preserve">
+    <value>Rechercher des utilisateurs</value>
+  </data>
+  <data name="SendEmail.Text" xml:space="preserve">
+    <value>Envoyer le message</value>
+  </data>
+  <data name="ShowLabel.Text" xml:space="preserve">
+    <value>Afficher :</value>
+  </data>
+  <data name="Start.Header" xml:space="preserve">
+    <value>Démarrer</value>
+  </data>
+  <data name="SuperUsers.Text" xml:space="preserve">
+    <value>Superutilisateurs</value>
+  </data>
+  <data name="SwitchOff.Text" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="SwitchOn.Text" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="True.Text" xml:space="preserve">
+    <value>Vrai</value>
+  </data>
+  <data name="UnAuthorized.Text" xml:space="preserve">
+    <value>Non autorisés</value>
+  </data>
+  <data name="UpdatePassword.Help" xml:space="preserve">
+    <value>Indique si cet utilisateur est obligé de mettre à jour son mot de passe.</value>
+  </data>
+  <data name="UpdatePassword.Text" xml:space="preserve">
+    <value>Mise à jour du mot de passe :</value>
+  </data>
+  <data name="UserAuthorized.Text" xml:space="preserve">
+    <value>Utilisateur autorisé avec succès.</value>
+  </data>
+  <data name="UserCreated.Text" xml:space="preserve">
+    <value>Utilisateur créé avec succès.</value>
+  </data>
+  <data name="UserDeleted.Text" xml:space="preserve">
+    <value>Utilisateur supprimé avec succès.</value>
+  </data>
+  <data name="UserDeleteError.Text" xml:space="preserve">
+    <value>Échec de la suppression de l'utilisateur.</value>
+  </data>
+  <data name="UserFolder.Help" xml:space="preserve">
+    <value>Le dossier qui stocke les fichiers de cet utilisateur.</value>
+  </data>
+  <data name="UserFolder.Text" xml:space="preserve">
+    <value>Dossier de l’utilisateur :</value>
+  </data>
+  <data name="Username.Help" xml:space="preserve">
+    <value>Saisir un nom d’utilisateur. Il doit disposer d'au moins cinq caractères alphanumériques.</value>
+  </data>
+  <data name="Username.RegExError" xml:space="preserve">
+    <value>Le nom d’utilisateur saisi n’est pas valide.</value>
+  </data>
+  <data name="Username.Required" xml:space="preserve">
+    <value>Nom d'utilisateur requis.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="UsernameNotUnique.Text" xml:space="preserve">
+    <value>Le nom d'utilisateur doit être unique.</value>
+  </data>
+  <data name="UserNotFound.Text" xml:space="preserve">
+    <value>Utilisateur introuvable.</value>
+  </data>
+  <data name="UserPasswordUpdateChanged.Text" xml:space="preserve">
+    <value>L’utilisateur doit mettre à jour son mot de passe à la prochaine connexion.</value>
+  </data>
+  <data name="UserRemoveError.Text" xml:space="preserve">
+    <value>Impossible de supprimer l'utilisateur.</value>
+  </data>
+  <data name="UserRestored.Text" xml:space="preserve">
+    <value>Utilisateur restauré avec succès</value>
+  </data>
+  <data name="UserRestoreError.Text" xml:space="preserve">
+    <value>Impossible de restaurer l'utilisateur.</value>
+  </data>
+  <data name="usersPageSizeOptionText.Text" xml:space="preserve">
+    <value>{0} utilisateurs par page</value>
+  </data>
+  <data name="usersSummaryText.Text" xml:space="preserve">
+    <value>Affichage de {0}-{1} sur {2}</value>
+  </data>
+  <data name="UserUnAuthorized.Text" xml:space="preserve">
+    <value>Utilisateur désautorisé avec succès.</value>
+  </data>
+  <data name="UserUnLocked.Text" xml:space="preserve">
+    <value>Utilisateur déverrouillé avec succès.</value>
+  </data>
+  <data name="UserUnlockError.Text" xml:space="preserve">
+    <value>Échec lors du déverrouillage de l'utilisateur.</value>
+  </data>
+  <data name="UserUpdated.Text" xml:space="preserve">
+    <value>Utilisateur mis à jour avec succès.</value>
+  </data>
+  <data name="ViewProfile.Text" xml:space="preserve">
+    <value>Voir le profil</value>
+  </data>
 </root>
