@@ -282,6 +282,21 @@
   <data name="SortAscending.Text" xml:space="preserve">
     <value>Tri croissant</value>
   </data>
+  <data name="SortByDate.Text" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="SortByDateAscending.Help" xml:space="preserve">
+    <value>Trier la liste de fichiers par date de création de fichier dans l'ordre croissant.</value>
+  </data>
+  <data name="SortByDateAscending.Text" xml:space="preserve">
+    <value>Trier par date ascendante</value>
+  </data>
+  <data name="SortByDateDescending.Help" xml:space="preserve">
+    <value>Trier la liste de fichiers par date de création de fichier dans l'ordre décroissant.</value>
+  </data>
+  <data name="SortByDateDescending.Text" xml:space="preserve">
+    <value>Trier par date décroissante</value>
+  </data>
   <data name="SortDescending.Help" xml:space="preserve">
     <value>Trier la liste des fichiers par leur nom dans l'ordre décroissant.</value>
   </data>

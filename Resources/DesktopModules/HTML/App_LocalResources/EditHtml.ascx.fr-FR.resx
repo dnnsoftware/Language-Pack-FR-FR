@@ -189,6 +189,6 @@
     <value>Supprimer</value>
   </data>
   <data name="VersionsRollback.Text" xml:space="preserve">
-    <value>Rollback</value>
+    <value>Retour en arrière</value>
   </data>
 </root>

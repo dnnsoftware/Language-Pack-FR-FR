@@ -12,6 +12,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Actions.Text" xml:space="preserve">
+    <value>Actions</value>
+  </data>
   <data name="BackupFinished.Text" xml:space="preserve">
     <value>Terminé</value>
   </data>
@@ -27,8 +30,14 @@
   <data name="BackupType.Text" xml:space="preserve">
     <value>Type de sauvegarde</value>
   </data>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
   <data name="clearCacheButtonLabel.Text" xml:space="preserve">
     <value>Effacer le cache</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmer</value>
   </data>
   <data name="DbInfo_ProductEdition.Help" xml:space="preserve">
     <value>La version de SQL Server installée.</value>
@@ -54,6 +63,24 @@
   <data name="DbInfo_SoftwarePlatform.Text" xml:space="preserve">
     <value>Plate-forme logicielle :</value>
   </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Effacer</value>
+  </data>
+  <data name="DeleteNonActiveServers.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous supprimer tous les serveurs inactifs?</value>
+  </data>
+  <data name="DeleteNonActiveServers.Text" xml:space="preserve">
+    <value>Supprimer les serveurs non actifs</value>
+  </data>
+  <data name="DeleteNonActiveServers.Warning" xml:space="preserve">
+    <value>Vous pouvez supprimer tous les serveurs qui n'ont pas été actifs pendant 24 heures ci-dessous</value>
+  </data>
+  <data name="DeleteServerConfirm.Text" xml:space="preserve">
+    <value>Souhaitez-vous supprimer ce serveur Web?</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Éditer</value>
+  </data>
   <data name="EmailSentMessage.Text" xml:space="preserve">
     <value>Email envoyé correctement de {0} à {1}</value>
   </data>
@@ -62,6 +89,9 @@
   </data>
   <data name="errorMessageClearingCache.Text" xml:space="preserve">
     <value>Erreur lors de la tentative de suppression du cache</value>
+  </data>
+  <data name="errorMessageDeleteServers.Text" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la suppression de ce serveur</value>
   </data>
   <data name="errorMessageIncrementingVersion.Text" xml:space="preserve">
     <value>Erreur lors de l'incrémentation du numéro de version.</value>
@@ -80,6 +110,9 @@
   </data>
   <data name="errorMessageLoadingPerformanceTab.Text" xml:space="preserve">
     <value>Erreur lors du chargement de l'onglet Performance</value>
+  </data>
+  <data name="errorMessageLoadingServers.Text" xml:space="preserve">
+    <value>Erreur lors du chargement de la liste des serveurs Web</value>
   </data>
   <data name="errorMessageLoadingSmtpServerTab.Text" xml:space="preserve">
     <value>Erreur lors du chargement de l'onglet Serveur SMTP</value>
@@ -171,6 +204,15 @@
   <data name="infoMessageRestartingApplication.Text" xml:space="preserve">
     <value>Redémarrage de l'application</value>
   </data>
+  <data name="LastActivityDate.Text" xml:space="preserve">
+    <value>Dernière Activité</value>
+  </data>
+  <data name="Logs_Date.Header" xml:space="preserve">
+    <value>Date de la dernière modification</value>
+  </data>
+  <data name="Logs_Date.Text" xml:space="preserve">
+    <value>Date</value>
+  </data>
   <data name="Logs_LogFiles.Text" xml:space="preserve">
     <value>Fichiers journaux :</value>
   </data>
@@ -179,6 +221,27 @@
   </data>
   <data name="Logs_LogFilesTooltip.Text" xml:space="preserve">
     <value>Liste des fichiers journaux disponibles.</value>
+  </data>
+  <data name="Logs_Name.Header" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Logs_Name.Text" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Logs_ServerLog.Text" xml:space="preserve">
+    <value>Journal du serveur</value>
+  </data>
+  <data name="Logs_Size.Header" xml:space="preserve">
+    <value>Taille</value>
+  </data>
+  <data name="Logs_Type.Header" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Logs_Type.Text" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="Logs_UpgradeLog.Text" xml:space="preserve">
+    <value>Journal de mise à niveau</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nom</value>
@@ -191,6 +254,9 @@
   </data>
   <data name="NoIntegerValueError.Text" xml:space="preserve">
     <value>Ceci doit être un nombre entier positif.</value>
+  </data>
+  <data name="NonCoreMailProvider.Text" xml:space="preserve">
+    <value>Cette installation DNN exécute un autre fournisseur de messagerie. La configuration se fait dans l'interface du fournisseur.</value>
   </data>
   <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve">
     <value>Attention : la mise en mémoire de la persistance de l'état de la page peut provoquer des problèmes Ajax.</value>
@@ -348,6 +414,12 @@
   <data name="plGUID.Text" xml:space="preserve">
     <value>Hôte GUID :</value>
   </data>
+  <data name="plHostEmail.Help" xml:space="preserve">
+    <value>L'email de l'hôte est utilisé lors du test du serveur de messagerie, il peut également être utilisé par les extensions pour atteindre la personne responsable de l'hébergement.</value>
+  </data>
+  <data name="plHostEmail.Text" xml:space="preserve">
+    <value>E-mail de l'hôte</value>
+  </data>
   <data name="plMaxIdleTime.Help" xml:space="preserve">
     <value>Durée, en millisecondes, pendant laquelle une connexion associée à l'objet ServicePoint peut rester inactive avant d'être fermée et réutilisée pour une autre connexion. La valeur maximale est 2147483647. La valeur par défaut est 100 000 (100 secondes).</value>
   </data>
@@ -402,8 +474,14 @@
   <data name="plVersion.Text" xml:space="preserve">
     <value>Version :</value>
   </data>
+  <data name="plWebServers.Text" xml:space="preserve">
+    <value>Serveurs Web:</value>
+  </data>
   <data name="restartApplicationButtonLabel.Text" xml:space="preserve">
     <value>Redémarrer l'application</value>
+  </data>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Sauvegarder</value>
   </data>
   <data name="SaveButtonText.Text" xml:space="preserve">
     <value>Enregistrer</value>
@@ -468,6 +546,15 @@
   <data name="Servers.Text" xml:space="preserve">
     <value>Serveurs</value>
   </data>
+  <data name="Servers_CurrentServerName.Help" xml:space="preserve">
+    <value>Il s'agit du nom du serveur via lequel cette demande a été servie</value>
+  </data>
+  <data name="Servers_CurrentServerName.Text" xml:space="preserve">
+    <value>Nom du serveur actuel</value>
+  </data>
+  <data name="ServerUpdateUrlError.Text" xml:space="preserve">
+    <value>Impossible de mettre à jour l'URL du serveur Web</value>
+  </data>
   <data name="SiteSmtpHostSetting.Text" xml:space="preserve">
     <value>{0}</value>
   </data>
@@ -498,6 +585,9 @@
   <data name="tabServerSettingsTitle.Text" xml:space="preserve">
     <value>Paramètres du serveur</value>
   </data>
+  <data name="tabServersTitle.Text" xml:space="preserve">
+    <value>Serveurs Web</value>
+  </data>
   <data name="tabSmtpServerTitle.Text" xml:space="preserve">
     <value>Serveur SMTP</value>
   </data>
@@ -506,6 +596,12 @@
   </data>
   <data name="tabWebTitle.Text" xml:space="preserve">
     <value>Web</value>
+  </data>
+  <data name="Url.Help" xml:space="preserve">
+    <value>L'URL pour la connexion directe à ce serveur Web. Dans les environnements multi-serveurs, il s'agit généralement d'une adresse IP ou d'une entrée DNS unique qui pointe directement vers un serveur individuel.</value>
+  </data>
+  <data name="Url.Text" xml:space="preserve">
+    <value>URL</value>
   </data>
   <data name="UserRestart.Text" xml:space="preserve">
     <value>Utiliser un déclencheur pour redémarrer l'application</value>

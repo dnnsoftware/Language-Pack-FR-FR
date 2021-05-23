@@ -372,6 +372,9 @@
   <data name="HostSettings.Text" xml:space="preserve">
     <value>Paramètres</value>
   </data>
+  <data name="IncorrectDisplayNameConfiguration.Text" xml:space="preserve">
+    <value>La configuration du nom d'affichage n'est pas correcte. Indiquez le format du nom d'affichage ou incluez le nom d'affichage dans la liste des champs.</value>
+  </data>
   <data name="IpAddress.Header" xml:space="preserve">
     <value>ADRESSE IP</value>
   </data>
@@ -478,7 +481,7 @@
     <value>&amp;nbsp;</value>
   </data>
   <data name="ModuleId.Text" xml:space="preserve">
-    <value>MODULE ID</value>
+    <value>Identifiant du module</value>
   </data>
   <data name="ModuleSettings.Text" xml:space="preserve">
     <value>Paramètres</value>
@@ -603,6 +606,12 @@
   <data name="plDebugMode.Text" xml:space="preserve">
     <value>Mode debug</value>
   </data>
+  <data name="plDefaultEndUserExtensionWhitelist.Help" xml:space="preserve">
+    <value>Liste d'extensions par défaut pour les fichiers que les utilisateurs finaux sont autorisés à télécharger. Les utilisateurs administrateurs peuvent remplacer cela, mais ils ne peuvent jamais autoriser plus de types de fichiers que ceux définis dans la liste principale ci-dessus. Notez que cette liste sera filtrée par la liste ci-dessus lors de l'enregistrement.</value>
+  </data>
+  <data name="plDefaultEndUserExtensionWhitelist.Text" xml:space="preserve">
+    <value>Liste blanche des extensions de l'utilisateur final par défaut</value>
+  </data>
   <data name="plEnableBannedList.Help" xml:space="preserve">
     <value>Cocher cette case pour vérifier les mots de passe avec une liste d'éléments interdits.</value>
   </data>
@@ -644,6 +653,12 @@
   </data>
   <data name="plFirstIP.Text" xml:space="preserve">
     <value>Première adresse IP</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Help" xml:space="preserve">
+    <value>Forcer la déconnexion de l'utilisateur dans d'autres navigateurs après la modification du mot de passe de l'utilisateur.</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Text" xml:space="preserve">
+    <value>Forcer la déconnexion après la modification du mot de passe</value>
   </data>
   <data name="plHideLoginControl.Help" xml:space="preserve">
     <value>Cocher cette case pour masquer le lien de connexion dans la page.</value>
@@ -745,7 +760,7 @@
     <value>Informations d'identification</value>
   </data>
   <data name="PortalId.Text" xml:space="preserve">
-    <value>PORTAL ID</value>
+    <value>Identifiant du portail</value>
   </data>
   <data name="PortalSettings.Text" xml:space="preserve">
     <value>Paramètres de site</value>
@@ -755,6 +770,9 @@
   </data>
   <data name="Public.Text" xml:space="preserve">
     <value>Public</value>
+  </data>
+  <data name="RedirectionMovedToSiteSettings.Text" xml:space="preserve">
+    <value>La redirection a été déplacée vers les paramètres du site</value>
   </data>
   <data name="Registration_ExcludeTerms.Help" xml:space="preserve">
     <value>Vous pouvez définir une liste délimitée par des virgules de termes qu'un utilisateur ne peut pas utiliser dans son nom d'utilisateur ou son nom d'affichage.</value>
@@ -918,6 +936,15 @@
   <data name="Security_RequireValidProfileAtLogin.Text" xml:space="preserve">
     <value>Exiger un profil valide pour se connecter</value>
   </data>
+  <data name="Security_UserNameMinLength.ErrorMessage" xml:space="preserve">
+    <value>La longueur minimale du nom d'utilisateur doit être un entier supérieur à 0 et inférieur ou égal à 100.</value>
+  </data>
+  <data name="Security_UserNameMinLength.Help" xml:space="preserve">
+    <value>Spécifiez la longueur minimale d'un nom d'utilisateur pour les nouveaux utilisateurs ou les noms d'utilisateur modifiés.</value>
+  </data>
+  <data name="Security_UserNameMinLength.Text" xml:space="preserve">
+    <value>Longueur minimale du nom d'utilisateur</value>
+  </data>
   <data name="Security_UserNameValidation.Help" xml:space="preserve">
     <value>Ajouter votre propre expression de validation, qui sera utilisé pour vérifier la validité du nom d'utilisateur fourni. Si vous modifiez cette valeur par défaut, vous devrez mettre à jour le message qu'un utilisateur verrait lorsqu'ils saisit un nom d'utilisateur non valide à l'aide de l'éditeur de localisation dans Paramètres - Paramètres du site - Langues.</value>
   </data>
@@ -967,7 +994,7 @@
     <value>PARAMÈTRES DE CONNEXION DE BASE</value>
   </data>
   <data name="TabId.Text" xml:space="preserve">
-    <value>TAB ID</value>
+    <value>Identifiant de la page</value>
   </data>
   <data name="TabIpFilters.Text" xml:space="preserve">
     <value>FILTRES DE CONNEXION IP</value>
@@ -1009,7 +1036,7 @@
     <value>ACTIVITÉ DE SUPER-UTILISATEUR</value>
   </data>
   <data name="UserId.Text" xml:space="preserve">
-    <value>USER ID</value>
+    <value>Identifiant de l'utilisateur</value>
   </data>
   <data name="Username.Header" xml:space="preserve">
     <value>Nom d'utilisateur</value>

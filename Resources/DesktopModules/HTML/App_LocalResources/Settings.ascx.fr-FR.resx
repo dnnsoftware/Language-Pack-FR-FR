@@ -59,7 +59,7 @@ Note : l'édition directe et la mise en cache seront désactivés si l'option es
     <value>Sélectionnez un workflow de contenu</value>
   </data>
   <data name="plWorkflow.Text" xml:space="preserve">
-    <value>Workflow</value>
+    <value>Méthodologie</value>
   </data>
   <data name="Site.Text" xml:space="preserve">
     <value>Site</value>

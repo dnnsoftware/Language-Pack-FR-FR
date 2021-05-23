@@ -48,6 +48,9 @@
   <data name="ControlTitle_template.Text" xml:space="preserve">
     <value>Créer le modèle de site</value>
   </data>
+  <data name="CreatePortalHomeFolderExists.Error" xml:space="preserve">
+    <value>Le dossier du portail {0} est déjà utilisé.</value>
+  </data>
   <data name="CreateSite_AdminEmail.Label" xml:space="preserve">
     <value>Courriel</value>
   </data>
