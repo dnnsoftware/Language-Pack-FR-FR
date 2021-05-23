@@ -255,6 +255,9 @@
   <data name="Prompt_NothingToUpdate.Text" xml:space="preserve">
     <value>Rien à mettre à jour !</value>
   </data>
+  <data name="Prompt_RoleFound.Text" xml:space="preserve">
+    <value>Le rôle "{0}" a été trouvé.</value>
+  </data>
   <data name="Prompt_RoleIdIsRequired.Text" xml:space="preserve">
     <value>Vous devez spécifier un ID de rôle valide en tant que premier argument ou en utilisant l'option --id.</value>
   </data>

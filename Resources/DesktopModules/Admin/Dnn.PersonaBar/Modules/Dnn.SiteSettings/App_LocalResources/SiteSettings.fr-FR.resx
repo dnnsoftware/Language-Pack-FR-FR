@@ -120,11 +120,68 @@
   <data name="CurrentSiteDefault.Text" xml:space="preserve">
     <value>Langue par défaut actuelle :</value>
   </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Personnalisé</value>
+  </data>
+  <data name="DataConsentActive.Help" xml:space="preserve">
+    <value>Une fois activé, les utilisateurs enregistrés seront obligés d'accepter les termes et conditions de ce site</value>
+  </data>
+  <data name="DataConsentActive.Text" xml:space="preserve">
+    <value>Consentement des données actif</value>
+  </data>
+  <data name="DataConsentConsentRedirect.Help" xml:space="preserve">
+    <value>Si une page est sélectionnée, les utilisateurs seront redirigés vers cette page pour signer leur consentement. Sinon, DNN proposera un écran par défaut pour cela.</value>
+  </data>
+  <data name="DataConsentConsentRedirect.Text" xml:space="preserve">
+    <value>Redirection du consentement</value>
+  </data>
+  <data name="DataConsentDelay.ErrorMessage" xml:space="preserve">
+    <value>Doit être un entier</value>
+  </data>
+  <data name="DataConsentDelay.Text" xml:space="preserve">
+    <value>Délai de suppression définitive</value>
+  </data>
+  <data name="DataConsentResetTerms.Completed" xml:space="preserve">
+    <value>Tout consentement a été réinitialisé et tous les utilisateurs devront (re) consentir à nouveau aux termes et conditions.</value>
+  </data>
+  <data name="DataConsentResetTerms.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous réinitialiser le consentement que tous les utilisateurs ont signé et leur demander à nouveau?</value>
+  </data>
+  <data name="DataConsentResetTerms.Text" xml:space="preserve">
+    <value>Réinitialiser les conditions générales</value>
+  </data>
+  <data name="DataConsentResetTerms.Warning" xml:space="preserve">
+    <value>Utilisez le bouton ci-dessous pour forcer tous les utilisateurs à accepter à nouveau les termes et conditions. Utilisez-le lorsque les termes et conditions ont changé.</value>
+  </data>
+  <data name="DataConsentSettings.Text" xml:space="preserve">
+    <value>Paramètres de consentement des données</value>
+  </data>
+  <data name="DataConsentUserDelayedHardDelete.Text" xml:space="preserve">
+    <value>Suppression définitive différée</value>
+  </data>
+  <data name="DataConsentUserDeleteAction.Help" xml:space="preserve">
+    <value>Spécifiez ce qui doit se passer lorsqu'un utilisateur choisit de supprimer son profil du site</value>
+  </data>
+  <data name="DataConsentUserDeleteAction.Text" xml:space="preserve">
+    <value>Action de suppression de l'utilisateur</value>
+  </data>
+  <data name="DataConsentUserDeleteManual.Text" xml:space="preserve">
+    <value>Manuel</value>
+  </data>
+  <data name="DataConsentUserHardDelete.Text" xml:space="preserve">
+    <value>Suppression définitive</value>
+  </data>
   <data name="DataType.Header" xml:space="preserve">
     <value>Type de données</value>
   </data>
+  <data name="Days.Text" xml:space="preserve">
+    <value>Jours</value>
+  </data>
   <data name="DeactivateLanguageWarning.Text" xml:space="preserve">
     <value>Voulez-vous vraiment désactiver {0} ?</value>
+  </data>
+  <data name="Default.Text" xml:space="preserve">
+    <value>Défaut</value>
   </data>
   <data name="DefaultImageTitle.Text" xml:space="preserve">
     <value>Image</value>
@@ -234,6 +291,12 @@
   <data name="Full.LangPackType" xml:space="preserve">
     <value>Complet</value>
   </data>
+  <data name="GdprResetTerms.Completed" xml:space="preserve">
+    <value>Le consentement aux termes et conditions a été réinitialisé</value>
+  </data>
+  <data name="GdprResetTerms.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous réinitialiser le consentement de tous les utilisateurs et forcer tout le monde à accepter à nouveau les termes et conditions?</value>
+  </data>
   <data name="Global.Text" xml:space="preserve">
     <value>Global</value>
   </data>
@@ -254,6 +317,9 @@
   </data>
   <data name="HostSkins.Text" xml:space="preserve">
     <value>Thèmes de l'hôte</value>
+  </data>
+  <data name="Hours.Text" xml:space="preserve">
+    <value>Heures</value>
   </data>
   <data name="HtmlEditor.Text" xml:space="preserve">
     <value>Gestionnaire d’éditeurs HTML</value>
@@ -519,6 +585,9 @@
   <data name="ModuleRequired.Error" xml:space="preserve">
     <value>Veuillez sélectionner au moins un module dans la liste.</value>
   </data>
+  <data name="MoreSettings.Text" xml:space="preserve">
+    <value>Plus de réglages</value>
+  </data>
   <data name="Name.Header" xml:space="preserve">
     <value>Nom</value>
   </data>
@@ -546,14 +615,23 @@
   <data name="NoneSpecified.Text" xml:space="preserve">
     <value>Rien de précisé</value>
   </data>
+  <data name="NoSpecialCharacterName.Text" xml:space="preserve">
+    <value>Cette propriété n'accepte pas les caractères spéciaux.</value>
+  </data>
   <data name="NotSpecified.Text" xml:space="preserve">
     <value>&lt;Non spécifié&gt;</value>
   </data>
   <data name="ObsoleteEntries.Text" xml:space="preserve">
     <value>Fichiers avec les entrées obsolètes :</value>
   </data>
+  <data name="Off.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
   <data name="OldFiles.Text" xml:space="preserve">
     <value>Fichiers plus anciens que ceux du système par défaut  :</value>
+  </data>
+  <data name="OnlyImages.Text" xml:space="preserve">
+    <value>Seulement les images</value>
   </data>
   <data name="OpenHtmlEditor.Text" xml:space="preserve">
     <value>Ouvrir le gestionnaire de l’éditeur HTML</value>
@@ -585,6 +663,12 @@
   <data name="pl500TabId.Text" xml:space="preserve">
     <value>Page d'erreur 500</value>
   </data>
+  <data name="plAllowedExtensionsWhitelist.Help" xml:space="preserve">
+    <value>Une liste d'extensions séparées par des virgules pour les fichiers que les utilisateurs finaux sont autorisés à télécharger sur le site. Notez que cela peut se faire en téléchargeant une photo de profil, un contenu dans le journal ou à partir d'un module de téléchargement de fichiers. Les extensions que vous entrez sont comparées à une liste globale autorisée et peuvent être restreintes en conséquence.</value>
+  </data>
+  <data name="plAllowedExtensionsWhitelist.Text" xml:space="preserve">
+    <value>Extensions de fichiers autorisées</value>
+  </data>
   <data name="plAutoAddPortalAlias.Help" xml:space="preserve">
     <value>Ce paramètre détermine comment le site répond aux URL qui sont mappées sur le site mais qui ne figurent pas actuellement dans la liste des alias. Ce paramètre est efficace dans la configuration d'un site unique. Sélectionnez cette option pour mapper automatiquement la nouvelle URL.</value>
   </data>
@@ -596,6 +680,12 @@
   </data>
   <data name="plCategoryName.Text" xml:space="preserve">
     <value>Nom de la catégorie</value>
+  </data>
+  <data name="plCookieMoreLink.Help" xml:space="preserve">
+    <value>Dans la fenêtre contextuelle de consentement des cookies, un lien est affiché pour expliquer les cookies aux utilisateurs. Si vous souhaitez remplacer ce lien (par défaut, il pointe vers cookiesandme.com), il sera lié à cette URL.</value>
+  </data>
+  <data name="plCookieMoreLink.Text" xml:space="preserve">
+    <value>URL de consentement du cookie</value>
   </data>
   <data name="plDescription.Help" xml:space="preserve">
     <value>Entrer ici une description pour le site.</value>
@@ -614,6 +704,12 @@
   </data>
   <data name="plEnableContentLocalization.Text" xml:space="preserve">
     <value>Activer la localisation de contenu</value>
+  </data>
+  <data name="plEnablePopups.Help" xml:space="preserve">
+    <value>Lorsqu'il est activé, DNN charge certains contrôles standard dans une fenêtre contextuelle. Sinon, il rechargera la page et affichera le contrôle intégré à une page.</value>
+  </data>
+  <data name="plEnablePopups.Text" xml:space="preserve">
+    <value>Activer les fenêtres contextuelles</value>
   </data>
   <data name="plFavIcon.Help" xml:space="preserve">
     <value>La favicon sélectionnée s'appliquera à toutes les pages du site.</value>
@@ -656,6 +752,18 @@
   </data>
   <data name="plIncludeAttachments.Text" xml:space="preserve">
     <value>Inclure des pièces jointes</value>
+  </data>
+  <data name="plInjectModuleHyperLink.Help" xml:space="preserve">
+    <value>Lorsqu'activé, DNN insérera un ancre au début de chaque module avec l'identifiant du module pour nom.</value>
+  </data>
+  <data name="plInjectModuleHyperLink.Text" xml:space="preserve">
+    <value>Injecter un ancre pour les modules</value>
+  </data>
+  <data name="plInlineEditorEnabled.Help" xml:space="preserve">
+    <value>Lorsqu'activé, DNN permet aux éditeurs de modifier le contenu du module HTML directement sur la page au lieu d'avoir à passer par le contrôle d'édition.</value>
+  </data>
+  <data name="plInlineEditorEnabled.Text" xml:space="preserve">
+    <value>Éditeur en ligne activé</value>
   </data>
   <data name="plKeyWords.Help" xml:space="preserve">
     <value>Entrez quelques mots-clés pour votre site (séparés par des virgules). Ces mots-clés sont utilisés par les moteurs de recherche pour aider à indexer le site.</value>
@@ -726,6 +834,12 @@
   <data name="plPortalName.Text" xml:space="preserve">
     <value>Titre du site</value>
   </data>
+  <data name="plPrivacyTabId.Help" xml:space="preserve">
+    <value>Il s'agit de la page vers laquelle votre utilisateur sera redirigé en cliquant sur le lien de la déclaration de confidentialité. S'il n'est pas défini, une déclaration de confidentialité par défaut sera affichée.</value>
+  </data>
+  <data name="plPrivacyTabId.Text" xml:space="preserve">
+    <value>Page de déclaration de confidentialité</value>
+  </data>
   <data name="plPropertyHelp.Help" xml:space="preserve">
     <value>Saisir un texte d’aide de cette propriété dans la langue sélectionnée.</value>
   </data>
@@ -762,11 +876,29 @@
   <data name="plSearchTabId.Text" xml:space="preserve">
     <value>Page de résultats de recherche</value>
   </data>
+  <data name="plShowCookieConsent.Help" xml:space="preserve">
+    <value>Afficher une fenêtre contextuelle de consentement aux cookies sur ce site. Les utilisateurs devront cliquer sur la fenêtre contextuelle pour accepter et la fermer. Il ne réapparaîtra plus après cela.</value>
+  </data>
+  <data name="plShowCookieConsent.Text" xml:space="preserve">
+    <value>Afficher le consentement aux cookies</value>
+  </data>
+  <data name="plShowQuickModuleAddMenu.Help" xml:space="preserve">
+    <value>Si activé, affichera une liste déroulante sur la barre d'édition à partir de laquelle les utilisateurs peuvent ajouter rapidement un module à un panneau spécifié.</value>
+  </data>
+  <data name="plShowQuickModuleAddMenu.Text" xml:space="preserve">
+    <value>Afficher le menu d'ajout de module rapide</value>
+  </data>
   <data name="plSplashTabId.Help" xml:space="preserve">
     <value>Sélectionnez une page qui s'affichera avant la page d'accueil (si l'utilisateur arrive sur votre site directement par l'URL).</value>
   </data>
   <data name="plSplashTabId.Text" xml:space="preserve">
     <value>Page de pré-accueil</value>
+  </data>
+  <data name="plTermsTabId.Help" xml:space="preserve">
+    <value>La page sur laquelle vous affichez les conditions d'utilisation de ce site. Si cette option n'est pas sélectionnée, un texte par défaut sera affiché lorsqu'un utilisateur clique sur le lien des conditions d'utilisation.</value>
+  </data>
+  <data name="plTermsTabId.Text" xml:space="preserve">
+    <value>Page des conditions d'utilisation</value>
   </data>
   <data name="plTimeZone.Help" xml:space="preserve">
     <value>Choisissez le fuseau horaire applicable à votre site.</value>
@@ -792,6 +924,12 @@
   <data name="plUserTabId.Text" xml:space="preserve">
     <value>Page profil utilisateur</value>
   </data>
+  <data name="plWhitelistOption.Help" xml:space="preserve">
+    <value>Cette liste déroulante remplira la liste des extensions de fichier autorisées</value>
+  </data>
+  <data name="plWhitelistOption.Text" xml:space="preserve">
+    <value>Choisissez la liste blanche de fichiers pour les utilisateurs finaux</value>
+  </data>
   <data name="portalAliasModeButtonListLabel.Help" xml:space="preserve">
     <value>Ce paramètre détermine la façon dont le site répond aux URL qui sont définies comme alias, mais qui ne sont pas l'alias par défaut. Canonique (l'URL alias est traitée comme une URL canonique), Redirection (redirige vers alias par défaut) ou Aucune (aucune action supplémentaire n'est reéalisée).</value>
   </data>
@@ -803,6 +941,12 @@
   </data>
   <data name="Primary.Header" xml:space="preserve">
     <value>PRIMAIRE</value>
+  </data>
+  <data name="PrivacyCommunicationSettings.Text" xml:space="preserve">
+    <value>Paramètres de communication</value>
+  </data>
+  <data name="PrivacyCookieConsentSettings.Text" xml:space="preserve">
+    <value>Paramètres de consentement aux cookies</value>
   </data>
   <data name="ProcessingPage.Text" xml:space="preserve">
     <value>{0}:  Page {1} / {2} - {3}</value>
@@ -857,6 +1001,9 @@
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Help" xml:space="preserve">
     <value>Entrer un nom pour la propriété.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.NoSpecialCharacters" xml:space="preserve">
+    <value>Le nom du champ n'accepte pas les caractères spéciaux ou d'espacement.</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Required" xml:space="preserve">
     <value>Le nom de domaine est requis.</value>
@@ -915,6 +1062,24 @@
   <data name="Redirect.Text" xml:space="preserve">
     <value>Redirection</value>
   </data>
+  <data name="Redirect_AfterLogin.Help" xml:space="preserve">
+    <value>Sélectionnez optionellement la page vers laquelle les utilisateurs seront redirigés après une connexion réussie.</value>
+  </data>
+  <data name="Redirect_AfterLogin.Text" xml:space="preserve">
+    <value>Rediriger après la connexion</value>
+  </data>
+  <data name="Redirect_AfterLogout.Help" xml:space="preserve">
+    <value>Sélectionnez optionnellement la page vers laquelle les utilisateurs seront redirigés lors de la déconnexion.</value>
+  </data>
+  <data name="Redirect_AfterLogout.Text" xml:space="preserve">
+    <value>Rediriger après la déconnexion</value>
+  </data>
+  <data name="Redirect_AfterRegistration.Help" xml:space="preserve">
+    <value>Sélectionnez optionnellement la page vers laquelle les utilisateurs seront redirigés une fois l'inscription réussie.</value>
+  </data>
+  <data name="Redirect_AfterRegistration.Text" xml:space="preserve">
+    <value>Rediriger après l'enregistrement</value>
+  </data>
   <data name="redirectOldProfileUrlsLabel.Help" xml:space="preserve">
     <value>Cocher cette case pour forcer les "vieilles" URLs de profil à être redirigées vers les URLs personnalisées.</value>
   </data>
@@ -935,6 +1100,9 @@
   </data>
   <data name="RequiredTextBox.Text" xml:space="preserve">
     <value>La longueur requise doit être un entier supérieur ou égal à 0. Si vous utilisez un champ TextBox, la longueur requise doit être supérieure à 0.</value>
+  </data>
+  <data name="Reset.Text" xml:space="preserve">
+    <value>Réinitialiser</value>
   </data>
   <data name="ResourceFile.Text" xml:space="preserve">
     <value>Fichier de ressources</value>
@@ -1086,6 +1254,9 @@
   <data name="TabMore.Text" xml:space="preserve">
     <value>Plus</value>
   </data>
+  <data name="TabPrivacy.Text" xml:space="preserve">
+    <value>Confidentialité</value>
+  </data>
   <data name="TabSearch.Text" xml:space="preserve">
     <value>Chercher</value>
   </data>
@@ -1205,6 +1376,15 @@
   </data>
   <data name="Visible.Header" xml:space="preserve">
     <value>Visible</value>
+  </data>
+  <data name="Warning.Text" xml:space="preserve">
+    <value>Avertissement</value>
+  </data>
+  <data name="Weeks.Text" xml:space="preserve">
+    <value>Semaines</value>
+  </data>
+  <data name="WhitelistSettings.Text" xml:space="preserve">
+    <value>Liste des extensions de fichier autorisées</value>
   </data>
   <data name="WrongFormat.Text" xml:space="preserve">
     <value>Format incorrect</value>

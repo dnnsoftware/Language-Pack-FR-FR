@@ -21,6 +21,12 @@
   <data name="CriticalUpdate.Text" xml:space="preserve">
     <value>[Mise à jour critique]</value>
   </data>
+  <data name="DisableEditBar.Help" xml:space="preserve">
+    <value>Cette installation DNN exécute une autre barre d'édition.</value>
+  </data>
+  <data name="DisableEditBar.Text" xml:space="preserve">
+    <value>La barre d'édition est désactivée.</value>
+  </data>
   <data name="Documentation.Text" xml:space="preserve">
     <value>Documentation</value>
   </data>

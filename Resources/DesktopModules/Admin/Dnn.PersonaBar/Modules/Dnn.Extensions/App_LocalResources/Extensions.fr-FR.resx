@@ -814,7 +814,7 @@
     <value>Cette application contient un service de mise à jour qui affiche une icône lorsqu'une nouvelle version d'une extension est disponible. L'icône affichée contiendra une indication visuelle si la version actuelle contient une vulnérabilité de sécurité potentielle. Si une vulnérabilité de sécurité est identifiée, il est vivement recommandé de passer à la version la plus récente de l'Extension. En cliquant sur l'icône vous aurez la possibilité d'acquérir l'extension pour une installation immédiate.</value>
   </data>
   <data name="Library.Type" xml:space="preserve">
-    <value>libraries</value>
+    <value>Librairies</value>
   </data>
   <data name="License.Text" xml:space="preserve">
     <value>Licence :</value>
@@ -1021,7 +1021,7 @@
     <value>Price: bas - haut</value>
   </data>
   <data name="Provider.Type" xml:space="preserve">
-    <value>Providers</value>
+    <value>Fournisseurs</value>
   </data>
   <data name="PurchasedExtensions.Text" xml:space="preserve">
     <value>Extensions achetées</value>

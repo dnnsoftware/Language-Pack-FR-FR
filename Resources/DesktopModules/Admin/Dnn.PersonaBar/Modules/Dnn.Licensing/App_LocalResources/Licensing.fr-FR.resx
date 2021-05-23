@@ -15,6 +15,18 @@
   <data name="Activated.Header" xml:space="preserve">
     <value>ACTIVÉ</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>La communauté DNN est active et dynamique. Rendez-nous visite et participez aux activités. Obtenez de l'aide, discutez de projets et suivez toutes les grandes choses que font les autres.</value>
+  </data>
+  <data name="Community.Header" xml:space="preserve">
+    <value>LA COMMUNAUTÉ</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>DNN Docs est également open source! Apprenez à démarrer avec DNN, suivez des didacticiels étape par étape et parcourez même la documentation de l'API.</value>
+  </data>
+  <data name="Docs.Header" xml:space="preserve">
+    <value>LES DOCS</value>
+  </data>
   <data name="Error.ACT1.Text" xml:space="preserve">
     <value>L’activation de la licence a échoué. Les informations fournies ne correspondent pas à une licence valide. .&lt;br /&gt;&lt;br /&gt; Veuillez vérifier sur la page &lt;a href="{0}" target="_blank"&gt; de dnnsoftware.com&lt;/a&gt; et essayez à nouveau. Veuillez contacter le support technique en cas de difficultés.</value>
   </data>
@@ -60,6 +72,18 @@
   <data name="Expires.Header" xml:space="preserve">
     <value>EXPIRE</value>
   </data>
+  <data name="GitHub" xml:space="preserve">
+    <value>Le projet Open Source DNN Platform est géré sur GitHub. Visitez-nous là-bas et impliquez-vous. Signalez les problèmes, fournissez des commentaires précieux et contribuez.</value>
+  </data>
+  <data name="GitHub.Header" xml:space="preserve">
+    <value>LE CODE</value>
+  </data>
+  <data name="Intro" xml:space="preserve">
+    <value>DNN® (anciennement DotNetNuke®) est la principale plateforme de gestion de contenu Web (CMS) open source de l'écosystème Microsoft. Le produit est utilisé pour créer des sites Web commerciaux, des intranets sociaux, des portails communautaires ou des extranets partenaires à l'aspect professionnel et facile à utiliser. Contenant des contenus dynamiques de tous types, les sites DNN sont faciles à déployer et à mettre à jour. La plate-forme DNN a été téléchargée plus de 8 millions de fois et alimente plus de 750 000 sites Web dans le monde. Une communauté de plus d'un million de membres forme un puissant réseau de soutien.</value>
+  </data>
+  <data name="Intro.Header" xml:space="preserve">
+    <value>Plateforme DNN</value>
+  </data>
   <data name="InvoiceNumber.Header" xml:space="preserve">
     <value>NUMÉRO DE LA FACTURE</value>
   </data>
@@ -76,7 +100,7 @@
     <value>Production</value>
   </data>
   <data name="LicenseType.Staging" xml:space="preserve">
-    <value>Staging</value>
+    <value>Arrière-Scène</value>
   </data>
   <data name="LicenseType.Test" xml:space="preserve">
     <value>Test</value>

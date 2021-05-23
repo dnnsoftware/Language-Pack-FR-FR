@@ -22,7 +22,7 @@
     <value>Analyse du paquet pour importation de site...</value>
   </data>
   <data name="Assets.Text" xml:space="preserve">
-    <value>Assets</value>
+    <value>Fichiers</value>
   </data>
   <data name="BackToImportExport.Text" xml:space="preserve">
     <value>Retour à l’Import / Export</value>
@@ -256,7 +256,7 @@
     <value>Nom</value>
   </data>
   <data name="nav_SiteImportExport.Text" xml:space="preserve">
-    <value>Import / Export</value>
+    <value>Importer / Exporter</value>
   </data>
   <data name="No.Text" xml:space="preserve">
     <value>Non</value>
@@ -319,7 +319,7 @@
     <value>Site</value>
   </data>
   <data name="SiteImportExport.Header" xml:space="preserve">
-    <value>Import / Export</value>
+    <value>Importer / Exporter</value>
   </data>
   <data name="SortByDateNewest.Text" xml:space="preserve">
     <value>Date (plus récent)</value>
@@ -337,13 +337,13 @@
     <value>* Note :</value>
   </data>
   <data name="SwitchOff.Text" xml:space="preserve">
-    <value>Off</value>
+    <value>Désactivé</value>
   </data>
   <data name="SwitchOn.Text" xml:space="preserve">
-    <value>On</value>
+    <value>Activé</value>
   </data>
   <data name="Timestamp.Text" xml:space="preserve">
-    <value>Timestamp</value>
+    <value>Horodatage</value>
   </data>
   <data name="TotalExportSize.Text" xml:space="preserve">
     <value>Taille totale de l'exportation</value>

@@ -132,6 +132,12 @@
   <data name="SecondsAgo.Text" xml:space="preserve">
     <value>il y a {0} secondes</value>
   </data>
+  <data name="SwitchOff.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="SwitchOn.Text" xml:space="preserve">
+    <value>Activé</value>
+  </data>
   <data name="UnauthorizedRequest.Text" xml:space="preserve">
     <value>Autorisation refusée pour cette demande.</value>
   </data>

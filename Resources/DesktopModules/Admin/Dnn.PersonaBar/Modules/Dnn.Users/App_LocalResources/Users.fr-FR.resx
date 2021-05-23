@@ -105,6 +105,9 @@
   <data name="ConfirmMismatch.ErrorMessage" xml:space="preserve">
     <value>Le nouveau mot de passe et la confirmation mot de passe doivent correspondre.</value>
   </data>
+  <data name="CouldNotRemoveAll.Text" xml:space="preserve">
+    <value>Impossible de supprimer tous les utilisateurs</value>
+  </data>
   <data name="Created.Header" xml:space="preserve">
     <value>Rejoint</value>
   </data>
@@ -183,6 +186,21 @@
   <data name="ForceChangePassword.Text" xml:space="preserve">
     <value>Forcer le changement de mot de passe</value>
   </data>
+  <data name="HasAgreedToTerms.Help" xml:space="preserve">
+    <value>L'utilisateur a accepté les conditions d'utilisation et la déclaration de confidentialité de ce site via le mécanisme de consentement des données</value>
+  </data>
+  <data name="HasAgreedToTerms.Text" xml:space="preserve">
+    <value>A consenti aux conditions</value>
+  </data>
+  <data name="HasAgreedToTerms.title" xml:space="preserve">
+    <value>L'utilisateur a accepté les conditions d'utilisation</value>
+  </data>
+  <data name="HasNotAgreedToTerms.Text" xml:space="preserve">
+    <value>N'a pas consenti aux conditions</value>
+  </data>
+  <data name="HasNotAgreedToTerms.title" xml:space="preserve">
+    <value>L'utilisateur n'a pas accepté les conditions d'utilisation</value>
+  </data>
   <data name="InSufficientPermissions.Text" xml:space="preserve">
     <value>Vous n’avez pas les permissions pour effectuer cette action.</value>
   </data>
@@ -209,6 +227,12 @@
   </data>
   <data name="LastActivityDate.Text" xml:space="preserve">
     <value>Date de la dernière activité :</value>
+  </data>
+  <data name="LastConsented.Help" xml:space="preserve">
+    <value>La dernière fois que l'utilisateur a consenti aux termes de ce site. Si les conditions ont été modifiées depuis, l'utilisateur peut être marqué comme n'ayant pas consenti</value>
+  </data>
+  <data name="LastConsented.Text" xml:space="preserve">
+    <value>Dernier consentement le</value>
   </data>
   <data name="LastLockoutDate.Help" xml:space="preserve">
     <value>La date de verrouillage à cause de tentatives de connexion répétées pour cet utilisateur.</value>
@@ -338,6 +362,9 @@
   </data>
   <data name="Prompt_AddRoles_FlagStart.Text" xml:space="preserve">
     <value>Date d'entrée en vigueur du rôle</value>
+  </data>
+  <data name="Prompt_AddRoles_NotFound.Text" xml:space="preserve">
+    <value>Impossible de trouver le{0} rôle{0} '{1}'. Le paramètre --roles n'accepte que les rôles existants.</value>
   </data>
   <data name="Prompt_AddRoles_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Ajoute un rôle à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles Editor&lt;/code&gt; OR &lt;code class="block"&gt;add-roles 23 --roles Editor&lt;/code&gt; OR &lt;code class="block"&gt;add-roles --id 23 "Editor"&lt;/code&gt; &lt;h4&gt;Ajoute un rôle (dont le nom comporte plusieurs mots) à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles "Article Reviewer"&lt;/code&gt; &lt;h4&gt;Ajoute de multiples rôles à l'utilisateur&lt;/h4&gt; &lt;code class="block"&gt;add-roles --id 23 --roles "Editor, Writer, Article Reviewer"&lt;/code&gt;</value>
@@ -474,7 +501,7 @@
     <value>Statut d'approbation de l'utilisateur</value>
   </data>
   <data name="Prompt_SetUser_FlagDisplayname.Text" xml:space="preserve">
-    <value>The name to be displayed for the user.</value>
+    <value>Le nom à afficher pour l'utilisateur.</value>
   </data>
   <data name="Prompt_SetUser_FlagEmail.Text" xml:space="preserve">
     <value>Nom à afficher pour l'utilisateur.</value>
@@ -536,11 +563,26 @@
   <data name="RegisteredUsers.Text" xml:space="preserve">
     <value>Utilisateurs enregistrés</value>
   </data>
+  <data name="RemoveDeleted.Btn" xml:space="preserve">
+    <value>Supprimer les utilisateurs supprimés</value>
+  </data>
+  <data name="RemoveDeleted.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous supprimer définitivement les utilisateurs supprimés? Vous ne pouvez pas annuler cette opération.</value>
+  </data>
+  <data name="RemoveDeleted.Done" xml:space="preserve">
+    <value>Tous les utilisateurs supprimés ont été supprimés</value>
+  </data>
   <data name="RemoveUser.Confirm" xml:space="preserve">
     <value>Êtes-vous certain de vouloir supprimer définitivement cet utilisateur ?</value>
   </data>
   <data name="RemoveUser.Text" xml:space="preserve">
     <value>Supprimer définitivement l'utilisateur</value>
+  </data>
+  <data name="RequestedRemoval.Text" xml:space="preserve">
+    <value>Suppression demandée</value>
+  </data>
+  <data name="RequestsRemoval.title" xml:space="preserve">
+    <value>L'utilisateur a demandé la suppression du site</value>
   </data>
   <data name="ResetPassword.Text" xml:space="preserve">
     <value>Envoyer le lien de réinitialisation du mot de passe</value>
@@ -579,10 +621,10 @@
     <value>Superutilisateurs</value>
   </data>
   <data name="SwitchOff.Text" xml:space="preserve">
-    <value>Off</value>
+    <value>Désactivé</value>
   </data>
   <data name="SwitchOn.Text" xml:space="preserve">
-    <value>On</value>
+    <value>Activé</value>
   </data>
   <data name="True.Text" xml:space="preserve">
     <value>Vrai</value>

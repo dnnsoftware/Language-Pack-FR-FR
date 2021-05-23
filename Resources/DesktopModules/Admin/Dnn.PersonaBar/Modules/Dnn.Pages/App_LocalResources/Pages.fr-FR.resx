@@ -129,11 +129,38 @@
   <data name="ChangesNotSaved.Text" xml:space="preserve">
     <value>Les changements n'ont pas été enregistrés</value>
   </data>
+  <data name="CheckToPublishPage_tooltip.Text" xml:space="preserve">
+    <value>Cochez cette case pour marquer cette page comme publiée pour cette langue</value>
+  </data>
+  <data name="CheckToTransalePage_tooltip.Text" xml:space="preserve">
+    <value>Cochez cette case pour marquer cette page comme traduite dans cette langue</value>
+  </data>
+  <data name="CheckToTranslateAllModules_tooltip.Text" xml:space="preserve">
+    <value>Cochez pour marquer tous les modules comme traduits</value>
+  </data>
+  <data name="CheckToTranslateModule_tooltip.Text" xml:space="preserve">
+    <value>Cocher pour marquer le module comme traduit</value>
+  </data>
   <data name="Clear.Text" xml:space="preserve">
     <value>Effacer</value>
   </data>
   <data name="ClearPageCache.Text" xml:space="preserve">
     <value>Effacer le cache - Cette page</value>
+  </data>
+  <data name="ClickToDeLocalizeAllModules_tooltip.Text" xml:space="preserve">
+    <value>Cliquez pour désactiver la localisation pour tous les modules</value>
+  </data>
+  <data name="ClickToDeLocalizeModule_tooltip.Text" xml:space="preserve">
+    <value>Cliquez pour désactiver la localisation pour ce module</value>
+  </data>
+  <data name="ClickToLocalizeAllModules_tooltip.Text" xml:space="preserve">
+    <value>Cliquez pour localiser tous les modules</value>
+  </data>
+  <data name="ClickToLocalizeModule_tooltip.Text" xml:space="preserve">
+    <value>Cliquez pour activer la localisation pour ce module</value>
+  </data>
+  <data name="Continue.Text" xml:space="preserve">
+    <value>Continuer</value>
   </data>
   <data name="CopyAppearanceToDescendantPages.Text" xml:space="preserve">
     <value>Copier l'apparence vers les pages enfants</value>
@@ -159,6 +186,9 @@
   <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
     <value>L'URL de la page indiquée contient des caractères qui ne peuvent pas être utilisés dans une URL ou sont des caractères illégaux pour une URL. Ces caractères ont été enlevés. Cliquez à nouveau sur le bouton «Mettre à jour» pour accepter l'URL modifiée &lt;br&gt; [NOTE: La liste des caractères illégaux est la suivante: &lt;&gt;\?:&amp;=+|%# ]</value>
   </data>
+  <data name="CustomUrlPortalAlias.Error" xml:space="preserve">
+    <value>Veuillez sélectionner un alias de site valide pour cette URL personnalisée.</value>
+  </data>
   <data name="Default.Text" xml:space="preserve">
     <value>[Langue par défaut]</value>
   </data>
@@ -176,6 +206,9 @@
   </data>
   <data name="DeletePageModuleSuccess.Text" xml:space="preserve">
     <value>Module « [MODULETITLE] » a été supprimée avec succès</value>
+  </data>
+  <data name="DeleteTranslationConfirm.Text" xml:space="preserve">
+    <value>Vous êtes sur le point de &lt;b&gt;supprimer&lt;/b&gt; définitivement la &lt;b&gt;traduction "{0}&lt;/b&gt; " de cette page. Êtes-vous sur de vouloir continuer?</value>
   </data>
   <data name="Description.Label" xml:space="preserve">
     <value>Description</value>
@@ -221,6 +254,9 @@
   </data>
   <data name="Edit.Text" xml:space="preserve">
     <value>Modifier</value>
+  </data>
+  <data name="EditContent.Text" xml:space="preserve">
+    <value>Éditer le contenu</value>
   </data>
   <data name="EditTab.Text" xml:space="preserve">
     <value>Modifier</value>
@@ -309,6 +345,18 @@
   <data name="HomeDirectory.Label" xml:space="preserve">
     <value>Répertoire de base</value>
   </data>
+  <data name="IconFile.Help" xml:space="preserve">
+    <value>L'icône de page est une image qui peut être utilisée par votre thème ou votre système de menus pour chaque page</value>
+  </data>
+  <data name="IconFile.Text" xml:space="preserve">
+    <value>Petite icône</value>
+  </data>
+  <data name="IconFileLarge.Help" xml:space="preserve">
+    <value>L'icône de page est une image qui peut être utilisée par votre thème ou votre système de menus pour chaque page</value>
+  </data>
+  <data name="IconFileLarge.Text" xml:space="preserve">
+    <value>Grande icône</value>
+  </data>
   <data name="Include.Text" xml:space="preserve">
     <value>Inclure</value>
   </data>
@@ -335,6 +383,9 @@
   </data>
   <data name="InvalidTabName.Text" xml:space="preserve">
     <value>{0} est un titre de page invalide !</value>
+  </data>
+  <data name="IsNotSharedModule.Text" xml:space="preserve">
+    <value>Partagé: faux</value>
   </data>
   <data name="Keywords.Text" xml:space="preserve">
     <value>Mot clés</value>
@@ -410,6 +461,9 @@
   </data>
   <data name="LinkInputTitle.Text" xml:space="preserve">
     <value>Lien URL</value>
+  </data>
+  <data name="LocalizedSharedModule_tooltip.Text" xml:space="preserve">
+    <value>Ceci est un module partagé localisé</value>
   </data>
   <data name="MakeNeutral.ErrorMessage" xml:space="preserve">
     <value>La page ne peut pas être convertie à une culture neutre, parce qu'il y a des pages enfants.</value>
@@ -501,6 +555,9 @@
   <data name="NoPageSelected.Text" xml:space="preserve">
     <value>Aucune page n'est actuellement sélectionnée.</value>
   </data>
+  <data name="NoParentTabName.Text" xml:space="preserve">
+    <value>Aucune page parente fournie</value>
+  </data>
   <data name="NoPermissionAddPage.Text" xml:space="preserve">
     <value>Vous n'avez pas la permission d'ajouter une page.</value>
   </data>
@@ -553,10 +610,10 @@
     <value>Non traduite : {0}</value>
   </data>
   <data name="Off.Text" xml:space="preserve">
-    <value>Off</value>
+    <value>Désactivé</value>
   </data>
   <data name="On.Text" xml:space="preserve">
-    <value>On</value>
+    <value>Actifé</value>
   </data>
   <data name="OpenLinkInNewWindow.Text" xml:space="preserve">
     <value>Ouvrir le lien dans une nouvelle fenêtre</value>
@@ -593,6 +650,9 @@
   </data>
   <data name="PageHeaderTags_tooltip.Text" xml:space="preserve">
     <value>Permet d'insérer des balises entre le &lt;HEAD&gt; et le &lt;/HEAD&gt; de la page HTML (par exemple des balises META)</value>
+  </data>
+  <data name="PageId.Text" xml:space="preserve">
+    <value>Identifiant de la page</value>
   </data>
   <data name="PageLayoutTooltip.Text" xml:space="preserve">
     <value>La mise en page sélectionnée sera appliqué à cette page.</value>
@@ -840,6 +900,9 @@
   <data name="Prompt_PageCreateFailed.Text" xml:space="preserve">
     <value>Impossible de créer la nouvelle page</value>
   </data>
+  <data name="Prompt_PageFound.Text" xml:space="preserve">
+    <value>Page trouvée.</value>
+  </data>
   <data name="Prompt_PageNotFound.Text" xml:space="preserve">
     <value>Page introuvable.</value>
   </data>
@@ -942,6 +1005,9 @@
   <data name="Settings.Text" xml:space="preserve">
     <value>Paramètres</value>
   </data>
+  <data name="SharedModule.Text" xml:space="preserve">
+    <value>Partagé: vrai</value>
+  </data>
   <data name="Site.Text" xml:space="preserve">
     <value>Site</value>
   </data>
@@ -1026,8 +1092,26 @@
   <data name="TranslationMessageConfirmMessage.Text" xml:space="preserve">
     <value>Traducteurs notifiés avec succès.</value>
   </data>
+  <data name="UnCheckAllTranslatedModules_tooltip.Text" xml:space="preserve">
+    <value>Décochez pour marquer tous les modules comme traduction en attente</value>
+  </data>
+  <data name="UnCheckPublishedPage_tooltip.Text" xml:space="preserve">
+    <value>Décochez cette case pour marquer cette page comme étant en attente de publication pour cette langue</value>
+  </data>
+  <data name="UnCheckTransaledPage_tooltip.Text" xml:space="preserve">
+    <value>Décochez cette case pour signaler cette page comme traduction en attente pour cette langue</value>
+  </data>
+  <data name="UnCheckTranslatedModule_tooltip.Text" xml:space="preserve">
+    <value>Décochez pour marquer le module comme traduction en attente</value>
+  </data>
   <data name="UpdateLocalization.Text" xml:space="preserve">
     <value>Mise à jour de la localisation</value>
+  </data>
+  <data name="UpdateLocalizationSuccess.Text" xml:space="preserve">
+    <value>Fait!</value>
+  </data>
+  <data name="UpdateLocalizationWarning.Text" xml:space="preserve">
+    <value>La mise à jour de la localisation peut prendre quelques minutes en fonction du nombre de modules. Veuillez attendre que le processus se termine complètement.</value>
   </data>
   <data name="UploadButton.Text" xml:space="preserve">
     <value>Charger un Fichier</value>
