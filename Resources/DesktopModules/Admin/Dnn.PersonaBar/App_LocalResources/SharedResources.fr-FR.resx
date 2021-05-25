@@ -12,6 +12,33 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="All.Text" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="AllSites.Text" xml:space="preserve">
+    <value>Tous les sites</value>
+  </data>
+  <data name="Anonymous.Text" xml:space="preserve">
+    <value>Anonyme</value>
+  </data>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="btnSave.Text" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="Day.Text" xml:space="preserve">
+    <value>jour</value>
+  </data>
+  <data name="DayAgo.Text" xml:space="preserve">
+    <value>{0} jour</value>
+  </data>
+  <data name="Days.Text" xml:space="preserve">
+    <value>jours</value>
+  </data>
+  <data name="DaysAgo.Text" xml:space="preserve">
+    <value>il y a de {0} jours</value>
+  </data>
   <data name="ErrMissPermissions.Text" xml:space="preserve">
     <value>Vous n'avez pas l'autorisation de charger le fichier.</value>
   </data>
@@ -21,140 +48,56 @@
   <data name="ErrUploadStream.Text" xml:space="preserve">
     <value>Désolé, l'image n'a pas pu être enregistrée.</value>
   </data>
-  <data name="Root.Text">
-    <value>Accueil</value>
+  <data name="FolderDoesNotExist.Error" xml:space="preserve">
+    <value>Le dossier n'existe pas</value>
   </data>
-  <data name="JustNow.Text" xml:space="preserve">
-    <value>quelques instants</value>
+  <data name="GenericErrorMessage.Error" xml:space="preserve">
+    <value>Une erreur inconnue s’est produite. Veuillez vérifier les logs d’admin pour plus d’informations.</value>
   </data>
-  <data name="Day.Text">
-    <value>jour</value>
-  </data>
-  <data name="DayAgo.Text" xml:space="preserve">
-    <value>{0} jour</value>
-  </data>
-  <data name="Days.Text">
-    <value>jours</value>
-  </data>
-  <data name="DaysAgo.Text" xml:space="preserve">
-    <value>il y a de {0} jours</value>
-  </data>
-  <data name="Hour.Text">
+  <data name="Hour.Text" xml:space="preserve">
     <value>heure</value>
   </data>
   <data name="HourAgo.Text" xml:space="preserve">
     <value>{0} heure</value>
   </data>
-  <data name="Hours.Text">
+  <data name="Hours.Text" xml:space="preserve">
     <value>heures</value>
   </data>
   <data name="HoursAgo.Text" xml:space="preserve">
     <value>{0} heures</value>
   </data>
-  <data name="Minute.Text">
+  <data name="JustNow.Text" xml:space="preserve">
+    <value>quelques instants</value>
+  </data>
+  <data name="LongTimeAgo.Text" xml:space="preserve">
+    <value>il y a longtemps</value>
+  </data>
+  <data name="Minute.Text" xml:space="preserve">
     <value>minute</value>
   </data>
   <data name="MinuteAgo.Text" xml:space="preserve">
     <value>{0} minute</value>
   </data>
-  <data name="Minutes.Text">
+  <data name="Minutes.Text" xml:space="preserve">
     <value>minutes</value>
   </data>
   <data name="MinutesAgo.Text" xml:space="preserve">
     <value>il y a {0} minutes</value>
   </data>
-  <data name="Month.Text">
+  <data name="Month.Text" xml:space="preserve">
     <value>mois</value>
   </data>
   <data name="MonthAgo.Text" xml:space="preserve">
     <value>{0} mois</value>
   </data>
-  <data name="Months.Text">
+  <data name="Months.Text" xml:space="preserve">
     <value>mois</value>
   </data>
   <data name="MonthsAgo.Text" xml:space="preserve">
     <value>{0} mois</value>
   </data>
-  <data name="LongTimeAgo.Text" xml:space="preserve">
-    <value>il y a longtemps</value>
-  </data>
-  <data name="Never.Text">
+  <data name="Never.Text" xml:space="preserve">
     <value>Jamais</value>
-  </data>
-  <data name="Second.Text">
-    <value>seconde</value>
-  </data>
-  <data name="SecondAgo.Text" xml:space="preserve">
-    <value>{0} seconde</value>
-  </data>
-  <data name="Seconds.Text">
-    <value>secondes</value>
-  </data>
-  <data name="SecondsAgo.Text" xml:space="preserve">
-    <value>il y a {0} secondes</value>
-  </data>
-  <data name="WeekAgo.Text" xml:space="preserve">
-    <value>{0} semaine</value>
-  </data>
-  <data name="WeeksAgo.Text" xml:space="preserve">
-    <value>{0} semaines</value>
-  </data>
-  <data name="Year.Text">
-    <value>année</value>
-  </data>
-  <data name="YearAgo.Text" xml:space="preserve">
-    <value>{0} an</value>
-  </data>
-  <data name="Years.Text">
-    <value>années</value>
-  </data>
-  <data name="YearsAgo.Text" xml:space="preserve">
-    <value>{0} ans</value>
-  </data>
-  <data name="UserHasNoPermissionToReadFile.Error" xml:space="preserve">
-    <value>L'utilisateur ne dispose d'aucune autorisation pour ouvrir ce fichier</value>
-  </data>
-  <data name="UserHasNoPermissionToReadFolder.Error" xml:space="preserve">
-    <value>L'utilisateur ne dispose d'aucune autorisation pour ouvrir ce dossier</value>
-  </data>
-  <data name="Anonymous.Text">
-    <value>Anonyme</value>
-  </data>
-  <data name="RegisterationFailed.Text">
-    <value>{0}</value>
-  </data>
-  <data name="RegistrationUsernameAlreadyPresent.Text" xml:space="preserve">
-    <value>Le nom d'utilisateur est déjà utilisé.</value>
-  </data>
-  <data name="FolderDoesNotExist.Error" xml:space="preserve">
-    <value>Le dossier n'existe pas</value>
-  </data>
-  <data name="VisibleOnPage.Header" xml:space="preserve">
-    <value>Visible sur la page</value>
-  </data>
-  <data name="btnCancel.Text">
-    <value>Annuler</value>
-  </data>
-  <data name="btnSave.Text">
-    <value>Enregistrer</value>
-  </data>
-  <data name="UnauthorizedRequest.Text" xml:space="preserve">
-    <value>Autorisation refusée pour cette demande.</value>
-  </data>
-  <data name="GenericErrorMessage.Error" xml:space="preserve">
-    <value>Une erreur inconnue s’est produite. Veuillez vérifier les logs d’admin pour plus d’informations.</value>
-  </data>
-  <data name="All.Text">
-    <value>Tous</value>
-  </data>
-  <data name="AllSites.Text" xml:space="preserve">
-    <value>Tous les sites</value>
-  </data>
-  <data name="Prompt_FlagIsRequired.Text" xml:space="preserve">
-    <value>« [0] » est requis.\n</value>
-  </data>
-  <data name="Prompt_InvalidType.Text" xml:space="preserve">
-    <value>La valeur saisie pour « [0] » n’est pas valide « [1] ».\n</value>
   </data>
   <data name="Promp_MainFlagIsRequired.Text" xml:space="preserve">
     <value>Le '[0]' est requis. Veuillez utiliser l'option --[1] ou le passer comme premier argument après le nom de la commande.\n</value>
@@ -162,5 +105,67 @@
   <data name="Promp_PositiveValueRequired.Text" xml:space="preserve">
     <value>'[0]' doit être supérieur à 0.\n</value>
   </data>
-  <!---->
+  <data name="Prompt_FlagIsRequired.Text" xml:space="preserve">
+    <value>« [0] » est requis.\n</value>
+  </data>
+  <data name="Prompt_InvalidType.Text" xml:space="preserve">
+    <value>La valeur saisie pour « [0] » n’est pas valide « [1] ».\n</value>
+  </data>
+  <data name="RegisterationFailed.Text" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="RegistrationUsernameAlreadyPresent.Text" xml:space="preserve">
+    <value>Le nom d'utilisateur est déjà utilisé.</value>
+  </data>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="Second.Text" xml:space="preserve">
+    <value>seconde</value>
+  </data>
+  <data name="SecondAgo.Text" xml:space="preserve">
+    <value>{0} seconde</value>
+  </data>
+  <data name="Seconds.Text" xml:space="preserve">
+    <value>secondes</value>
+  </data>
+  <data name="SecondsAgo.Text" xml:space="preserve">
+    <value>il y a {0} secondes</value>
+  </data>
+  <data name="SwitchOff.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="SwitchOn.Text" xml:space="preserve">
+    <value>Activé</value>
+  </data>
+  <data name="UnauthorizedRequest.Text" xml:space="preserve">
+    <value>Autorisation refusée pour cette demande.</value>
+  </data>
+  <data name="UserHasNoPermissionToReadFile.Error" xml:space="preserve">
+    <value>L'utilisateur ne dispose d'aucune autorisation pour ouvrir ce fichier</value>
+  </data>
+  <data name="UserHasNoPermissionToReadFolder.Error" xml:space="preserve">
+    <value>L'utilisateur ne dispose d'aucune autorisation pour ouvrir ce dossier</value>
+  </data>
+  <data name="VisibleOnPage.Header" xml:space="preserve">
+    <value>Visible sur la page</value>
+  </data>
+  <data name="WeekAgo.Text" xml:space="preserve">
+    <value>{0} semaine</value>
+  </data>
+  <data name="WeeksAgo.Text" xml:space="preserve">
+    <value>{0} semaines</value>
+  </data>
+  <data name="Year.Text" xml:space="preserve">
+    <value>année</value>
+  </data>
+  <data name="YearAgo.Text" xml:space="preserve">
+    <value>{0} an</value>
+  </data>
+  <data name="Years.Text" xml:space="preserve">
+    <value>années</value>
+  </data>
+  <data name="YearsAgo.Text" xml:space="preserve">
+    <value>{0} ans</value>
+  </data>
 </root>

@@ -12,50 +12,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Connection.Text">
-    <value>Connexion</value>
-  </data>
-  <data name="nav_SqlConsole.Text" xml:space="preserve">
-    <value>Console SQL</value>
-  </data>
-  <data name="Query.Text">
-    <value>Requête :</value>
-  </data>
-  <data name="RunScript.Text">
-    <value>Exécuter</value>
-  </data>
-  <data name="SaveQuery.Text" xml:space="preserve">
-    <value>Enregistrer requête</value>
-  </data>
-  <data name="Title.Text" xml:space="preserve">
-    <value>Console SQL</value>
-  </data>
-  <data name="UploadFile.Text" xml:space="preserve">
-    <value>Charger un fichier</value>
-  </data>
   <data name="AllEntries.Text" xml:space="preserve">
     <value>Tous les billets</value>
   </data>
-  <data name="Export.Text">
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="Connection.Text" xml:space="preserve">
+    <value>Connexion</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="DeleteConfirm.Text" xml:space="preserve">
+    <value>Veuillez confirmer que vous souhaitez supprimer cette requête.</value>
+  </data>
+  <data name="EmptyName.Text" xml:space="preserve">
+    <value>Impossible d'enregistrer la requête avec un nom vide.</value>
+  </data>
+  <data name="Export.Text" xml:space="preserve">
     <value>Exporter</value>
-  </data>
-  <data name="NewQuery.Text" xml:space="preserve">
-    <value>&lt;Nouvelle requête&gt;</value>
-  </data>
-  <data name="PageInfo.Text" xml:space="preserve">
-    <value>Affichage de {0}-{1} sur {2} éléments</value>
-  </data>
-  <data name="QueryTabTitle.Text" xml:space="preserve">
-    <value>Requête {0}</value>
-  </data>
-  <data name="SaveQueryInfo.Text" xml:space="preserve">
-    <value>Saisir un nom pour cette requête :</value>
-  </data>
-  <data name="Search.Text">
-    <value>Chercher</value>
-  </data>
-  <data name="PageSize.Text" xml:space="preserve">
-    <value>{0} entrées</value>
   </data>
   <data name="ExportClipboard.Text" xml:space="preserve">
     <value>Copier dans le presse-papiers</value>
@@ -75,8 +51,23 @@
   <data name="ExportPDF.Text" xml:space="preserve">
     <value>Exporter au format PDF</value>
   </data>
+  <data name="nav_SqlConsole.Text" xml:space="preserve">
+    <value>Console SQL</value>
+  </data>
+  <data name="NewQuery.Text" xml:space="preserve">
+    <value>&lt;Nouvelle requête&gt;</value>
+  </data>
   <data name="NoData.Text" xml:space="preserve">
     <value>La requête n'a renvoyé aucune donnée.</value>
+  </data>
+  <data name="PageInfo.Text" xml:space="preserve">
+    <value>Affichage de {0}-{1} sur {2} éléments</value>
+  </data>
+  <data name="PageSize.Text" xml:space="preserve">
+    <value>{0} entrées</value>
+  </data>
+  <data name="Query.Text" xml:space="preserve">
+    <value>Requête :</value>
   </data>
   <data name="QueryFailed.Text" xml:space="preserve">
     <value>La requête a échoué !</value>
@@ -84,17 +75,25 @@
   <data name="QuerySuccessful.Text" xml:space="preserve">
     <value>La requête a été effectuée avec succès !</value>
   </data>
-  <data name="EmptyName.Text" xml:space="preserve">
-    <value>Impossible d'enregistrer la requête avec un nom vide.</value>
+  <data name="QueryTabTitle.Text" xml:space="preserve">
+    <value>Requête {0}</value>
   </data>
-  <data name="DeleteConfirm.Text" xml:space="preserve">
-    <value>Veuillez confirmer que vous souhaitez supprimer cette requête.</value>
+  <data name="RunScript.Text" xml:space="preserve">
+    <value>Exécuter</value>
   </data>
-  <data name="Cancel.Text">
-    <value>Annuler</value>
+  <data name="SaveQuery.Text" xml:space="preserve">
+    <value>Enregistrer requête</value>
   </data>
-  <data name="Delete.Text">
-    <value>Supprimer</value>
+  <data name="SaveQueryInfo.Text" xml:space="preserve">
+    <value>Saisir un nom pour cette requête :</value>
   </data>
-  <!---->
+  <data name="Search.Text" xml:space="preserve">
+    <value>Chercher</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Console SQL</value>
+  </data>
+  <data name="UploadFile.Text" xml:space="preserve">
+    <value>Charger un fichier</value>
+  </data>
 </root>

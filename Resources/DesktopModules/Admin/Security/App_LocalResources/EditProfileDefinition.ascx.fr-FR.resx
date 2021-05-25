@@ -12,173 +12,173 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Ajouter une nouvelle propriété</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Ajouter une nouvelle propriété</value>
   </data>
-  <data name="AddProperty.Text">
-    <value xml:space="preserve">Ajouter une définition de profil</value>
+  <data name="AddProperty.Text" xml:space="preserve">
+    <value>Ajouter une définition de profil</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Annuler</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuler</value>
   </data>
-  <data name="cmdCancel.Text">
-    <value xml:space="preserve">Retour à la liste des propriétés</value>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>Retour à la liste des propriétés</value>
   </data>
-  <data name="cmdCreate.Text">
-    <value xml:space="preserve">Nouvelle propriété</value>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>Nouvelle propriété</value>
   </data>
-  <data name="cmdUpdate.Text">
-    <value xml:space="preserve">Mettre à jour</value>
+  <data name="cmdUpdate.Text" xml:space="preserve">
+    <value>Mettre à jour</value>
   </data>
-  <data name="DuplicateName.Text">
-    <value xml:space="preserve">Cette propriété existe déjà.  Les noms de propriétés doivent être uniques.  Choisissez un nom différent.</value>
+  <data name="DuplicateName.Text" xml:space="preserve">
+    <value>Cette propriété existe déjà.  Les noms de propriétés doivent être uniques.  Choisissez un nom différent.</value>
   </data>
-  <data name="EditProperty.Text">
-    <value xml:space="preserve">Editer la définition de profil</value>
+  <data name="EditProperty.Text" xml:space="preserve">
+    <value>Editer la définition de profil</value>
   </data>
-  <data name="Introduction.Help">
-    <value xml:space="preserve">La première étape consiste à mettre à jour les informations du champ. Modifiez les informations si besoin puis cliquez sur "Suivant" pour enregistrer et passer à l'étape suivante.</value>
+  <data name="Introduction.Help" xml:space="preserve">
+    <value>La première étape consiste à mettre à jour les informations du champ. Modifiez les informations si besoin puis cliquez sur "Suivant" pour enregistrer et passer à l'étape suivante.</value>
   </data>
-  <data name="Introduction.Title">
-    <value xml:space="preserve">Informations de la propriété</value>
+  <data name="Introduction.Title" xml:space="preserve">
+    <value>Informations de la propriété</value>
   </data>
-  <data name="Introduction_Add.Help">
-    <value xml:space="preserve">La première étape consiste à définir les informations du champ. Saisissez les informations puis cliquez sur "Suivant" pour l'enregistrer. &lt;b&gt;Note : &lt;/b&gt; les champs suivis du symbole 
+  <data name="Introduction_Add.Help" xml:space="preserve">
+    <value>La première étape consiste à définir les informations du champ. Saisissez les informations puis cliquez sur "Suivant" pour l'enregistrer. &lt;b&gt;Note : &lt;/b&gt; les champs suivis du symbole 
 &lt;img border="0" src="/images/required.gif"&gt; sont requis.</value>
   </data>
-  <data name="Introduction_Add.Title">
-    <value xml:space="preserve">Ajouter une propriété</value>
+  <data name="Introduction_Add.Title" xml:space="preserve">
+    <value>Ajouter une propriété</value>
   </data>
-  <data name="List.Help">
-    <value xml:space="preserve">La propriété a été créée. Vous devez maintenant définir les éléments de la liste ed choix.</value>
+  <data name="List.Help" xml:space="preserve">
+    <value>La propriété a été créée. Vous devez maintenant définir les éléments de la liste ed choix.</value>
   </data>
-  <data name="List.Title">
-    <value xml:space="preserve">Gestion de la liste</value>
+  <data name="List.Title" xml:space="preserve">
+    <value>Gestion de la liste</value>
   </data>
-  <data name="Localization.Help">
-    <value xml:space="preserve">L'étape suivante consiste en la localisation de la propriété. Choisissez la langue attribuée à cette propriété et/ou modifiez le texte existant puis cliquez sur "Mettre à jour"</value>
+  <data name="Localization.Help" xml:space="preserve">
+    <value>L'étape suivante consiste en la localisation de la propriété. Choisissez la langue attribuée à cette propriété et/ou modifiez le texte existant puis cliquez sur "Mettre à jour"</value>
   </data>
-  <data name="Localization.Title">
-    <value xml:space="preserve">Gestion de la langue</value>
+  <data name="Localization.Title" xml:space="preserve">
+    <value>Gestion de la langue</value>
   </data>
-  <data name="plCategoryName.Help">
-    <value xml:space="preserve">Saisissez le nom de la catégorie</value>
+  <data name="plCategoryName.Help" xml:space="preserve">
+    <value>Saisissez le nom de la catégorie</value>
   </data>
-  <data name="plCategoryName.Text">
-    <value xml:space="preserve">Catégorie :</value>
+  <data name="plCategoryName.Text" xml:space="preserve">
+    <value>Catégorie :</value>
   </data>
-  <data name="plLocales.Help">
-    <value xml:space="preserve">Sélectionnez la langue</value>
+  <data name="plLocales.Help" xml:space="preserve">
+    <value>Sélectionnez la langue</value>
   </data>
-  <data name="plLocales.Text">
-    <value xml:space="preserve">Langue :</value>
+  <data name="plLocales.Text" xml:space="preserve">
+    <value>Langue :</value>
   </data>
-  <data name="plPropertyHelp.Help">
-    <value xml:space="preserve">Aide contextuelle dans la langue sélectionnée</value>
+  <data name="plPropertyHelp.Help" xml:space="preserve">
+    <value>Aide contextuelle dans la langue sélectionnée</value>
   </data>
-  <data name="plPropertyHelp.Text">
-    <value xml:space="preserve">Aide contextuelle :</value>
+  <data name="plPropertyHelp.Text" xml:space="preserve">
+    <value>Aide contextuelle :</value>
   </data>
-  <data name="plPropertyName.Help">
-    <value xml:space="preserve">Tapez le nom de la propriété dans la langue sélectionnée.</value>
+  <data name="plPropertyName.Help" xml:space="preserve">
+    <value>Tapez le nom de la propriété dans la langue sélectionnée.</value>
   </data>
-  <data name="plPropertyName.Text">
-    <value xml:space="preserve">Nom de la propriété :</value>
+  <data name="plPropertyName.Text" xml:space="preserve">
+    <value>Nom de la propriété :</value>
   </data>
-  <data name="plPropertyRequired.Help">
-    <value xml:space="preserve">Entrez le message d'erreur à afficher  lorsque la propriété est obligatoire mais pas présente.</value>
+  <data name="plPropertyRequired.Help" xml:space="preserve">
+    <value>Entrez le message d'erreur à afficher  lorsque la propriété est obligatoire mais pas présente.</value>
   </data>
-  <data name="plPropertyRequired.Text">
-    <value xml:space="preserve">Message d'erreur si requis :</value>
+  <data name="plPropertyRequired.Text" xml:space="preserve">
+    <value>Message d'erreur si requis :</value>
   </data>
-  <data name="plPropertyValidation.Help">
-    <value xml:space="preserve">Entrez le message d'erreur à afficher  lorsque la propriété échoue lors de la validation de l'expression régulière.</value>
+  <data name="plPropertyValidation.Help" xml:space="preserve">
+    <value>Entrez le message d'erreur à afficher  lorsque la propriété échoue lors de la validation de l'expression régulière.</value>
   </data>
-  <data name="plPropertyValidation.Text">
-    <value xml:space="preserve">Message d'erreur lors de la validation :</value>
+  <data name="plPropertyValidation.Text" xml:space="preserve">
+    <value>Message d'erreur lors de la validation :</value>
   </data>
-  <data name="ProfilePropertyDefinition_DataType.Help">
-    <value xml:space="preserve">Sélectionnez le type de données</value>
+  <data name="ProfilePropertyDefinition_DataType.Help" xml:space="preserve">
+    <value>Sélectionnez le type de données</value>
   </data>
-  <data name="ProfilePropertyDefinition_DataType.Text">
-    <value xml:space="preserve">Type de données :</value>
+  <data name="ProfilePropertyDefinition_DataType.Text" xml:space="preserve">
+    <value>Type de données :</value>
   </data>
-  <data name="ProfilePropertyDefinition_DefaultValue.Help">
-    <value xml:space="preserve">Valeur par défaut de la propriété</value>
+  <data name="ProfilePropertyDefinition_DefaultValue.Help" xml:space="preserve">
+    <value>Valeur par défaut de la propriété</value>
   </data>
-  <data name="ProfilePropertyDefinition_DefaultValue.Text">
-    <value xml:space="preserve">Valeur par défaut :</value>
+  <data name="ProfilePropertyDefinition_DefaultValue.Text" xml:space="preserve">
+    <value>Valeur par défaut :</value>
   </data>
-  <data name="ProfilePropertyDefinition_DefaultVisibility.Help">
-    <value xml:space="preserve">Vous pouvez définir la visibilité par défaut de la propriété de profil.  Il s'agit de la valeur initiale de la visibilité qui s'applique si l'utilisateur ne la modifie pas, lorsqu'il édite son profil.</value>
+  <data name="ProfilePropertyDefinition_DefaultVisibility.Help" xml:space="preserve">
+    <value>Vous pouvez définir la visibilité par défaut de la propriété de profil.  Il s'agit de la valeur initiale de la visibilité qui s'applique si l'utilisateur ne la modifie pas, lorsqu'il édite son profil.</value>
   </data>
-  <data name="ProfilePropertyDefinition_DefaultVisibility.Text">
-    <value xml:space="preserve">Visibilité par défaut :</value>
+  <data name="ProfilePropertyDefinition_DefaultVisibility.Text" xml:space="preserve">
+    <value>Visibilité par défaut :</value>
   </data>
-  <data name="ProfilePropertyDefinition_Length.Help">
-    <value xml:space="preserve">Longueur maximale de cette propriété.</value>
+  <data name="ProfilePropertyDefinition_Length.Help" xml:space="preserve">
+    <value>Longueur maximale de cette propriété.</value>
   </data>
-  <data name="ProfilePropertyDefinition_Length.Text">
-    <value xml:space="preserve">Longueur :</value>
+  <data name="ProfilePropertyDefinition_Length.Text" xml:space="preserve">
+    <value>Longueur :</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyCategory.Help">
-    <value xml:space="preserve">Saisissez un nom de catégorie pour cette propriété. Le nom sert au regroupement des valeurs.</value>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Help" xml:space="preserve">
+    <value>Saisissez un nom de catégorie pour cette propriété. Le nom sert au regroupement des valeurs.</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyCategory.Required">
-    <value xml:space="preserve">La catégorie est requise</value>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Required" xml:space="preserve">
+    <value>La catégorie est requise</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyCategory.Text">
-    <value xml:space="preserve">Catégorie :</value>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Text" xml:space="preserve">
+    <value>Catégorie :</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyName.Help">
-    <value xml:space="preserve">Saisissez un nom pour cette propriété</value>
+  <data name="ProfilePropertyDefinition_PropertyName.Help" xml:space="preserve">
+    <value>Saisissez un nom pour cette propriété</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyName.Required">
-    <value xml:space="preserve">Le nom de la propriété est requis</value>
+  <data name="ProfilePropertyDefinition_PropertyName.Required" xml:space="preserve">
+    <value>Le nom de la propriété est requis</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyName.Text">
-    <value xml:space="preserve">Nom :</value>
+  <data name="ProfilePropertyDefinition_PropertyName.Text" xml:space="preserve">
+    <value>Nom :</value>
   </data>
-  <data name="ProfilePropertyDefinition_PropertyName.Validation">
-    <value xml:space="preserve">la propriété ne doit pas contenir d'espace</value>
+  <data name="ProfilePropertyDefinition_PropertyName.Validation" xml:space="preserve">
+    <value>la propriété ne doit pas contenir d'espace</value>
   </data>
-  <data name="ProfilePropertyDefinition_ReadOnly.Help">
-    <value xml:space="preserve">Vous pouvez créer une propriété de profil en lecture seule.  Une propriété en lectur seule peut être éditée par l'admin mais est en lecture seule pour l'utilisateur.</value>
+  <data name="ProfilePropertyDefinition_ReadOnly.Help" xml:space="preserve">
+    <value>Vous pouvez créer une propriété de profil en lecture seule.  Une propriété en lectur seule peut être éditée par l'admin mais est en lecture seule pour l'utilisateur.</value>
   </data>
-  <data name="ProfilePropertyDefinition_ReadOnly.Text">
-    <value xml:space="preserve">Lecture seule :</value>
+  <data name="ProfilePropertyDefinition_ReadOnly.Text" xml:space="preserve">
+    <value>Lecture seule :</value>
   </data>
-  <data name="ProfilePropertyDefinition_Required.Help">
-    <value xml:space="preserve">Spécifiez si cette propriété est requise.</value>
+  <data name="ProfilePropertyDefinition_Required.Help" xml:space="preserve">
+    <value>Spécifiez si cette propriété est requise.</value>
   </data>
-  <data name="ProfilePropertyDefinition_Required.Text">
-    <value xml:space="preserve">Requis :</value>
+  <data name="ProfilePropertyDefinition_Required.Text" xml:space="preserve">
+    <value>Requis :</value>
   </data>
-  <data name="ProfilePropertyDefinition_ValidationExpression.Help">
-    <value xml:space="preserve">Vous pouvez spécifiez une expression régulière afin de valider ce champ</value>
+  <data name="ProfilePropertyDefinition_ValidationExpression.Help" xml:space="preserve">
+    <value>Vous pouvez spécifiez une expression régulière afin de valider ce champ</value>
   </data>
-  <data name="ProfilePropertyDefinition_ValidationExpression.Text">
-    <value xml:space="preserve">Expression régulière :</value>
+  <data name="ProfilePropertyDefinition_ValidationExpression.Text" xml:space="preserve">
+    <value>Expression régulière :</value>
   </data>
-  <data name="ProfilePropertyDefinition_ViewOrder.Help">
-    <value xml:space="preserve">Saisissez le numéro d'ordre d'affichage de cette propriété</value>
+  <data name="ProfilePropertyDefinition_ViewOrder.Help" xml:space="preserve">
+    <value>Saisissez le numéro d'ordre d'affichage de cette propriété</value>
   </data>
-  <data name="ProfilePropertyDefinition_ViewOrder.Text">
-    <value xml:space="preserve">Ordre :</value>
+  <data name="ProfilePropertyDefinition_ViewOrder.Text" xml:space="preserve">
+    <value>Ordre :</value>
   </data>
-  <data name="ProfilePropertyDefinition_Visible.Help">
-    <value xml:space="preserve">Vous pouvez spécifier si l'utilisateur voit cette propriété.</value>
+  <data name="ProfilePropertyDefinition_Visible.Help" xml:space="preserve">
+    <value>Vous pouvez spécifier si l'utilisateur voit cette propriété.</value>
   </data>
-  <data name="ProfilePropertyDefinition_Visible.Text">
-    <value xml:space="preserve">Visible :</value>
+  <data name="ProfilePropertyDefinition_Visible.Text" xml:space="preserve">
+    <value>Visible :</value>
   </data>
-  <data name="RequiredTextBox.Text">
-    <value xml:space="preserve">Si vous utilisez un champ de la zone de texte, la longueur requise doit être supérieure à 0.</value>
+  <data name="RequiredTextBox.Text" xml:space="preserve">
+    <value>Si vous utilisez un champ de la zone de texte, la longueur requise doit être supérieure à 0.</value>
   </data>
-  <data name="Return.Text">
-    <value xml:space="preserve">Mettre à jour</value>
+  <data name="Return.Text" xml:space="preserve">
+    <value>Mettre à jour</value>
   </data>
-  <data name="valPropertyName.ErrorMessage">
-    <value xml:space="preserve">Vous devez entrer un nom pour ce champ</value>
+  <data name="valPropertyName.ErrorMessage" xml:space="preserve">
+    <value>Vous devez entrer un nom pour ce champ</value>
   </data>
 </root>

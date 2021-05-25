@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="GoUp.Text">
-    <value xml:space="preserve">Aller sur la page parente</value>
+  <data name="GoUp.Text" xml:space="preserve">
+    <value>Aller sur la page parente</value>
   </data>
-  <data name="Parent.Text">
-    <value xml:space="preserve">Parent</value>
+  <data name="Parent.Text" xml:space="preserve">
+    <value>Parente</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Navigation</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Navigation du site</value>
   </data>
 </root>

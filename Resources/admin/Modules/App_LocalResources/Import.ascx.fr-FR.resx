@@ -12,47 +12,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdImport.Text">
-    <value xml:space="preserve">Importer</value>
+  <data name="cmdImport.Text" xml:space="preserve">
+    <value>Importer</value>
   </data>
   <data name="ControlTitle_importmodule.Text" xml:space="preserve">
-    <value xml:space="preserve">Importer  le module</value>
+    <value>Importer le module</value>
   </data>
   <data name="Error.Text" xml:space="preserve">
-    <value xml:space="preserve">Une erreur s'est produite lors de l'importation.</value>
+    <value>Une erreur s'est produite lors de l'importation.</value>
   </data>
   <data name="ImportFile.Text" xml:space="preserve">
-    <value xml:space="preserve">Importer un fichier</value>
+    <value>Importer un fichier</value>
   </data>
   <data name="ImportNotSupported.Text" xml:space="preserve">
-    <value xml:space="preserve">Le module spécifié ne supporte pas l'importation de contenu.</value>
+    <value>Le module spécifié ne supporte pas l'importation de contenu.</value>
   </data>
   <data name="ModuleContent.Text" xml:space="preserve">
-    <value xml:space="preserve">Contenu du module</value>
+    <value>Contenu du module</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value xml:space="preserve">&lt;h1&gt;Importation de contenu&lt;/h1&gt;&lt;p&gt;Cette fonction vous permet d'importer du contenu dans ce module.&lt;/p&gt;</value>
+    <value>&lt;h1&gt;Importation de contenu&lt;/h1&gt;&lt;p&gt;Cette fonction vous permet d'importer du contenu dans ce module.&lt;/p&gt;</value>
   </data>
   <data name="NotCorrectType.Text" xml:space="preserve">
-    <value xml:space="preserve">Le fichié spécifié ne peut pas être importé dans ce module.</value>
+    <value>Le type de contenu du module n'est pas approprié pour ce module.</value>
   </data>
   <data name="NotValidXml.Text" xml:space="preserve">
-    <value xml:space="preserve">La structure XML du document sélectionné est n'est pas valide.</value>
+    <value>La structure XML du document sélectionné est n'est pas valide.</value>
   </data>
   <data name="plFile.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionnez le fichier à importer</value>
+    <value>Sélectionnez le fichier à importer</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Fichier</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Fichier</value>
   </data>
   <data name="plFolder.Help" xml:space="preserve">
-    <value xml:space="preserve">Sélectionnez le dossier à importer</value>
+    <value>Sélectionnez le dossier à importer</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Dossier</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Dossier</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Racine</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Racine</value>
   </data>
-  <!---->
 </root>

@@ -12,76 +12,97 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied.ErrorMessage">
-    <value xml:space="preserve">L'accès a été refusé.</value>
+  <data name="AccessDenied.ErrorMessage" xml:space="preserve">
+    <value>L'accès a été refusé.</value>
   </data>
-  <data name="AccountNotFound.ErrorMessage">
-    <value xml:space="preserve">Le compte spécifié n'a pas été trouvé.</value>
+  <data name="AccountNotFound.ErrorMessage" xml:space="preserve">
+    <value>Le compte spécifié n'a pas été trouvé.</value>
   </data>
-  <data name="AuthenticationFailure.ErrorMessage">
-    <value xml:space="preserve">Une erreur d'authentification s'est produite.</value>
+  <data name="AuthenticationFailure.ErrorMessage" xml:space="preserve">
+    <value>Une erreur d'authentification s'est produite.</value>
   </data>
-  <data name="CredentialsRequired.ErrorMessage">
-    <value xml:space="preserve">Veuillez fournir vos informations d'identification avant l'actualisation de la liste des conteneurs.</value>
+  <data name="CredentialsRequired.ErrorMessage" xml:space="preserve">
+    <value>Veuillez fournir vos informations d'identification avant l'actualisation de la liste des conteneurs.</value>
   </data>
-  <data name="ListContainers.ErrorMessage">
-    <value xml:space="preserve">Une erreur s'est produite en essayant d'obtenir la liste des conteneurs.</value>
+  <data name="ListContainers.ErrorMessage" xml:space="preserve">
+    <value>Une erreur s'est produite en essayant d'obtenir la liste des conteneurs.</value>
   </data>
-  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage">
-    <value xml:space="preserve">Il y a un autre FolderMapping utilisant le même compte et conteneur. Choisissez un compte ou un conteneur différent.</value>
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage" xml:space="preserve">
+    <value>Il y a un autre FolderMapping utilisant le même compte et conteneur. Choisissez un compte ou un conteneur différent.</value>
   </data>
-  <data name="NewContainer.ErrorMessage">
-    <value xml:space="preserve">Une erreur s'est produite lors de la création du nouveau conteneur.</value>
+  <data name="NewContainer.ErrorMessage" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la création du nouveau conteneur.</value>
   </data>
-  <data name="NewContainer.Text">
-    <value xml:space="preserve">Nouveau conteneur</value>
+  <data name="NewContainer.Text" xml:space="preserve">
+    <value>Nouveau conteneur</value>
   </data>
-  <data name="plAccountKey.Help">
-    <value xml:space="preserve">Entrez la clé de compte. Une clé d'accès primaire ou secondaire "Azure" peut être utilisée en tant que clé de compte.</value>
+  <data name="plAccountKey.Help" xml:space="preserve">
+    <value>Entrez la clé de compte. Une clé d'accès primaire ou secondaire "Azure" peut être utilisée en tant que clé de compte.</value>
   </data>
-  <data name="plAccountKey.Text">
-    <value xml:space="preserve">Clé de compte</value>
+  <data name="plAccountKey.Text" xml:space="preserve">
+    <value>Clé de compte</value>
   </data>
-  <data name="plAccountName.Help">
-    <value xml:space="preserve">Entrer le nom du compte.</value>
+  <data name="plAccountName.Help" xml:space="preserve">
+    <value>Entrer le nom du compte.</value>
   </data>
-  <data name="plAccountName.Text">
-    <value xml:space="preserve">Nom de compte</value>
+  <data name="plAccountName.Text" xml:space="preserve">
+    <value>Nom de compte</value>
   </data>
-  <data name="plContainerName.Help">
-    <value xml:space="preserve">Sélectionner ou entrer le nom du conteneur.</value>
+  <data name="plContainerName.Help" xml:space="preserve">
+    <value>Sélectionner ou entrer le nom du conteneur.</value>
   </data>
-  <data name="plContainerName.Text">
-    <value xml:space="preserve">Nom du conteneur</value>
+  <data name="plContainerName.Text" xml:space="preserve">
+    <value>Nom du conteneur</value>
   </data>
-  <data name="plDirectLink.Help">
-    <value xml:space="preserve">Si coché, le chemin d'accès pour les fichiers de ce type de dossier pointera vers le chemin d'accès réel. Dans le cas contraire le chemin sera caché au travers du LinkClick.</value>
+  <data name="plCustomDomain.Help" xml:space="preserve">
+    <value>Entrez le même domaine personnalisé précédemment défini dans le compte de stockage Azure</value>
   </data>
-  <data name="plDirectLink.Text">
-    <value xml:space="preserve">Utiliser lien direct</value>
+  <data name="plCustomDomain.Text" xml:space="preserve">
+    <value>Domaine personnalisé</value>
   </data>
-  <data name="plUseHttps.Help">
-    <value xml:space="preserve">Sélectionner cette option si vous souhaitez utiliser les paramètres HTTPS par défaut.</value>
+  <data name="plDirectLink.Help" xml:space="preserve">
+    <value>Si coché, le chemin d'accès pour les fichiers de ce type de dossier pointera vers le chemin d'accès réel. Dans le cas contraire le chemin sera caché au travers du LinkClick.</value>
   </data>
-  <data name="plUseHttps.Text">
-    <value xml:space="preserve">Utiliser les points de terminaison HTTPS (HTTPS endpoints)</value>
+  <data name="plDirectLink.Text" xml:space="preserve">
+    <value>Utiliser lien direct</value>
   </data>
-  <data name="RefreshContainerList.Text">
-    <value xml:space="preserve">&lt;Rafraichir&gt;</value>
+  <data name="plSyncBatchSize.Help" xml:space="preserve">
+    <value>Définit le nombre maximal d'éléments pouvant être extraits du stockage Azure à chaque demande lors de la synchronisation des dossiers. Plus le nombre est bas, plus il faudra aller-retour pour récupérer tous les articles. Un grand nombre entraînera des délais d'attente dans le cas de grands référentiels.</value>
   </data>
-  <data name="SelectContainer.Text">
-    <value xml:space="preserve">&lt;Sélectionner un conteneur&gt;</value>
+  <data name="plSyncBatchSize.Text" xml:space="preserve">
+    <value>Taille du lot de synchronisation</value>
   </data>
-  <data name="SelectExistingContainer.Text">
-    <value xml:space="preserve">Sélectionner un conteneur existant</value>
+  <data name="plUseHttps.Help" xml:space="preserve">
+    <value>Sélectionner cette option si vous souhaitez utiliser les paramètres HTTPS par défaut.</value>
   </data>
-  <data name="valAccountKey.ErrorMessage">
-    <value xml:space="preserve">Clé de compte nécessaire</value>
+  <data name="plUseHttps.Text" xml:space="preserve">
+    <value>Utiliser les points de terminaison HTTPS (HTTPS endpoints)</value>
   </data>
-  <data name="valAccountName.ErrorMessage">
-    <value xml:space="preserve">Nom de compte requis</value>
+  <data name="RefreshContainerList.Text" xml:space="preserve">
+    <value>&lt;Rafraichir&gt;</value>
   </data>
-  <data name="valContainerName.ErrorMessage">
-    <value xml:space="preserve">Nom du conteneur requis</value>
+  <data name="SelectContainer.Text" xml:space="preserve">
+    <value>&lt;Sélectionner un conteneur&gt;</value>
+  </data>
+  <data name="SelectExistingContainer.Text" xml:space="preserve">
+    <value>Sélectionner un conteneur existant</value>
+  </data>
+  <data name="tbCustomDomain.Error" xml:space="preserve">
+    <value>Le nom de domaine personnalisé doit être un nom DNS valide</value>
+  </data>
+  <data name="tbCustomDomain.Help" xml:space="preserve">
+    <value>Entrez le même domaine personnalisé précédemment défini dans le compte de stockage Azure</value>
+  </data>
+  <data name="tbSyncBatchSize.Error" xml:space="preserve">
+    <value>La taille du lot de synchronisation doit être un nombre entier positif</value>
+  </data>
+  <data name="valAccountKey.ErrorMessage" xml:space="preserve">
+    <value>Clé de compte nécessaire</value>
+  </data>
+  <data name="valAccountName.ErrorMessage" xml:space="preserve">
+    <value>Nom de compte requis</value>
+  </data>
+  <data name="valContainerName.ErrorMessage" xml:space="preserve">
+    <value>Nom du conteneur requis</value>
   </data>
 </root>

@@ -1,9 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-   
-
-  <note></note>
-  <data name="CancelButton.Text">
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CancelButton.Text" xml:space="preserve">
     <value>Annuler</value>
   </data>
   <data name="cmdCopyPerm.Text" xml:space="preserve">
@@ -24,7 +33,7 @@
   <data name="FolderTypeLabel.Text" xml:space="preserve">
     <value>Type de dossier</value>
   </data>
-  <data name="GeneralTab.Text">
+  <data name="GeneralTab.Text" xml:space="preserve">
     <value>Général</value>
   </data>
   <data name="lblCopyPerm.Help" xml:space="preserve">
@@ -39,10 +48,10 @@
   <data name="PermissionsCopied.Text" xml:space="preserve">
     <value>Autorisations copiées avec succès</value>
   </data>
-  <data name="PermissionsTab.Text">
+  <data name="PermissionsTab.Text" xml:space="preserve">
     <value>Permissions</value>
   </data>
-  <data name="SaveButton.Text">
+  <data name="SaveButton.Text" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
   <data name="UserCannotChangePermissionsError.Text" xml:space="preserve">
@@ -54,5 +63,4 @@
   <data name="UserCannotReadFolderError.Text" xml:space="preserve">
     <value>Vous n'êtes pas autorisé à lire ce dossier</value>
   </data>
-  
 </root>

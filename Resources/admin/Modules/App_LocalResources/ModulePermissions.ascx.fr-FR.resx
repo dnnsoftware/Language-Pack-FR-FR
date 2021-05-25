@@ -12,19 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_module.Text">
-    <value xml:space="preserve">Module</value>
+  <data name="ControlTitle_module.Text" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="InheritPermissions.Text">
-    <value xml:space="preserve">Hériter des permissions &lt;b&gt;d'affichage&lt;/b&gt; de la &lt;b&gt;page&lt;/b&gt;</value>
+  <data name="InheritPermissions.Text" xml:space="preserve">
+    <value>Hériter des permissions &lt;b&gt;d'affichage&lt;/b&gt; de la &lt;b&gt;page&lt;/b&gt;</value>
   </data>
-  <data name="Permissions.Text">
-    <value xml:space="preserve">Permissions</value>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Permissions</value>
   </data>
-  <data name="plPermissions.Help">
-    <value xml:space="preserve">Sélectionner les permissions d'affichage et de modification en cochant/décochant les cases de la grille. Le module peut hériter des permissions de la page en cliquant sur l'option appropriée.</value>
+  <data name="plPermissions.Help" xml:space="preserve">
+    <value>Sélectionner les permissions d'affichage et de modification en cochant/décochant les cases de la grille. Cochez "Hériter les permissions de la page" pour permettre au module d'hériter des permissions de la page.</value>
   </data>
-  <data name="plPermissions.Text">
-    <value xml:space="preserve">Permissions :</value>
+  <data name="plPermissions.Text" xml:space="preserve">
+    <value>Permissions :</value>
   </data>
 </root>

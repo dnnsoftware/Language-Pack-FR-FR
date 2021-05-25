@@ -12,52 +12,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle.Text">
-    <value xml:space="preserve">{0} Type de dossier</value>
+  <data name="ControlTitle.Text" xml:space="preserve">
+    <value>{0} Type de dossier</value>
   </data>
-  <data name="ControlTitle_editfoldermapping.Text">
-    <value xml:space="preserve">Gérer les correspondances de dossiers</value>
+  <data name="ControlTitle_editfoldermapping.Text" xml:space="preserve">
+    <value>Gérer les correspondances de dossiers</value>
   </data>
-  <data name="Description.Text">
-    <value xml:space="preserve">Cette boîte de dialogue permet de définir un nouveau type de dossier.</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Cette boîte de dialogue permet de définir un nouveau type de dossier.</value>
   </data>
-  <data name="DuplicateMappingName.Text">
-    <value xml:space="preserve">Un mappage portant le même nom existe déjà. Les modifications n'ont pas été enregistrées.</value>
+  <data name="DuplicateMappingName.Text" xml:space="preserve">
+    <value>Un mappage portant le même nom existe déjà. Les modifications n'ont pas été enregistrées.</value>
   </data>
-  <data name="FolderProviderLabel.Help">
-    <value xml:space="preserve">Sélectionnez le fournisseur (provider) de dossier à utiliser.</value>
+  <data name="FolderProviderLabel.Help" xml:space="preserve">
+    <value>Sélectionnez le fournisseur (provider) de dossier à utiliser.</value>
   </data>
-  <data name="FolderProviderLabel.Text">
-    <value xml:space="preserve">Fournisseur (provider) de dossier</value>
+  <data name="FolderProviderLabel.Text" xml:space="preserve">
+    <value>Fournisseur (provider) de dossier</value>
   </data>
-  <data name="FolderProviderSettings.Text">
-    <value xml:space="preserve">Fournisseur (provider) de dossiers</value>
+  <data name="FolderProviderSettings.Text" xml:space="preserve">
+    <value>Fournisseur (provider) de dossiers</value>
   </data>
-  <data name="FolderProviderValidator.ErrorMessage">
-    <value xml:space="preserve">Fournisseur (provider) de dossier requis</value>
+  <data name="FolderProviderValidator.ErrorMessage" xml:space="preserve">
+    <value>Fournisseur (provider) de dossier requis</value>
   </data>
-  <data name="GeneralSettings.Text">
-    <value xml:space="preserve">Paramètres généraux</value>
+  <data name="GeneralSettings.Text" xml:space="preserve">
+    <value>Paramètres généraux</value>
   </data>
-  <data name="NameLabel.Help">
-    <value xml:space="preserve">Entrer le nom du mappage pour ce dossier.</value>
+  <data name="NameLabel.Help" xml:space="preserve">
+    <value>Entrer le nom du mappage pour ce dossier.</value>
   </data>
-  <data name="NameLabel.Text">
-    <value xml:space="preserve">Nom</value>
+  <data name="NameLabel.Text" xml:space="preserve">
+    <value>Nom</value>
   </data>
-  <data name="NameValidator.ErrorMessage">
-    <value xml:space="preserve">Nom requis</value>
+  <data name="NameValidator.ErrorMessage" xml:space="preserve">
+    <value>Nom requis</value>
   </data>
-  <data name="RequiredFields.Text">
-    <value xml:space="preserve">Indique les champs requis</value>
+  <data name="RequiredFields.Text" xml:space="preserve">
+    <value>Indique les champs requis</value>
   </data>
-  <data name="SelectFolderProvider.Text">
-    <value xml:space="preserve">- Choisir un fournisseur (provider) de dossier -</value>
+  <data name="SelectFolderProvider.Text" xml:space="preserve">
+    <value>- Choisir un fournisseur (provider) de dossier -</value>
   </data>
-  <data name="SyncWarning.Text">
-    <value xml:space="preserve">Après une mise à jour du type de dossier, une synchronisation sera effectuée sur l'ensemble des dossiers du même type. Cela peut prendre plus ou moins de temps en fonction du nombre de dossiers répondants à ce critère.</value>
+  <data name="SyncWarning.Text" xml:space="preserve">
+    <value>Après une mise à jour du type de dossier, une synchronisation sera effectuée sur l'ensemble des dossiers du même type. Cela peut prendre plus ou moins de temps en fonction du nombre de dossiers répondants à ce critère.</value>
   </data>
-  <data name="Update.Text">
-    <value xml:space="preserve">Mettre à jour</value>
+  <data name="Update.Text" xml:space="preserve">
+    <value>Mettre à jour</value>
   </data>
 </root>

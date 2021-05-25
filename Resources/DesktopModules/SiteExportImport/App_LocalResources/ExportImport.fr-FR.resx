@@ -18,19 +18,19 @@
   <data name="JobNotExist.Text" xml:space="preserve">
     <value>Pas de "job" !</value>
   </data>
-  <data name="JobStatus_Cancelled.Text">
+  <data name="JobStatus_Cancelled.Text" xml:space="preserve">
     <value>Annulé</value>
   </data>
   <data name="JobStatus_DoneFailure.Text" xml:space="preserve">
     <value>A échoué</value>
   </data>
-  <data name="JobStatus_DoneSuccess.Text">
+  <data name="JobStatus_DoneSuccess.Text" xml:space="preserve">
     <value>Réussi</value>
   </data>
   <data name="JobStatus_InProgress.Text" xml:space="preserve">
     <value>En cours</value>
   </data>
-  <data name="JobStatus_Submitted.Text">
+  <data name="JobStatus_Submitted.Text" xml:space="preserve">
     <value>Soumis</value>
   </data>
   <data name="JobType_Export.Text" xml:space="preserve">
@@ -42,5 +42,4 @@
   <data name="NotPortalAdmin.Text" xml:space="preserve">
     <value>L’utilisateur n’est pas un administrateur du site</value>
   </data>
-  <!---->
 </root>

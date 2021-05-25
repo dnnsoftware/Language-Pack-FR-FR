@@ -12,40 +12,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BindConfirm.Text">
-    <value xml:space="preserve">La liaison à la version de la langue par défaut supprimera le contenu des versions de cultures spécifiques.  Cela est irreversible. Etes vous sur de vouloir  effectuer cette action?</value>
+  <data name="BindConfirm.Text" xml:space="preserve">
+    <value>La liaison à la version de la langue par défaut supprimera le contenu des versions de cultures spécifiques.  Cela est irreversible. Etes vous sûr de vouloir poursuivre?</value>
   </data>
-  <data name="bindModule.Text">
-    <value xml:space="preserve">Langue de référence par défaut</value>
+  <data name="bindModule.Text" xml:space="preserve">
+    <value>Langue de référence par défaut</value>
   </data>
-  <data name="Edit.Header">
-    <value xml:space="preserve">Modifier</value>
+  <data name="Edit.Header" xml:space="preserve">
+    <value>Éditer</value>
   </data>
-  <data name="Language.Header">
-    <value xml:space="preserve">Langue</value>
+  <data name="Language.Header" xml:space="preserve">
+    <value>Langue</value>
   </data>
-  <data name="markModuleTranslated.Text">
-    <value xml:space="preserve">Consideré comme traduit</value>
+  <data name="markModuleTranslated.Text" xml:space="preserve">
+    <value>Marquer traduit</value>
   </data>
-  <data name="markModuleUnTranslated.Text">
-    <value xml:space="preserve">Consideré comme non traduitt</value>
+  <data name="markModuleUnTranslated.Text" xml:space="preserve">
+    <value>Marquer non traduit</value>
   </data>
-  <data name="ModuleTitle.Header">
-    <value xml:space="preserve">Titre du module</value>
+  <data name="ModuleTitle.Header" xml:space="preserve">
+    <value>Titre du module</value>
   </data>
-  <data name="ModuleType.Header">
-    <value xml:space="preserve">Module</value>
+  <data name="ModuleType.Header" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="NA.Text">
-    <value xml:space="preserve">Non disponible.</value>
+  <data name="NA.Text" xml:space="preserve">
+    <value>N/D</value>
   </data>
-  <data name="Translated.Header">
-    <value xml:space="preserve">Traduit ?</value>
+  <data name="Translated.Header" xml:space="preserve">
+    <value>Traduit ?</value>
   </data>
-  <data name="unbindModule.Text">
-    <value xml:space="preserve">Détacher de la langue par défaut</value>
+  <data name="unbindModule.Text" xml:space="preserve">
+    <value>Détacher de la langue par défaut</value>
   </data>
-  <data name="UnBound.Header">
-    <value xml:space="preserve">Est détaché ?</value>
+  <data name="UnBound.Header" xml:space="preserve">
+    <value>Est détaché ?</value>
   </data>
 </root>
