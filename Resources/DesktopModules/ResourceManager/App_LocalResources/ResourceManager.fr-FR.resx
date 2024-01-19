@@ -235,7 +235,7 @@
     <value>Nom de l'élément</value>
   </data>
   <data name="LastModifiedOnDate.Text" xml:space="preserve">
-    <value>Date dernière modification</value>
+    <value>Date de dernière modification</value>
   </data>
   <data name="FileSizeErrorMessage.Text" xml:space="preserve">
     <value> est trop grand. La taille maximum autorisée est de </value>
