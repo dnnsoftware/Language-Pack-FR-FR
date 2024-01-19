@@ -145,7 +145,7 @@
     <value>Fichier téléversé.</value>
   </data>
   <data name="FileUploadStoppedMessage.Text" xml:space="preserve">
-    <value>Chargement du fichier stoppé</value>
+    <value>Chargement du fichier arrêté</value>
   </data>
   <data name="FolderNamePlaceholder.Text" xml:space="preserve">
     <value>Entrez un nom de dossier</value>
