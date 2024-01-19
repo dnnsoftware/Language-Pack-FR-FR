@@ -433,7 +433,7 @@
     <value>Fichiers du site</value>
   </data>
   <data name="UserAssets.Text" xml:space="preserve">
-    <value>{0} Fichiers</value>
+    <value>Fichiers pour {0}</value>
   </data>
   <data name="OpenFile.Text" xml:space="preserve">
     <value>Ouvrir</value>
