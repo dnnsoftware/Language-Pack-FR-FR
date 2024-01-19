@@ -214,7 +214,7 @@
     <value>URL</value>
   </data>
   <data name="ItemNameRequiredMessage.Text" xml:space="preserve">
-    <value>Nom requis</value>
+    <value>Le nom requis</value>
   </data>
   <data name="UserHasNoPermissionToReadFileProperties.Error" xml:space="preserve">
     <value>L'utilisateur n'a pas la permission de lire les propriétés du fichier.</value>
