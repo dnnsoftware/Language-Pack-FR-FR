@@ -265,7 +265,7 @@
     <value>Le fichier icone de groupe ne peut pas être effacé.</value>
   </data>
   <data name="InvalidExtensionMessage.Text" xml:space="preserve">
-    <value> type de fichier non autorisé pour chargement</value>
+    <value> type de fichier non autorisé pour téléversement</value>
   </data>
   <data name="Refresh.Text" xml:space="preserve">
     <value>Rafraîchir</value>
