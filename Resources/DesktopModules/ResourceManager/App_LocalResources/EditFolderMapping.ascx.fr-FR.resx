@@ -151,7 +151,7 @@
     <value>Indique les champs requis.</value>
   </data>
   <data name="SelectFolderProvider.Text" xml:space="preserve">
-    <value>- Selection fournisseur de dossier -</value>
+    <value>- Selectionnez un fournisseur de dossier -</value>
   </data>
   <data name="SyncWarning.Text" xml:space="preserve">
     <value>Après le changement du type de dossier, une synchronisation sera réalisée sur les dossiers utilisants ce type. Cela peut prendre du temps et dépend du nombre de dossiers qui correspondent au critère.</value>
