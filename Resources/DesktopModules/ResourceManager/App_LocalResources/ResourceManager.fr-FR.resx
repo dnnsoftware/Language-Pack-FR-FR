@@ -421,7 +421,7 @@
     <value>Remplacer</value>
   </data>
   <data name="EditFolderMappings.Text" xml:space="preserve">
-    <value>Modifier la réprésentation du dossier</value>
+    <value>Modifier le mappage du dossier</value>
   </data>
   <data name="GlobalAssets.Text" xml:space="preserve">
     <value>Fichiers globaux.</value>
