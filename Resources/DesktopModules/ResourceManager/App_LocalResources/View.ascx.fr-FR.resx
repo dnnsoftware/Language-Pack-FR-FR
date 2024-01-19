@@ -124,6 +124,6 @@
     <value>Le module est en mode groupe, mais la page ne l'est pas</value>
   </data>
   <data name="UserModeError.Text" xml:space="preserve">
-    <value>Le module est en mode user, mais l'utilisateur n'est pas identifié</value>
+    <value>Le module est en mode utilisateur, mais l'utilisateur n'est pas identifié</value>
   </data>
 </root>
