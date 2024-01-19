@@ -427,7 +427,7 @@
     <value>Fichiers globaux.</value>
   </data>
   <data name="GroupAssets.Text" xml:space="preserve">
-    <value>{0} fichiers</value>
+    <value>Fichiers pour {0}</value>
   </data>
   <data name="SiteAssets.Text" xml:space="preserve">
     <value>Fichiers du site</value>
