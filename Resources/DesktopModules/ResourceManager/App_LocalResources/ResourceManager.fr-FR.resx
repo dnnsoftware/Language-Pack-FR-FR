@@ -271,7 +271,7 @@
     <value>Rafraîchir</value>
   </data>
   <data name="Sync.Text" xml:space="preserve">
-    <value>Synchro</value>
+    <value>Synchroniser</value>
   </data>
   <data name="SyncThisFolder.Text" xml:space="preserve">
     <value>Synchro ce dossier</value>
