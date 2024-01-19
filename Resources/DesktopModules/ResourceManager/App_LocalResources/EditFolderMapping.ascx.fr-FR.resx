@@ -148,7 +148,7 @@
     <value>Nom</value>
   </data>
   <data name="RequiredFields.Text" xml:space="preserve">
-    <value>Indique champ requis.</value>
+    <value>Indique les champs requis.</value>
   </data>
   <data name="SelectFolderProvider.Text" xml:space="preserve">
     <value>- Selection fournisseur de dossier -</value>
