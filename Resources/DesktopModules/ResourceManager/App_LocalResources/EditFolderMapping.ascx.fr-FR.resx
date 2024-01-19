@@ -130,7 +130,7 @@
     <value>Un mappage avec le même nom existe déjà. Les changements n'ont pas été enregistrés.</value>
   </data>
   <data name="FolderProviderSettings.Text" xml:space="preserve">
-    <value>Réglages fournisseur de dossier.</value>
+    <value>Réglages du fournisseur de dossier.</value>
   </data>
   <data name="GeneralSettings.Text" xml:space="preserve">
     <value>Paramètres généraux.</value>
