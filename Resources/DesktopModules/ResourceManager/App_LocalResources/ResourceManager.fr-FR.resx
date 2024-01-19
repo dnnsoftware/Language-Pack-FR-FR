@@ -412,7 +412,7 @@
     <value>Télécharger</value>
   </data>
   <data name="Upload.Text" xml:space="preserve">
-    <value>Charger</value>
+    <value>Téléverser</value>
   </data>
   <data name="ExtractUploads.Text" xml:space="preserve">
     <value>Extraire les fichiers des fichiers ZIP chargés</value>
