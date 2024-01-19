@@ -331,7 +331,7 @@
     <value>Eléments</value>
   </data>
   <data name="MappedPath.Text" xml:space="preserve">
-    <value>Chemin de représentation</value>
+    <value>Chemin du mappage</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
     <value>Modifier</value>
