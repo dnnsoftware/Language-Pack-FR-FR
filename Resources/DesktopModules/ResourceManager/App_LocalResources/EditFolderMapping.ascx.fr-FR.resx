@@ -142,7 +142,7 @@
     <value>Fournisseur de dossier.</value>
   </data>
   <data name="NameLabel.Help" xml:space="preserve">
-    <value>Entrez le nom de la représentation du dossier.</value>
+    <value>Entrez le nom du mappage du dossier.</value>
   </data>
   <data name="NameLabel.Text" xml:space="preserve">
     <value>Nom</value>
