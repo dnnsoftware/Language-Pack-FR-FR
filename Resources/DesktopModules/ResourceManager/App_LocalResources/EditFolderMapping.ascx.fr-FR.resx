@@ -127,7 +127,7 @@
     <value>Définir un nouveau type de dossier.</value>
   </data>
   <data name="DuplicateMappingName.Text" xml:space="preserve">
-    <value>Une représentation avec le même nom existe. Les cangements n'ont pas été enregistrés.</value>
+    <value>Un mappage avec le même nom existe déjà. Les changements n'ont pas été enregistrés.</value>
   </data>
   <data name="FolderProviderSettings.Text" xml:space="preserve">
     <value>Réglages fournisseur de dossier.</value>
