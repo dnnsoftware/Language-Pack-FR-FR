@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="EditModule.Text" xml:space="preserve">
-    <value>Modifier Module</value>
+    <value>Éditer Module</value>
   </data>
   <data name="GroupModeError.Text" xml:space="preserve">
     <value>Le module est en mode groupe, mais la page non</value>
