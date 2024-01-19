@@ -121,7 +121,7 @@
     <value>Type de dossier {0}</value>
   </data>
   <data name="ControlTitle_editfoldermapping.Text" xml:space="preserve">
-    <value>Modifier la représentation du dossier</value>
+    <value>Éditer le mappage de dossier</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Définir un nouveau type de dossier.</value>
