@@ -142,7 +142,7 @@
     <value>Le fichier que vous voulez charger existe déjà dans le dossier.</value>
   </data>
   <data name="FileUploadedMessage.Text" xml:space="preserve">
-    <value>Fichier chargé.</value>
+    <value>Fichier téléversé.</value>
   </data>
   <data name="FileUploadStoppedMessage.Text" xml:space="preserve">
     <value>Chargement du fichier stoppé</value>
