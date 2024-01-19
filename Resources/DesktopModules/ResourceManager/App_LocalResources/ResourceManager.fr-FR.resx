@@ -289,7 +289,7 @@
     <value>Fournisseur de dossier</value>
   </data>
   <data name="FolderTypeDefinitions.Text" xml:space="preserve">
-    <value>Définition type de dossier</value>
+    <value>Définitions de types de dossiers</value>
   </data>
   <data name="EditFolderType.Text" xml:space="preserve">
     <value>Modifier le type de dossier</value>
