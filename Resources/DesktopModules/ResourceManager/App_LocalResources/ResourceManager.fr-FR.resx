@@ -277,7 +277,7 @@
     <value>Synchroniser ce dossier</value>
   </data>
   <data name="SyncThisFolderAndSubfolders.Text" xml:space="preserve">
-    <value>Synchro ce dossier &amp; sous dossiers</value>
+    <value>Synchroniser ce dossier &amp; sous dossiers</value>
   </data>
   <data name="ManageFolderTypes.Text" xml:space="preserve">
     <value>Gestion type dossier</value>
