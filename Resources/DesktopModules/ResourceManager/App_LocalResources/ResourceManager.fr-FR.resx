@@ -307,7 +307,7 @@
     <value>Déplacer élément(s)</value>
   </data>
   <data name="NewLocation.Text" xml:space="preserve">
-    <value>Nouvelle localisation</value>
+    <value>Nouvel emplacement</value>
   </data>
   <data name="SortField_ItemName.Text" xml:space="preserve">
     <value>Nom</value>
