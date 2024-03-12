@@ -13,24 +13,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Anonymize.Confirm" xml:space="preserve">
-    <value>Vos données personnelles seront anonymisées. Après l'anonymisation, les données ne peuvent plus vous être identifiées personnellement et vous ne pourrez plus vous connecter à l'aide de ce compte. Souhaitez-vous continuer?</value>
+    <value>Vos données personnelles vont être anonymisées. Après cela, ces données ne seront plus reliées à votre identité et il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
   </data>
   <data name="cmdDeleteMe.Text" xml:space="preserve">
-    <value>Supprimez moi</value>
+    <value>Désinscrivez-moi</value>
   </data>
   <data name="cmdSubmit.Text" xml:space="preserve">
-    <value>Soumettre</value>
+    <value>Valider</value>
   </data>
   <data name="DataConsent.Text" xml:space="preserve">
     <value>J'accepte les &lt;a href="{0}"&gt;conditions d'utilisation&lt;/a&gt; et la &lt;a href="{1}"&gt;déclaration de confidentialité&lt;/a&gt; de ce site web.</value>
   </data>
   <data name="DelayedHardDelete.Confirm" xml:space="preserve">
-    <value>Vos données personnelles seront bientôt supprimées de ce site. Une fois qu'elles auront été supprimées, elles ne pouront plus être récupérées et vos données seront perdues à jamais. Vous ne pourrez également plus vous connecter avec ce compte. Souhaitez-vous continuer?</value>
+    <value>Vos données personnelles vont être supprimées de ce site très prochainement. Après cela elles seront définitivement perdues. De plus, il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
   </data>
   <data name="HardDelete.Confirm" xml:space="preserve">
-    <value>Vos données personnelles seront immédiatement supprimées de ce site. Une fois qu'elles auront été supprimées, elles ne pourront plus être récupérées et vos données seront perdues à jamais. Vous ne pourrez également plus vous connecter avec ce compte. Souhaitez-vous continuer?</value>
+    <value>Vos données personnelles vont être supprimées de ce site immédiatement. Après cela elles seront définitivement perdues. De plus, il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
   </data>
   <data name="ManualDelete.Confirm" xml:space="preserve">
-    <value>Nous nous efforcerons de supprimer vos données personnelles de ce site sous peu. Une fois qu'elles seront supprimées, elles ne pourront plus être récupérées et vos données seront perdues à jamais. Vous ne pourrez également plus vous connecter avec ce compte. Souhaitez-vous continuer?</value>
+    <value>Nous nous efforcerons de supprimer vos données personnelles de ce site très prochainement. Après cela elles seront définitivement perdues. De plus, il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
   </data>
 </root>

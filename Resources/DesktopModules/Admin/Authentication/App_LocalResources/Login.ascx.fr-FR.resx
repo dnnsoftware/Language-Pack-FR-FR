@@ -61,7 +61,7 @@
     <value>Saisissez votre code de vérification</value>
   </data>
   <data name="FailedToRemoveAccount.Text" xml:space="preserve">
-    <value>Impossible de supprimer le compte. Veuillez contacter l'administrateur du site et lui faire savoir que vous souhaitez être supprimé.</value>
+    <value>Impossible de supprimer le compte. Veuillez contacter l'administrateur du site et lui faire savoir que vous souhaitez être désinscrit.</value>
   </data>
   <data name="InvalidCode.Text" xml:space="preserve">
     <value>Code de vérification invalide</value>
@@ -73,7 +73,7 @@
     <value>Connexion échouée. Le mot de passe est sensible à la casse.</value>
   </data>
   <data name="MustConsent.Text" xml:space="preserve">
-    <value>Vous devez accepter nos conditions pour continuer</value>
+    <value>Vous devez accepter les conditions d'utilisation pour poursuivre.</value>
   </data>
   <data name="PasswordExpired.Text" xml:space="preserve">
     <value>Votre mot de passe a expiré le {0}. Veuillez le mettre à jour avant de continuer.</value>
