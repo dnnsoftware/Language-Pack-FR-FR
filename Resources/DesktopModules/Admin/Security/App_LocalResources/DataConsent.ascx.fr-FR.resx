@@ -28,7 +28,7 @@
     <value>Vos données personnelles vont être supprimées de ce site très prochainement. Après cela elles seront définitivement perdues. De plus, il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
   </data>
   <data name="HardDelete.Confirm" xml:space="preserve">
-    <value>Vos données personnelles vont être supprimées de ce site immédiatement. Après cela elles seront définitivement perdues. De plus, il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
+    <value>Vos données personnelles vont être supprimées de ce site immédiatement. Après cela elles seront définitivement perdues. De plus, il ne vous sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
   </data>
   <data name="ManualDelete.Confirm" xml:space="preserve">
     <value>Nous nous efforcerons de supprimer vos données personnelles de ce site très prochainement. Après cela elles seront définitivement perdues. De plus, il ne vous ne sera plus possible de vous reconnecter avec ce compte. Souhaitez-vous continuer ?</value>
