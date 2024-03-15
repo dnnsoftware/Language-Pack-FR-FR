@@ -31,7 +31,7 @@
     <value>Reconnexion automatique</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Standard.</value>
+    <value>Standard</value>
   </data>
   <data name="UserAlreadyVerified.Text" xml:space="preserve">
     <value>Utilisateur déjà vérifié</value>
