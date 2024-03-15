@@ -100,7 +100,7 @@
     <value>Cliquer pour modifier le nom de ce groupe</value>
   </data>
   <data name="EditorConfigWarning.Text" xml:space="preserve">
-    <value>&lt;strong&gt;Informations :&lt;/ strong&gt; Les paramètres ci-dessous ne sont là que pour les experts, veuillez les modifier uniquement si vous savez ce que vous faites. Pour en savoir plus sur les paramètres ci-dessous, visiter la page suivante : &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentation Page&lt;/ strong&gt;&lt;/ a&gt;. Vous pouvez laisser les paramètres vierges pour charger les paramètres par défaut.</value>
+    <value>&lt;strong&gt;Informations :&lt;/strong&gt; Les paramètres ci-dessous ne sont là que pour les experts, veuillez les modifier uniquement si vous savez ce que vous faites. Pour en savoir plus sur les paramètres ci-dessous, visiter la page suivante : &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentation Page&lt;/strong&gt;&lt;/a&gt;. Vous pouvez laisser les paramètres vierges pour charger les paramètres par défaut.</value>
   </data>
   <data name="EditToolbar.Text" xml:space="preserve">
     <value>Modifier le jeu de barre d'outils sélectionné</value>
@@ -340,13 +340,13 @@
     <value>Supprime le paramètre actuel pour {0} uniquement.</value>
   </data>
   <data name="Remove.Text" xml:space="preserve">
-    <value>Supprimer les {0} paramètres</value>
+    <value>Supprimer les paramètres {0}</value>
   </data>
   <data name="RemoveAll.Help" xml:space="preserve">
     <value>Supprime les {0} paramètres du site complet.</value>
   </data>
   <data name="RemoveAll.Text" xml:space="preserve">
-    <value>Supprimer tous les {0} paramètres</value>
+    <value>Supprimer tous les paramètres {0}</value>
   </data>
   <data name="RemoveModuleChild.Help" xml:space="preserve">
     <value>Supprimer les paramètres de tous les modules sur la page en cours</value>

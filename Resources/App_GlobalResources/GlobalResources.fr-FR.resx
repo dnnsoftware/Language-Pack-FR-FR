@@ -228,13 +228,13 @@ une requête dans la base (table &amp;quot;Portals&amp;quot;, colonne &amp;quot;
     <value>Déployer le module</value>
   </data>
   <data name="cc_dismiss.Text" xml:space="preserve">
-    <value>J'ai compris!</value>
+    <value>J'ai compris !</value>
   </data>
   <data name="cc_link.Text" xml:space="preserve">
     <value>En savoir plus</value>
   </data>
   <data name="cc_message.Text" xml:space="preserve">
-    <value>Ce site Web utilise des cookies pour vous garantir la meilleure expérience sur notre site Web.</value>
+    <value>Ce site utilise des cookies afin de vous permettre de bénéficier de la meilleure expérience utilisateur possible.</value>
   </data>
   <data name="ClearCache.Action" xml:space="preserve">
     <value>Vider le cache</value>
@@ -462,7 +462,7 @@ Merci, nous apprécions votre support...
     <value>Nouveau message de {0}</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Cher [User:DisplayName],&lt;br&gt;&lt;br&gt;Merci de vous être inscrit sur [Portal:PortalName]. Votre inscription a bien été approuvée et votre compte est désormais actif.&lt;br&gt;&lt;br&gt;Adresse du site web : [Portal:URL]&lt;br&gt;Nom d'utilisateur : [User:UserName]&lt;br&gt;&lt;br&gt;Merci, nous apprécions votre soutien.&lt;br&gt;&lt;br&gt;[Portal:PortalName]</value>
+    <value>Cher(e) [User:DisplayName],&lt;br&gt;&lt;br&gt;Merci de vous être inscrit sur [Portal:PortalName]. Votre inscription a bien été approuvée et votre compte est désormais actif.&lt;br&gt;&lt;br&gt;Adresse du site web : [Portal:URL]&lt;br&gt;Nom d'utilisateur : [User:UserName]&lt;br&gt;&lt;br&gt;Merci, nous apprécions votre soutien.&lt;br&gt;&lt;br&gt;[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Inscription approuvée pour [Portal:URL]</value>
@@ -483,7 +483,7 @@ Merci,
     <value>[Portal:PortalName] Inscription d'un nouvel utilisateur</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
-    <value>Cher(e] [User:DisplayName],
+    <value>Cher(e) [User:DisplayName],
 
 Nous avons bien reçu votre demande d'inscription sur le site [Portal:PortalName].
 
@@ -533,7 +533,7 @@ Cordialement,
     <value>[Portal:PortalName] Inscription d'un nouvel utilisateur</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>&lt;p&gt;Cher [User:DisplayName],&lt;/p&gt;&lt;p&gt;Votre compte pour [Portal:PortalName] n'a pas été autorisé.&lt;/p&gt;&lt;p&gt;Adresse du site : [Portal:URL] &lt;br&gt;Nom d'utilisateur : [User:UserName] &lt;/p&gt;&lt;p&gt;Si vous avez des questions, n'hésitez pas à contacter l'administrateur sur [Portal:Email]&lt;/p&gt;&lt;p&gt;Cordialement,&lt;br&gt;[Portal:PortalName]&lt;/p&gt;</value>
+    <value>&lt;p&gt;Cher(e) [User:DisplayName],&lt;/p&gt;&lt;p&gt;Votre compte pour [Portal:PortalName] n'a pas été autorisé.&lt;/p&gt;&lt;p&gt;Adresse du site : [Portal:URL] &lt;br&gt;Nom d'utilisateur : [User:UserName] &lt;/p&gt;&lt;p&gt;Si vous avez des questions, n'hésitez pas à contacter l'administrateur sur [Portal:Email]&lt;/p&gt;&lt;p&gt;Cordialement,&lt;br&gt;[Portal:PortalName]&lt;/p&gt;</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Votre compte n'a pas été autorisé pour [Portal: URL]</value>
@@ -555,9 +555,9 @@ Adresse Email : [User:Email]</value>
     <value>Désinscription sur [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
-    <value>Dear [User:DisplayName],
+    <value>Cher(e) [User:DisplayName],
 
-Vous avez modifi votre mot de passe sur le site [Portal:PortalName].
+Vous avez modifié votre mot de passe sur le site [Portal:PortalName].
 
 Connectez-vous en utilisant ces informations :
 
