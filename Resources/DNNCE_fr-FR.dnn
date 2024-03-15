@@ -1,6 +1,6 @@
 ﻿<dotnetnuke type="Package" version="5.0">
 	<packages>
-		<package name="Core_fr-FR" type="CoreLanguagePack" version="09.09.01">
+		<package name="Core_fr-FR" type="CoreLanguagePack" version="09.13.03">
 			<friendlyName>DNN Core français (France)</friendlyName>
 			<description>French (France) language pack for DNN Platform.</description>
 			<iconFile />
@@ -354,7 +354,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DDR Menu français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DDR Menu.]]></description>
 			<iconFile />
@@ -383,7 +383,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Digital Asset Management français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Digital Asset Management.]]></description>
 			<iconFile />
@@ -440,7 +440,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>HTML français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for HTML.]]></description>
 			<iconFile />
@@ -485,7 +485,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Journal_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="Journal_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Journal français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Journal.]]></description>
 			<iconFile />
@@ -522,7 +522,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Member Directory français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Member Directory.]]></description>
 			<iconFile />
@@ -551,7 +551,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Message Center français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Message Center.]]></description>
 			<iconFile />
@@ -580,7 +580,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Razor Host français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Razor Host.]]></description>
 			<iconFile />
@@ -621,7 +621,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Social Groups français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Social Groups.]]></description>
 			<iconFile />
@@ -662,7 +662,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Default Authentication français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Default Authentication.]]></description>
 			<iconFile />
@@ -691,7 +691,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Dnn.EditBar.UI français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Dnn.EditBar.UI.]]></description>
 			<iconFile />
@@ -732,7 +732,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Dnn.PersonaBar.UI français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Dnn.PersonaBar.UI.]]></description>
 			<iconFile />
@@ -849,7 +849,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Site Export Import français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Site Export Import.]]></description>
 			<iconFile />
@@ -874,7 +874,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Dnn Azure Connector français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Dnn Azure Connector.]]></description>
 			<iconFile />
@@ -899,7 +899,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke ASP.NET Client Capability Provider français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DotNetNuke ASP.NET Client Capability Provider.]]></description>
 			<iconFile />
@@ -924,7 +924,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke Folder Providers français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DotNetNuke Folder Providers.]]></description>
 			<iconFile />
@@ -949,7 +949,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="09.09.01">
+		<package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DNN Connect CKEditor Provider français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DNN Connect CKEditor Provider.]]></description>
 			<iconFile />
