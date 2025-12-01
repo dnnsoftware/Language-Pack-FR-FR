@@ -1,6 +1,6 @@
 ﻿<dotnetnuke type="Package" version="5.0">
 	<packages>
-		<package name="Core_fr-FR" type="CoreLanguagePack" version="09.13.03">
+		<package name="Core_fr-FR" type="CoreLanguagePack" version="10.01.02">
 			<friendlyName>DNN Core français (France)</friendlyName>
 			<description>French (France) language pack for DNN Platform.</description>
 			<iconFile />
@@ -10,7 +10,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="CoreLanguage">
@@ -148,10 +148,6 @@
 						</languageFile>
 						<languageFile>
 							<path>App_GlobalResources</path>
-							<name>Prompt.fr-FR.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>App_GlobalResources</path>
 							<name>SharedResources.fr-FR.resx</name>
 						</languageFile>
 						<languageFile>
@@ -249,10 +245,6 @@
 						<languageFile>
 							<path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
 							<name>SearchResults.ascx.fr-FR.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>DesktopModules\Admin\Security\App_LocalResources</path>
-							<name>DataConsent.ascx.fr-FR.resx</name>
 						</languageFile>
 						<languageFile>
 							<path>DesktopModules\Admin\Security\App_LocalResources</path>
@@ -362,7 +354,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DDRMenu_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>DDR Menu français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DDR Menu.]]></description>
 			<iconFile />
@@ -372,7 +364,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -391,7 +383,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DigitalAssetsManagement_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Digital Asset Management français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Digital Asset Management.]]></description>
 			<iconFile />
@@ -401,7 +393,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -448,43 +440,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="ResourceManager_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
-			<friendlyName>ResourceManager français (France)</friendlyName>
-			<description>![CDATA[French (France) core language pack for DNN Platform.]]</description>
-			<iconFile/>
-			<owner>
-				<name>DNN Platform</name>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
-			</owner>
-			<license src="License.txt"/>
-			<components>
-				<component type="ExtensionLanguage">
-					<languageFiles>
-						<code>fr-FR</code>
-						<package>ResourceManager</package>
-						<languageFile>
-							<path>DesktopModules\ResourceManager\App_LocalResources</path>
-							<name>EditFolderMapping.ascx.fr-FR.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>DesktopModules\ResourceManager\App_LocalResources</path>
-							<name>ResourceManager.fr-FR.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>DesktopModules\ResourceManager\App_LocalResources</path>
-							<name>Settings.ascx.fr-FR.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>DesktopModules\ResourceManager\App_LocalResources</path>
-							<name>View.ascx.fr-FR.resx</name>
-						</languageFile>
-					</languageFiles>
-				</component>
-			</components>
-		</package>
-		<package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DNN_HTML_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>HTML français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for HTML.]]></description>
 			<iconFile />
@@ -494,7 +450,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -529,7 +485,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Journal_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="Journal_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Journal français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Journal.]]></description>
 			<iconFile />
@@ -539,7 +495,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -566,7 +522,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DotNetNuke.Modules.MemberDirectory_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Member Directory français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Member Directory.]]></description>
 			<iconFile />
@@ -576,7 +532,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -595,7 +551,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DotNetNuke.Modules.CoreMessaging_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Message Center français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Message Center.]]></description>
 			<iconFile />
@@ -605,7 +561,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -624,7 +580,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DNNCorp.RazorHost_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Razor Host français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Razor Host.]]></description>
 			<iconFile />
@@ -634,7 +590,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -665,7 +621,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="Social Groups_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Social Groups français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Social Groups.]]></description>
 			<iconFile />
@@ -675,7 +631,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -706,7 +662,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DefaultAuthentication_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Default Authentication français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Default Authentication.]]></description>
 			<iconFile />
@@ -716,7 +672,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -735,7 +691,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="Dnn.EditBar.UI_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Dnn.EditBar.UI français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Dnn.EditBar.UI.]]></description>
 			<iconFile />
@@ -745,7 +701,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -776,7 +732,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="Dnn.PersonaBar.UI_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Dnn.PersonaBar.UI français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Dnn.PersonaBar.UI.]]></description>
 			<iconFile />
@@ -786,7 +742,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -850,10 +806,6 @@
 							<name>Servers.fr-FR.resx</name>
 						</languageFile>
 						<languageFile>
-							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteGroups\App_LocalResources</path>
-							<name>SiteGroups.fr-FR.resx</name>
-						</languageFile>
-						<languageFile>
 							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
 							<name>SiteImportExport.fr-FR.resx</name>
 						</languageFile>
@@ -897,7 +849,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="SiteExportImport_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Site Export Import français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Site Export Import.]]></description>
 			<iconFile />
@@ -907,7 +859,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -922,7 +874,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="Dnn.AzureConnector_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>Dnn Azure Connector français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for Dnn Azure Connector.]]></description>
 			<iconFile />
@@ -932,7 +884,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -947,7 +899,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="AspNetClientCapabilityProvider_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>DotNetNuke ASP.NET Client Capability Provider français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DotNetNuke ASP.NET Client Capability Provider.]]></description>
 			<iconFile />
@@ -957,7 +909,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -972,7 +924,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DotNetNuke.Providers.FolderProviders_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>DotNetNuke Folder Providers français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DotNetNuke Folder Providers.]]></description>
 			<iconFile />
@@ -982,7 +934,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
@@ -997,7 +949,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="09.13.03">
+		<package name="DNNConnect.CKEditorProvider_fr-FR" type="ExtensionLanguagePack" version="10.01.02">
 			<friendlyName>DNN Connect CKEditor Provider français (France)</friendlyName>
 			<description><![CDATA[French (France) language pack for DNN Connect CKEditor Provider.]]></description>
 			<iconFile />
@@ -1007,7 +959,7 @@
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"></license>			
 			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
