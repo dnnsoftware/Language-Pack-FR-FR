@@ -153,8 +153,8 @@
   <data name="DeletingOldFiles.Text" xml:space="preserve">
     <value>Suppression des anciens fichiers pour</value>
   </data>
-  <data name="DotNetVersion472Required.Text" xml:space="preserve">
-    <value>.Net Framework 4.7.2 est requis. Vérifiez les mises à jour Windows avant de continuer.</value>
+  <data name="DotNetVersion48Required.Text" xml:space="preserve">
+    <value>.NET Framework 4.8 est requis. Vérifiez les mises à jour Windows avant de continuer.</value>
   </data>
   <data name="Email.Help" xml:space="preserve">
     <value>Entrer une adresse de courriel pour cet utilisateur.</value>
@@ -243,6 +243,12 @@
   <data name="InstallingMembershipDatabaseScriptStep.Text" xml:space="preserve">
     <value>Installation des scripts de base de données liés au "Membership"</value>
   </data>
+  <data name="InstallingSslStep.Text" xml:space="preserve">
+    <value>Vérification du protocole HTTPS pour le site {0}</value>
+  </data>
+  <data name="InstallingSslStepSiteNotFound.Text" xml:space="preserve">
+    <value>Impossible de trouver le site {0} pour configurer le HTTPS.</value>
+  </data>
   <data name="InstallTitle.Text" xml:space="preserve">
     <value>Installation</value>
   </data>
@@ -302,6 +308,9 @@
   </data>
   <data name="LicenseActivation.Text" xml:space="preserve">
     <value>Activation de la licence</value>
+  </data>
+  <data name="LoadingInstallationLog.Text" xml:space="preserve">
+    <value>Chargement des journaux d'installation, veuillez patienter...</value>
   </data>
   <data name="NoErrorsLogged.Text" xml:space="preserve">
     <value>Aucune erreur d'installation n'a été enregistrée</value>
@@ -414,6 +423,12 @@
   </data>
   <data name="WebsiteName.Text" xml:space="preserve">
     <value>Nom du site web</value>
+  </data>
+  <data name="WebsiteSsl.Help" xml:space="preserve">
+    <value>Le site Web sera configuré pour fonctionner en HTTPS.</value>
+  </data>
+  <data name="WebsiteSsl.Text" xml:space="preserve">
+    <value>HTTPS</value>
   </data>
   <data name="WebsiteTemplate.Help" xml:space="preserve">
     <value>Le type de site que vous souhaitez configurer.</value>

@@ -36,6 +36,9 @@
   <data name="BrowserModus.Link.Text" xml:space="preserve">
     <value>Lien</value>
   </data>
+  <data name="BrowserModus.Text" xml:space="preserve">
+    <value>Mode navigateur : {0}</value>
+  </data>
   <data name="chkAspect.Text" xml:space="preserve">
     <value>Maintenir le rapport l / h</value>
   </data>
@@ -301,7 +304,7 @@
     <value>Trier la liste des fichiers par leur nom dans l'ordre décroissant.</value>
   </data>
   <data name="SortDescending.Text" xml:space="preserve">
-    <value>Sort Descending</value>
+    <value>Tri descendant</value>
   </data>
   <data name="SpaceUsed.Text" xml:space="preserve">
     <value>Espace utilisé : {0} sur {1}</value>

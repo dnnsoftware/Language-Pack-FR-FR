@@ -243,6 +243,12 @@
   <data name="plModuleContainer.Text" xml:space="preserve">
     <value>Conteneur :</value>
   </data>
+  <data name="plModuleId.Help" xml:space="preserve">
+    <value>Affiche l'identifiant du module.</value>
+  </data>
+  <data name="plModuleId.Text" xml:space="preserve">
+    <value>ID du module</value>
+  </data>
   <data name="plMoniker.Help" xml:space="preserve">
     <value>Un identifiant unique pour ce module. Ceci peut être utilisé par des appels de l'API Web afin de définir le contexte du module et de la page.</value>
   </data>
@@ -291,30 +297,6 @@
   <data name="plVisibility.Text" xml:space="preserve">
     <value>Réduire / Développer</value>
   </data>
-  <data name="plWebSlice.Help" xml:space="preserve">
-    <value>Cocher cette case pour faire de ce module un "WebSlice" pour IE8.</value>
-  </data>
-  <data name="plWebSlice.Text" xml:space="preserve">
-    <value>En faire un "WebSlice"</value>
-  </data>
-  <data name="plWebSliceExpiry.Help" xml:space="preserve">
-    <value>Saisissez la date d'expiration du "WebSlice". Par défaut, la date d'expiration du module sera utilisée.</value>
-  </data>
-  <data name="plWebSliceExpiry.Text" xml:space="preserve">
-    <value>Date d'expiration du "webslice" :</value>
-  </data>
-  <data name="plWebSliceTitle.Help" xml:space="preserve">
-    <value>Saisissez un titre pour le "WebSlice".</value>
-  </data>
-  <data name="plWebSliceTitle.Text" xml:space="preserve">
-    <value>Titre du "webslice" :</value>
-  </data>
-  <data name="plWebSliceTTL.Help" xml:space="preserve">
-    <value>Saisissez la durée de vie de ce "WebSlice" (TTL en minutes).  Par défaut, ce sera la valeur du cache convertie en minutes.</value>
-  </data>
-  <data name="plWebSliceTTL.Text" xml:space="preserve">
-    <value>Durée de vie du webslice (TTL) :</value>
-  </data>
   <data name="PreviewNoSelectionMessage.Text" xml:space="preserve">
     <value>Sélectionner un conteneur à prévisualiser</value>
   </data>
@@ -347,11 +329,5 @@
   </data>
   <data name="valStartDate.ErrorMessage" xml:space="preserve">
     <value>Date de début invalide</value>
-  </data>
-  <data name="valWebSliceExpiry.ErrorMessage" xml:space="preserve">
-    <value>Date d'expiration invalide</value>
-  </data>
-  <data name="valWebSliceTTL.ErrorMessage" xml:space="preserve">
-    <value>Durée de vie du "webslice" invalide (TTL) - la valeur doit être un nombre entier.</value>
   </data>
 </root>

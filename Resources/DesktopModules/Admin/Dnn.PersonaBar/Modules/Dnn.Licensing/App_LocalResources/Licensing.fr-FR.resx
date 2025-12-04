@@ -108,12 +108,6 @@
   <data name="nav_Licensing.Text" xml:space="preserve">
     <value>A propos</value>
   </data>
-  <data name="NoLicense.Header" xml:space="preserve">
-    <value>Vous n'avez pas encore de licence EVOQ...</value>
-  </data>
-  <data name="NoLicense.Text" xml:space="preserve">
-    <value>Mettre à niveau vers EVOQ ci-dessous pour accéder aux fonctionnalités professionnelles pour vos sites.</value>
-  </data>
   <data name="Success.DevLicenseActivated" xml:space="preserve">
     <value>La licence de développement a été activée avec succès.</value>
   </data>

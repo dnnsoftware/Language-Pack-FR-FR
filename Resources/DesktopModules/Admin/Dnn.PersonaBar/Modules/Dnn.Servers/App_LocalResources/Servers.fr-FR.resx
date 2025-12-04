@@ -15,6 +15,12 @@
   <data name="Actions.Text" xml:space="preserve">
     <value>Actions</value>
   </data>
+  <data name="Authorize.Text" xml:space="preserve">
+    <value>Autoriser</value>
+  </data>
+  <data name="AuthorizeCompleted.Text" xml:space="preserve">
+    <value>La configuration de votre fournisseur OAuth est terminée.</value>
+  </data>
   <data name="BackupFinished.Text" xml:space="preserve">
     <value>Terminé</value>
   </data>
@@ -33,8 +39,14 @@
   <data name="Cancel.Text" xml:space="preserve">
     <value>Annuler</value>
   </data>
+  <data name="Change.Text" xml:space="preserve">
+    <value>Changement</value>
+  </data>
   <data name="clearCacheButtonLabel.Text" xml:space="preserve">
     <value>Effacer le cache</value>
+  </data>
+  <data name="CompleteAuthorize.Text" xml:space="preserve">
+    <value>Vos paramètres de fournisseur OAuth ont été enregistrés. Veuillez cliquer sur le bouton Autoriser pour terminer le processus d'autorisation.</value>
   </data>
   <data name="Confirm.Text" xml:space="preserve">
     <value>Confirmer</value>
@@ -257,6 +269,9 @@
   </data>
   <data name="NonCoreMailProvider.Text" xml:space="preserve">
     <value>Cette installation DNN exécute un autre fournisseur de messagerie. La configuration se fait dans l'interface du fournisseur.</value>
+  </data>
+  <data name="OAuthConfigurationNotSaved.Text" xml:space="preserve">
+    <value>Veuillez enregistrer les paramètres et terminer le processus d'autorisation avant de procéder au test lorsque le mode d'authentification OAuth est activé au niveau de l'hôte ou du site web.</value>
   </data>
   <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve">
     <value>Attention : la mise en mémoire de la persistance de l'état de la page peut provoquer des problèmes Ajax.</value>
@@ -495,6 +510,12 @@
   <data name="ServerInfo_Framework.Text" xml:space="preserve">
     <value>.NET Framework Version :</value>
   </data>
+  <data name="ServerInfo_Framework_Product.Help" xml:space="preserve">
+    <value>Il s'agit du numéro de version généralement utilisé pour désigner le .NET Framework en tant que produit (par exemple 4.8.1).</value>
+  </data>
+  <data name="ServerInfo_Framework_Product.Text" xml:space="preserve">
+    <value>Version du produit .NET Framework :</value>
+  </data>
   <data name="ServerInfo_HostName.Help" xml:space="preserve">
     <value>Le nom de l'ordinateur hôte.</value>
   </data>
@@ -569,6 +590,15 @@
   </data>
   <data name="SMTPNTLM.Text" xml:space="preserve">
     <value>Identification Windows</value>
+  </data>
+  <data name="SMTPOAUTH.Text" xml:space="preserve">
+    <value>OAuth</value>
+  </data>
+  <data name="SmtpTab_OAuthProviders.Help" xml:space="preserve">
+    <value>Veuillez sélectionner le fournisseur d'authentification SMTP OAuth.</value>
+  </data>
+  <data name="SmtpTab_OAuthProviders.Text" xml:space="preserve">
+    <value>Fournisseur d'authentification</value>
   </data>
   <data name="tabApplicationTitle.Text" xml:space="preserve">
     <value>Application</value>

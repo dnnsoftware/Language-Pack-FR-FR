@@ -656,6 +656,12 @@
   <data name="UserFolder.Text" xml:space="preserve">
     <value>Dossier de l’utilisateur :</value>
   </data>
+  <data name="UserId.Help" xml:space="preserve">
+    <value>L'identifiant unique de l'utilisateur.</value>
+  </data>
+  <data name="UserId.Text" xml:space="preserve">
+    <value>ID de l'utilisateur:</value>
+  </data>
   <data name="Username.Help" xml:space="preserve">
     <value>Saisir un nom d’utilisateur. Il doit disposer d'au moins cinq caractères alphanumériques.</value>
   </data>
