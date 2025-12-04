@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountEmail.Help" xml:space="preserve">
+    <value>L'adresse e-mail de votre compte Gmail.</value>
+  </data>
+  <data name="AccountEmail.Text" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="ClientId.Help" xml:space="preserve">
+    <value>L'identifiant client de votre application Google OAuth.</value>
+  </data>
+  <data name="ClientId.Text" xml:space="preserve">
+    <value>ID client</value>
+  </data>
+  <data name="ClientSecret.Help" xml:space="preserve">
+    <value>Le secret client de votre application Google OAuth.</value>
+  </data>
+  <data name="ClientSecret.Text" xml:space="preserve">
+    <value>Secret du client</value>
+  </data>
+  <data name="GoogleMail.Text" xml:space="preserve">
+    <value>Courriel Google</value>
+  </data>
+</root>

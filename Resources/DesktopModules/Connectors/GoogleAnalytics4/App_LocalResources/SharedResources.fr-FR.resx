@@ -12,13 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="EditModule.Text" xml:space="preserve">
-    <value>Éditer Module</value>
+  <data name="btnDelete.Text" xml:space="preserve">
+    <value>Supprimer la connexion</value>
   </data>
-  <data name="GroupModeError.Text" xml:space="preserve">
-    <value>Le module est en mode groupe, mais la page ne l'est pas</value>
+  <data name="ConnectorName.Text" xml:space="preserve">
+    <value>Connecteur principal Google Analytics 4</value>
   </data>
-  <data name="UserModeError.Text" xml:space="preserve">
-    <value>Le module est en mode utilisateur, mais l'utilisateur n'est pas identifié</value>
+  <data name="Ga4ID.Text" xml:space="preserve">
+    <value>ID de la mesure :</value>
+  </data>
+  <data name="TrackAdministrators.Text" xml:space="preserve">
+    <value>Suivre pour administrateurs :</value>
+  </data>
+  <data name="TrackingCodeFormat.ErrorMessage" xml:space="preserve">
+    <value>Le code de suivi ne peut pas être vide.</value>
   </data>
 </root>

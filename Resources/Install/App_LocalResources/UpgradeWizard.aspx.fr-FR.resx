@@ -24,6 +24,9 @@
   <data name="BestPractices.Text" xml:space="preserve">
     <value>Vous vous apprêtez à mettre à jour votre site dans une version plus récente de l'application. Avant de procéder à la mise à jour automatique vérifiez que :&lt;ul&gt;&lt;li&gt;vous allez effectuer cette mise à jour dans un environnement de test&lt;/li&gt;&lt;li&gt;vous avez documenté toutes les informations spécifiques à votre installation et vérifié la compatibilité de cette mise à jour avec les modules tiers.&lt;/li&gt;&lt;li&gt;vous avez créé les sauvegardes nécessaires afin de pouvoir procéder à une restauration en cas d’erreur lors du processus de mise à jour&lt;/li&gt;&lt;/ul&gt;</value>
   </data>
+  <data name="CheckingSecurity.Text" xml:space="preserve">
+    <value>Vérification des aspects de sécurité de cette installation</value>
+  </data>
   <data name="CurrentVersion.Text" xml:space="preserve">
     <value>Version actuelle - {0}</value>
   </data>
@@ -45,8 +48,17 @@
   <data name="InvalidCredentials.Text" xml:space="preserve">
     <value>Nom d'utilisateur et mot de passe non reconnus.</value>
   </data>
+  <data name="LoadingInstallationLog.Text" xml:space="preserve">
+    <value>Chargement des journaux d'installation, veuillez patienter...</value>
+  </data>
   <data name="Next.Text" xml:space="preserve">
     <value>Mettre à jour</value>
+  </data>
+  <data name="NextStep.Text" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="NoErrorsLogged.Text" xml:space="preserve">
+    <value>Aucune erreur de mise à niveau n'a été enregistrée.</value>
   </data>
   <data name="NoInstallationLog.Text" xml:space="preserve">
     <value>Aucun journal d'Installation</value>
@@ -60,8 +72,47 @@
   <data name="Retry.Text" xml:space="preserve">
     <value>Réessayer</value>
   </data>
+  <data name="Security.Text" xml:space="preserve">
+    <value>Sécurité</value>
+  </data>
   <data name="SeeLogs.Text" xml:space="preserve">
     <value>Afficher les journaux</value>
+  </data>
+  <data name="TelerikInstalledAndUsedInfo.Text" xml:space="preserve">
+    <value>Votre installation utilise Telerik dans les assembly suivants :</value>
+  </data>
+  <data name="TelerikInstalledAndUsedWarning.Text" xml:space="preserve">
+    <value>Il semble que vous utilisiez des extensions qui dépendent de Telerik. Nous ne pouvons pas supprimer les dépendances que nous avons détectées et listées ci-dessus. Cependant, cette mise à jour &lt;em&gt;supprimera&lt;/em&gt; les composants Telerik vulnérables connus. Veuillez effectuer une sauvegarde de votre site avant de poursuivre la mise à jour. Une fois la mise à jour terminée, il est possible que votre site web cesse de fonctionner. La restauration manuelle du fichier &lt;code&gt;Telerik.Web.UI.dll&lt;/code&gt; peut vous permettre de rétablir son fonctionnement en attendant de désinstaller les extensions concernées.</value>
+  </data>
+  <data name="TelerikInstalledBulletin.Text" xml:space="preserve">
+    <value>Un bulletin de sécurité publié en août 2021 recommande la suppression immédiate de ce composant en raison de failles de sécurité critiques. Pour en savoir plus, consultez le &lt;a href="https://dnncommunity.org/security" target="_blank"&gt;Centre de sécurité DNN&lt;/a&gt; .</value>
+  </data>
+  <data name="TelerikInstalledButNotUsedInfo.Text" xml:space="preserve">
+    <value>Votre installation ne semble utiliser aucun de ces composants ; le composant Telerik sera donc automatiquement désinstallé. Veuillez effectuer une sauvegarde de votre site avant de poursuivre la mise à niveau.</value>
+  </data>
+  <data name="TelerikInstalledDetected.Text" xml:space="preserve">
+    <value>Nous avons détecté la présence de composants Telerik. Version Telerik détectée :</value>
+  </data>
+  <data name="TelerikInstalledHeading.Text" xml:space="preserve">
+    <value>Installation Telerik détectée</value>
+  </data>
+  <data name="TelerikInvalidAntiForgeryToken.Text" xml:space="preserve">
+    <value>Jeton anti-contrefaçon Telerik invalide.</value>
+  </data>
+  <data name="TelerikNotInstalledHeading.Text" xml:space="preserve">
+    <value>Vérification de sécurité : Succès</value>
+  </data>
+  <data name="TelerikNotInstalledInfo.Text" xml:space="preserve">
+    <value>Nous avons confirmé que votre site ne contient pas le composant Telerik vulnérable précédemment distribué avec DNN.</value>
+  </data>
+  <data name="TelerikUninstallInfo.Text" xml:space="preserve">
+    <value>Veuillez noter que sélectionner « Oui » ci-dessous permettra de réaliser automatiquement &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;ces étapes&lt;/a&gt; .</value>
+  </data>
+  <data name="TelerikUninstallOptionMissing.Text" xml:space="preserve">
+    <value>L'option de désinstallation de Telerik est manquante.</value>
+  </data>
+  <data name="TelerikVersionNotKnownToBeVulnerableInfo.Text" xml:space="preserve">
+    <value>Votre installation semble utiliser une version des composants Telerik plus récente que la version vulnérable précédemment distribuée. La désinstallation ne sera pas automatique ; veuillez toutefois suivre la &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;procédure de suppression&lt;/a&gt; afin de vous assurer que tous les composants vulnérables sont supprimés ou remplacés. Par ailleurs, consultez &lt;a href="https://www.telerik.com/products/aspnet-ajax/documentation/security/security-information#telerik-ajax-control-specific-security-guidelines"&gt;les recommandations de sécurité de Telerik&lt;/a&gt; &lt;a&gt;pour vérifier que toute utilisation repose sur une version exempte de vulnérabilités connues et correctement configurée.&lt;/a&gt;</value>
   </data>
   <data name="TimerMinutes.Text" xml:space="preserve">
     <value>Minutes</value>

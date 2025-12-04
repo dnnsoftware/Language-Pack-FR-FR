@@ -176,9 +176,6 @@ une requête dans la base (table &amp;quot;Portals&amp;quot;, colonne &amp;quot;
   <data name="503.Error" xml:space="preserve">
     <value>{0} - 503 Service non disponible</value>
   </data>
-  <data name="ActivatingLicense.Text" xml:space="preserve">
-    <value>Activation de la licence</value>
-  </data>
   <data name="AddFollowerRequestBody.Text" xml:space="preserve">
     <value>{0} vous suit maintenant</value>
   </data>
@@ -190,6 +187,18 @@ une requête dans la base (table &amp;quot;Portals&amp;quot;, colonne &amp;quot;
   </data>
   <data name="AddFriendRequestSubject.Text" xml:space="preserve">
     <value>{0} veut être amis</value>
+  </data>
+  <data name="Administrators.Role" xml:space="preserve">
+    <value>Administrateurs</value>
+  </data>
+  <data name="Administrators.RoleDescription" xml:space="preserve">
+    <value>Les administrateurs peuvent accéder à l'intégralité du contenu de ce site, le modifier et contrôler tous ses paramètres. Ils peuvent gérer les accès utilisateurs et les autres administrateurs. Ce type d'utilisateur ne peut pas effectuer de modifications système ni réaliser les tâches d'administration privilégiées réservées aux superutilisateurs.</value>
+  </data>
+  <data name="All Users.Role" xml:space="preserve">
+    <value>Tout le monde</value>
+  </data>
+  <data name="All Users.RoleDescription" xml:space="preserve">
+    <value>Il s'agit d'un rôle géré par la plateforme (vous ne pouvez donc pas ajouter ni supprimer d'utilisateurs associés à ce rôle). Ce rôle représente tout visiteur du site web, quel que soit son statut de connexion ou de compte.</value>
   </data>
   <data name="ApplicationUpgrades.Text" xml:space="preserve">
     <value>Mises à jour de l'application</value>
@@ -239,6 +248,30 @@ une requête dans la base (table &amp;quot;Portals&amp;quot;, colonne &amp;quot;
   <data name="ClearCache.Action" xml:space="preserve">
     <value>Vider le cache</value>
   </data>
+  <data name="CompleteStateBody.Text" xml:space="preserve">
+    <value>La page '{0}' est dans l'état '{1}' et attend d'être examinée et approuvée.</value>
+  </data>
+  <data name="CompleteStateSubject.Text" xml:space="preserve">
+    <value>Approbation de la page</value>
+  </data>
+  <data name="CompleteWorkflowBody.Text" xml:space="preserve">
+    <value>La page '{0}' a été publiée et est maintenant en ligne.</value>
+  </data>
+  <data name="CompleteWorkflowSubject.Text" xml:space="preserve">
+    <value>Page publiée</value>
+  </data>
+  <data name="Content Editors.Role" xml:space="preserve">
+    <value>Éditeurs de contenu</value>
+  </data>
+  <data name="Content Editors.RoleDescription" xml:space="preserve">
+    <value>Les rédacteurs de contenu sont autorisés à ajouter et à modifier du contenu sur ce site. Les fonctionnalités exactes dépendent des modules utilisés.</value>
+  </data>
+  <data name="Content Managers.Role" xml:space="preserve">
+    <value>Gestionnaires de contenu</value>
+  </data>
+  <data name="Content Managers.RoleDescription" xml:space="preserve">
+    <value>Les gestionnaires de contenu peuvent décider de ce qui est affiché sur le site web. Ils peuvent modifier les contributions des rédacteurs et décider de leur publication. Les fonctionnalités exactes dépendent des modules pris en charge par le site.</value>
+  </data>
   <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
     <value>L'URL de la page indiquée contient des caractères qui ne peuvent pas être utilisés dans une URL ou sont des caractères illégaux pour une URL. Ces caractères ont été enlevés. Cliquez à nouveau sur le bouton «Mettre à jour» pour accepter l'URL modifiée &lt;br&gt; [NOTE: La liste des caractères illégaux est la suivante: &lt;&gt;\?:&amp;=+|%# ]</value>
   </data>
@@ -253,6 +286,18 @@ une requête dans la base (table &amp;quot;Portals&amp;quot;, colonne &amp;quot;
   </data>
   <data name="DeLocalize.Action" xml:space="preserve">
     <value>Dé-localiser</value>
+  </data>
+  <data name="DiscardStateBody.Text" xml:space="preserve">
+    <value>Les modifications de la page '{0}' ont été rejetées, et elle est maintenant dans l'état '{1}'.</value>
+  </data>
+  <data name="DiscardStateSubject.Text" xml:space="preserve">
+    <value>Page rejetée</value>
+  </data>
+  <data name="DiscardWorkflowBody.Text" xml:space="preserve">
+    <value>Les modifications apportées à la page '{0}' ont été supprimées.</value>
+  </data>
+  <data name="DiscardWorkflowSubject.Text" xml:space="preserve">
+    <value>Page rejetée</value>
   </data>
   <data name="DraggingHintText.Text" xml:space="preserve">
     <value>Déplacez la souris sur une zone de "dépôt".</value>
@@ -364,6 +409,14 @@ Opération terminée :  [Custom:3]
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
     <value>Retrouver son mot de passe [Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>
+L'utilisateur suivant a demandé un jeton de réinitialisation de mot de passe auprès de [Portal:PortalName], mais son compte est en attente d'approbation. Nom d'utilisateur : [User:UserName] Nom d'affichage : [User:DisplayName] Après vérification, si le compte est autorisé, renvoyez à l'utilisateur un courriel de réinitialisation de mot de passe.
+    </value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Rappel de mot de passe demandé pour l'utilisateur non autorisé [User:Username]</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Cher [User: DisplayName],&lt;br /&gt;&lt;br /&gt;Vous avez demandé un jeton de réinitialisation du mot de passe à partir de [Site: PortalName], mais votre compte est en attente d'approbation.&lt;br /&gt;&lt;br /&gt;Le mot de passe ne peut être réinitialisé qu'une fois le compte approuvé.&lt;br /&gt;&lt;br /&gt;Cordialement,&lt;br /&gt;[Site: PortalName]&lt;br /&gt;&lt;br /&gt;* Note: Si vous n'avez pas demandé de jeton de réinitialisation du mot de passe, veuillez ne pas tenir compte de ce message.</value>
@@ -1126,6 +1179,12 @@ son consentement écrit préalable. Toutes les autres marques de produits et de 
   <data name="ReflectionPermission.Text" xml:space="preserve">
     <value>Cette extension nécessite la permission "Reflection".</value>
   </data>
+  <data name="Registered Users.Role" xml:space="preserve">
+    <value>Utilisateurs enregistrés</value>
+  </data>
+  <data name="Registered Users.RoleDescription" xml:space="preserve">
+    <value>Tous les utilisateurs qui possèdent un compte sur ce site et qui (dans le cas où la vérification a été activée) ont été vérifiés.</value>
+  </data>
   <data name="Relationship_Added.Text" xml:space="preserve">
     <value>Relation {0} ajoutée</value>
   </data>
@@ -1156,6 +1215,24 @@ son consentement écrit préalable. Toutes les autres marques de produits et de 
   <data name="SkinLoadError.Text" xml:space="preserve">
     <value>Chargement du thème impossible : {0},  Erreur: {1}&lt;br/&gt;</value>
   </data>
+  <data name="StartWorkflowBody.Text" xml:space="preserve">
+    <value>La page '{0}' est dans l'état '{1}' et attend d'être soumise.</value>
+  </data>
+  <data name="StartWorkflowSubject.Text" xml:space="preserve">
+    <value>Page soumise</value>
+  </data>
+  <data name="Subscribers.Role" xml:space="preserve">
+    <value>Abonnés</value>
+  </data>
+  <data name="Subscribers.RoleDescription" xml:space="preserve">
+    <value>Les abonnés acceptent d'être contactés par courriel par ce site web. Ils peuvent se désinscrire à tout moment pour garder le contrôle de leurs communications.</value>
+  </data>
+  <data name="Superuser.Role" xml:space="preserve">
+    <value>Superutilisateurs</value>
+  </data>
+  <data name="Superuser.RoleDescription" xml:space="preserve">
+    <value>Les superutilisateurs (parfois appelés utilisateurs hôtes) disposent d'un accès « hôte » au site, ce qui leur permet d'accéder à tout contenu et de le modifier depuis n'importe quel site de cette installation. Ils peuvent notamment ajouter et supprimer des administrateurs et d'autres superutilisateurs. Ils peuvent également effectuer des tâches système telles que vider le cache, redémarrer l'application, gérer les fichiers de configuration et configurer les paramètres globaux.</value>
+  </data>
   <data name="SyndicateModule.Action" xml:space="preserve">
     <value>Syndication</value>
   </data>
@@ -1177,11 +1254,23 @@ son consentement écrit préalable. Toutes les autres marques de produits et de 
   <data name="Translate.Action" xml:space="preserve">
     <value>Marquer comme traduit</value>
   </data>
+  <data name="Unauthenticated Users.Role" xml:space="preserve">
+    <value>Utilisateurs non authentifiés</value>
+  </data>
+  <data name="Unauthenticated Users.RoleDescription" xml:space="preserve">
+    <value>Il s'agit d'un rôle géré par la plateforme (vous ne pouvez donc pas y attribuer d'utilisateurs). Il sert à indiquer les utilisateurs non connectés.</value>
+  </data>
   <data name="UnhandledError.Text" xml:space="preserve">
     <value>Une erreur non geré est apparue.</value>
   </data>
   <data name="UnTranslate.Action" xml:space="preserve">
     <value>Considérer non traduit</value>
+  </data>
+  <data name="Unverified Users.Role" xml:space="preserve">
+    <value>Utilisateurs non vérifiés</value>
+  </data>
+  <data name="Unverified Users.RoleDescription" xml:space="preserve">
+    <value>Si ce site utilise la vérification de compte, tout utilisateur qui s'inscrit a initialement un rôle spécifique et n'est pas considéré comme un « utilisateur enregistré ». Dès qu'il est vérifié (selon les paramètres, soit en cliquant sur un lien reçu par e-mail, soit par un administrateur), il cesse d'avoir ce rôle et devient un « utilisateur enregistré » classique.</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
     <value>L'URL soumise n'est pas disponible.  Si vous souhaitez accepter l'alternative proposée, cliquez sur Enregistrer.</value>

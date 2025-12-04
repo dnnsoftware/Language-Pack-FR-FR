@@ -102,4 +102,7 @@
   <data name="Success.Text" xml:space="preserve">
     <value>Changements effectués.</value>
   </data>
+  <data name="ValidationErrorsConfirm.Text" xml:space="preserve">
+    <value>Des erreurs de validation ont été détectées.{0} Voulez-vous quand même enregistrer le fichier ?</value>
+  </data>
 </root>

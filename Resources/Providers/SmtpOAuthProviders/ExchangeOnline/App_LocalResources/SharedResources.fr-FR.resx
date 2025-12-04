@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ClientId.Help" xml:space="preserve">
+    <value>L'identifiant client de l'enregistrement de votre application.</value>
+  </data>
+  <data name="ClientId.Text" xml:space="preserve">
+    <value>ID client</value>
+  </data>
+  <data name="ClientSecret.Help" xml:space="preserve">
+    <value>Le secret client de l'enregistrement de votre application.</value>
+  </data>
+  <data name="ClientSecret.Text" xml:space="preserve">
+    <value>Secret du client</value>
+  </data>
+  <data name="ExchangeOnline.Text" xml:space="preserve">
+    <value>Exchange en ligne</value>
+  </data>
+  <data name="TenantId.Help" xml:space="preserve">
+    <value>L'identifiant locataire de votre compte Microsoft.</value>
+  </data>
+  <data name="TenantId.Text" xml:space="preserve">
+    <value>Identifiant du locataire</value>
+  </data>
+</root>
