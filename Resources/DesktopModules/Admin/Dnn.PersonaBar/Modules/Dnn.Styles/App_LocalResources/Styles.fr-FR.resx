@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActionColors" xml:space="preserve">
+    <value>Couleurs d'action</value>
+  </data>
+  <data name="AllowAdminEdits" xml:space="preserve">
+    <value>Autoriser les modifications d'administrateur</value>
+  </data>
+  <data name="AllowAdminEditsHelp" xml:space="preserve">
+    <value>Si cette option est activée, les administrateurs du site pourront modifier les styles de leur site.</value>
+  </data>
+  <data name="BackgroundColor" xml:space="preserve">
+    <value>Couleur de fond</value>
+  </data>
+  <data name="BackgroundColorHelp" xml:space="preserve">
+    <value>Utilisé comme arrière-plan principal du site</value>
+  </data>
+  <data name="BaseFontSize" xml:space="preserve">
+    <value>Taille de police de base</value>
+  </data>
+  <data name="BaseFontSizeHelp" xml:space="preserve">
+    <value>Définit la taille de la police en pixels du texte principal</value>
+  </data>
+  <data name="BrandColors" xml:space="preserve">
+    <value>Couleurs de la marque</value>
+  </data>
+  <data name="Colors" xml:space="preserve">
+    <value>Couleurs</value>
+  </data>
+  <data name="ColorVariationOpacity" xml:space="preserve">
+    <value>Opacité de la variation de couleur</value>
+  </data>
+  <data name="ColorVariationOpacityHelp" xml:space="preserve">
+    <value>Le pourcentage d'opacité auquel un élément doit être transparent par rapport à la couleur de fond</value>
+  </data>
+  <data name="Contrast" xml:space="preserve">
+    <value>Contraste</value>
+  </data>
+  <data name="Controls" xml:space="preserve">
+    <value>Commandes</value>
+  </data>
+  <data name="ControlsPadding" xml:space="preserve">
+    <value>Espacement des contrôles</value>
+  </data>
+  <data name="ControlsPaddingHelp" xml:space="preserve">
+    <value>Définit l'espacement entre les éléments.</value>
+  </data>
+  <data name="ControlsRadius" xml:space="preserve">
+    <value>Contrôles Rayon</value>
+  </data>
+  <data name="ControlsRadiusHelp" xml:space="preserve">
+    <value>Définit le degré d'arrondi des commandes.</value>
+  </data>
+  <data name="DangerColor" xml:space="preserve">
+    <value>Couleur dangereuse</value>
+  </data>
+  <data name="DangerColorHelp" xml:space="preserve">
+    <value>À utiliser pour identifier les actions dangereuses telles qu'un bouton Supprimer ou des erreurs.</value>
+  </data>
+  <data name="ForegroundColor" xml:space="preserve">
+    <value>Couleur de premier plan</value>
+  </data>
+  <data name="ForegroundColorHelp" xml:space="preserve">
+    <value>Les couleurs du texte principal et des autres éléments doivent présenter un contraste plus élevé avec l'arrière-plan.</value>
+  </data>
+  <data name="GeneralColors" xml:space="preserve">
+    <value>Couleurs générales</value>
+  </data>
+  <data name="GetStylesError" xml:space="preserve">
+    <value>Il y a eu un problème pour obtenir les styles actuels.</value>
+  </data>
+  <data name="InformationColor" xml:space="preserve">
+    <value>Couleur d'information</value>
+  </data>
+  <data name="InformationColorHelp" xml:space="preserve">
+    <value>Utilisé pour afficher des messages d'information</value>
+  </data>
+  <data name="ModuleDescription" xml:space="preserve">
+    <value>DNN met à disposition des concepteurs et des développeurs des variables CSS (propriétés personnalisées) leur permettant d'adapter leurs solutions aux préférences de la charte graphique du site. Ces préférences de style peuvent être implémentées ou non par un thème ou une extension.</value>
+  </data>
+  <data name="nav_Styles.Text" xml:space="preserve">
+    <value>Styles</value>
+  </data>
+  <data name="NeutralColor" xml:space="preserve">
+    <value>Couleur neutre</value>
+  </data>
+  <data name="NeutralColorHelp" xml:space="preserve">
+    <value>Une couleur neutre et discrète souvent utilisée pour les commandes désactivées</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Non</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>Autorisations</value>
+  </data>
+  <data name="PrimaryColor" xml:space="preserve">
+    <value>Couleur primaire</value>
+  </data>
+  <data name="PrimaryColorHelp" xml:space="preserve">
+    <value>Utilisé pour styliser la plupart des commandes principales (comme les boutons Soumettre).</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Réinitialiser</value>
+  </data>
+  <data name="RestoreDefault" xml:space="preserve">
+    <value>Restaurer les paramètres par défaut</value>
+  </data>
+  <data name="RestoreDefaultMessage" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir rétablir les styles par défaut ? Vos paramètres actuels seront perdus.</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Sauvegarder</value>
+  </data>
+  <data name="SaveError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de la tentative d'enregistrement des styles.</value>
+  </data>
+  <data name="SaveSuccess" xml:space="preserve">
+    <value>Styles enregistrés avec succès.</value>
+  </data>
+  <data name="SecondaryColor" xml:space="preserve">
+    <value>Couleur secondaire</value>
+  </data>
+  <data name="SecondaryColorHelp" xml:space="preserve">
+    <value>Utilisé pour la plupart des actions secondaires comme Copier, Fusionner</value>
+  </data>
+  <data name="SuccessColor" xml:space="preserve">
+    <value>Couleur du succès</value>
+  </data>
+  <data name="SuccessColorHelp" xml:space="preserve">
+    <value>Une couleur qui représente le succès</value>
+  </data>
+  <data name="SurfaceColor" xml:space="preserve">
+    <value>Couleur de surface</value>
+  </data>
+  <data name="SurfaceColorHelp" xml:space="preserve">
+    <value>Il doit présenter un léger contraste avec l'arrière-plan, principalement utilisé pour séparer les sections comme les menus.</value>
+  </data>
+  <data name="TertiaryColor" xml:space="preserve">
+    <value>Couleur tertiaire</value>
+  </data>
+  <data name="TertiaryColorHelp" xml:space="preserve">
+    <value>Une autre couleur moins utilisée</value>
+  </data>
+  <data name="Typography" xml:space="preserve">
+    <value>Typographie</value>
+  </data>
+  <data name="WarningColor" xml:space="preserve">
+    <value>Couleur d'avertissement</value>
+  </data>
+  <data name="WarningColorHelp" xml:space="preserve">
+    <value>Utilisé pour afficher un avertissement</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+</root>

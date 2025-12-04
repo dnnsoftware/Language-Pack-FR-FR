@@ -15,14 +15,47 @@
   <data name="Actions.Header" xml:space="preserve">
     <value>Actions</value>
   </data>
+  <data name="Active.Text" xml:space="preserve">
+    <value>Actif</value>
+  </data>
   <data name="AdminMembershipResetLinkValidity.ErrorMessage" xml:space="preserve">
     <value>La durée de vie du lien de rénitialisation de connexion Adminstrateur doit être un entier compris entre 0 et 10000</value>
   </data>
   <data name="Alert.Text" xml:space="preserve">
     <value>ALERTE</value>
   </data>
+  <data name="All.Text" xml:space="preserve">
+    <value>Tous</value>
+  </data>
   <data name="AllowIP.Text" xml:space="preserve">
     <value>Permettre</value>
+  </data>
+  <data name="ApiKeys.Help" xml:space="preserve">
+    <value>Ceci définit les parties de l'API disponible auxquelles le jeton peut accéder.</value>
+  </data>
+  <data name="ApiKeys.Text" xml:space="preserve">
+    <value>APIs</value>
+  </data>
+  <data name="ApiTokenCreated.Text" xml:space="preserve">
+    <value>Voici le jeton API. Veuillez le copier et le conserver en lieu sûr. Il ne vous sera plus affiché.</value>
+  </data>
+  <data name="ApiTokensDisabled.Help" xml:space="preserve">
+    <value>Les jetons d'API sont désactivés sur cette installation. L'administrateur système devra les activer dans le fichier web.config.</value>
+  </data>
+  <data name="ApiTokenSettingsError.Text" xml:space="preserve">
+    <value>Une erreur s'est produite. Les paramètres du jeton API n'ont pas pu être mis à jour. Veuillez consulter le journal d'administration pour déterminer la cause de cette erreur.</value>
+  </data>
+  <data name="ApiTokenSettingsRestoreWarning.Text" xml:space="preserve">
+    <value>Les modifications apportées aux paramètres du jeton API seront annulées. Voulez-vous continuer ?</value>
+  </data>
+  <data name="ApiTokenSettingsUpdateSuccess.Text" xml:space="preserve">
+    <value>Paramètres du jeton API mis à jour</value>
+  </data>
+  <data name="ApiTokenStatus.Header" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="ApiTokenStatus.Text" xml:space="preserve">
+    <value>État du jeton</value>
   </data>
   <data name="AsyncTimeout.ErrorMessage" xml:space="preserve">
     <value>Le temps avant timeout doit être un nombre entier compris entre 90 et 10000.</value>
@@ -219,17 +252,23 @@
   <data name="CheckSuperuserOldPasswordSuccess.Text" xml:space="preserve">
     <value>Aucun super-utilisateur ne possède de mot de passe vieux de plus de 6 mois.</value>
   </data>
-  <data name="CheckTelerikVulnerabilityFailure.Text" xml:space="preserve">
-    <value>La vulnérabilité du composant Telerik n'a pas été corrigée. Pour plus d'informations et télécharger le correctif, consultez le site http://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017.</value>
+  <data name="CheckTelerikPresenceFailure.Text" xml:space="preserve">
+    <value>Le composant Telerik a été trouvé sur le site.</value>
   </data>
-  <data name="CheckTelerikVulnerabilityName.Text" xml:space="preserve">
-    <value>Vérifier si le composant Telerik est vulnérable.</value>
+  <data name="CheckTelerikPresenceInstalledAndUsed.Text" xml:space="preserve">
+    <value>Des dépendances à Telerik ont été découvertes dans des librairies qui ne seront PAS résolues par la désinstallation conformément aux instructions de la version 9.8.0. La liste ci-dessous les comprend toutes :</value>
   </data>
-  <data name="CheckTelerikVulnerabilityReason.Text" xml:space="preserve">
-    <value>Les composants tiers référencés dans "Core" peuvent présenter une vulnérabilité dans les anciennes versions et doivent être corrigés.</value>
+  <data name="CheckTelerikPresenceInstalledButNotUsed.Text" xml:space="preserve">
+    <value>Telerik a été détecté sur ce site, mais aucune dépendance à cette librairie n'a été identifiée. Vous pouvez donc raisonnablement supposer que la désinstallation de Telerik, en suivant les instructions de la version 9.8.0, ne présente aucun risque.</value>
   </data>
-  <data name="CheckTelerikVulnerabilitySuccess.Text" xml:space="preserve">
-    <value>Composant Telerik déjà patché.</value>
+  <data name="CheckTelerikPresenceName.Text" xml:space="preserve">
+    <value>Vérifiez si Telerik est installé.</value>
+  </data>
+  <data name="CheckTelerikPresenceReason.Text" xml:space="preserve">
+    <value>Dans DNN 10.x, la suppression de Telerik sera obligatoire et ne sera plus optionnelle.</value>
+  </data>
+  <data name="CheckTelerikPresenceSuccess.Text" xml:space="preserve">
+    <value>Le composant Telerik n'est pas installé.</value>
   </data>
   <data name="CheckTracing.Text" xml:space="preserve">
     <value>Suivi actif (true) - modifier le fichier web.config et le passer à false (ou utiliser le gestionnaire de configuration)</value>
@@ -257,6 +296,18 @@
   </data>
   <data name="CheckUnexpectedExtensionsSuccess.Text" xml:space="preserve">
     <value>Aucune extension inattendue détectée</value>
+  </data>
+  <data name="CheckUserProfilePageFailure.Text" xml:space="preserve">
+    <value>La page de profil utilisateur est publique.</value>
+  </data>
+  <data name="CheckUserProfilePageName.Text" xml:space="preserve">
+    <value>Vérifier l'accès à la page de profil utilisateur</value>
+  </data>
+  <data name="CheckUserProfilePageReason.Text" xml:space="preserve">
+    <value>La page de profil utilisateur pourrait être visible par tous les utilisateurs par inadvertance.</value>
+  </data>
+  <data name="CheckUserProfilePageSuccess.Text" xml:space="preserve">
+    <value>La page de profil utilisateur n'est pas publique.</value>
   </data>
   <data name="CheckViewstatemacFailure.Text" xml:space="preserve">
     <value>La validation de l'état d'affichage MAC n'est pas activée</value>
@@ -288,11 +339,26 @@
   <data name="ContainsDuplicateAddresses.Text" xml:space="preserve">
     <value>La base d'utilisateurs de ce site contient des adresses e-mail en double. Si vous souhaitez utiliser les adresses e-mail comme noms d'utilisateurs, vous devez d'abord les corriger.</value>
   </data>
+  <data name="CreatedBy.Header" xml:space="preserve">
+    <value>Créé par</value>
+  </data>
+  <data name="CreatedBy.Help" xml:space="preserve">
+    <value>Nom d'affichage et nom d'utilisateur de l'utilisateur qui a créé le jeton</value>
+  </data>
+  <data name="CreatedBy.Text" xml:space="preserve">
+    <value>Créé par</value>
+  </data>
   <data name="CreatedDate.Header" xml:space="preserve">
     <value>Date de création</value>
   </data>
   <data name="CreatedDate.Text" xml:space="preserve">
     <value>DATE DE CRÉATION</value>
+  </data>
+  <data name="CreatedOn.Header" xml:space="preserve">
+    <value>Créé</value>
+  </data>
+  <data name="CreatedOnDate.Text" xml:space="preserve">
+    <value>Créé le</value>
   </data>
   <data name="Custom.Text" xml:space="preserve">
     <value>Spécifique</value>
@@ -303,6 +369,18 @@
   <data name="DatabaseValue.Text" xml:space="preserve">
     <value>VALEUR</value>
   </data>
+  <data name="Days180.Text" xml:space="preserve">
+    <value>180 jours</value>
+  </data>
+  <data name="Days30.Text" xml:space="preserve">
+    <value>30 jours</value>
+  </data>
+  <data name="Days60.Text" xml:space="preserve">
+    <value>60 jours</value>
+  </data>
+  <data name="Days90.Text" xml:space="preserve">
+    <value>90 jours</value>
+  </data>
   <data name="DefaultAuthProvider.Help" xml:space="preserve">
     <value>Vous pouvez sélectionner un fournisseur d'authentification par défaut pour la connexion utilisateur. Seuls les fournisseurs qui prennent en charge l'authentification des formulaires peuvent être sélectionnés.</value>
   </data>
@@ -312,11 +390,23 @@
   <data name="Delete.Text" xml:space="preserve">
     <value>Supprimer le filtre</value>
   </data>
+  <data name="DeleteApiKey.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous supprimer ce jeton API ? Attention : cette action est irréversible.</value>
+  </data>
+  <data name="DeleteApiKey.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
   <data name="DeletedTab.Text" xml:space="preserve">
     <value>L'onglet avec l'ID {0} est supprimé.</value>
   </data>
   <data name="DeleteError.Text" xml:space="preserve">
     <value>Impossible de supprimer le filtre IP. Veuillez essayer plus tard.</value>
+  </data>
+  <data name="DeleteExpired.Confirm" xml:space="preserve">
+    <value>Cette action supprimera tous les jetons expirés et révoqués. Voulez-vous continuer ?</value>
+  </data>
+  <data name="DeleteExpired.Text" xml:space="preserve">
+    <value>Supprimer les éléments expirés</value>
   </data>
   <data name="DeleteSuccess.Text" xml:space="preserve">
     <value>Le filtre IP a été supprimé.</value>
@@ -341,6 +431,24 @@
   </data>
   <data name="ExecuteCommand.Error" xml:space="preserve">
     <value>Le compte courant de SQL Server peut exécuter xp_cmdshell qui exécutera la ligne de commande dans le système de serveur de sql.</value>
+  </data>
+  <data name="Expired.Text" xml:space="preserve">
+    <value>Expirés</value>
+  </data>
+  <data name="ExpiresIn.Help" xml:space="preserve">
+    <value>Sélectionnez la durée de validité de ce jeton.</value>
+  </data>
+  <data name="ExpiresIn.Text" xml:space="preserve">
+    <value>Expire dans</value>
+  </data>
+  <data name="ExpiresOn.Header" xml:space="preserve">
+    <value>Expire</value>
+  </data>
+  <data name="ExpiresOn.Help" xml:space="preserve">
+    <value>Après cette date et heure, le jeton ne fonctionnera plus.</value>
+  </data>
+  <data name="ExpiresOn.Text" xml:space="preserve">
+    <value>Expire le</value>
   </data>
   <data name="Fail.Text" xml:space="preserve">
     <value>ÉCHEC</value>
@@ -368,6 +476,9 @@
   </data>
   <data name="HighRiskFiles.Text" xml:space="preserve">
     <value>Fichiers à risque élevé</value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>Hôte</value>
   </data>
   <data name="HostSettings.Text" xml:space="preserve">
     <value>Paramètres</value>
@@ -417,6 +528,9 @@
   <data name="LastName.Header" xml:space="preserve">
     <value>Nom de famille</value>
   </data>
+  <data name="LastUsedOnDate.Text" xml:space="preserve">
+    <value>Dernière utilisation le</value>
+  </data>
   <data name="LastWriteTime.Text" xml:space="preserve">
     <value>DATE DE DERNIÈRE MODIFICATION</value>
   </data>
@@ -425,6 +539,9 @@
   </data>
   <data name="LowRiskFiles.Text" xml:space="preserve">
     <value>Fichiers à risque faible</value>
+  </data>
+  <data name="MaxApiTokenDuration.Error" xml:space="preserve">
+    <value>Il doit s'agir d'une valeur entière positive</value>
   </data>
   <data name="MaxInvalidPasswordAttemptsTitle.Help" xml:space="preserve">
     <value>Indique le nombre de fois où le mauvais mot de passe peut être entré avant que le compte soit ne verrouillé. Cela ne peut être modifié que dans le fichier web.config.</value>
@@ -510,11 +627,26 @@
   <data name="NoneSpecified.Text" xml:space="preserve">
     <value>Rien de précisé</value>
   </data>
+  <data name="Notes.Header" xml:space="preserve">
+    <value>Notes</value>
+  </data>
   <data name="Notes.Text" xml:space="preserve">
     <value>NOTES</value>
   </data>
   <data name="NotValid.Text" xml:space="preserve">
     <value>{0} {1} n'est pas valide.</value>
+  </data>
+  <data name="OptDays.Text" xml:space="preserve">
+    <value>Jours</value>
+  </data>
+  <data name="OptMonths.Text" xml:space="preserve">
+    <value>Mois</value>
+  </data>
+  <data name="OptWeeks.Text" xml:space="preserve">
+    <value>Semaines</value>
+  </data>
+  <data name="OptYears.Text" xml:space="preserve">
+    <value>Années</value>
   </data>
   <data name="OtherSettingsError.Text" xml:space="preserve">
     <value>Impossible de mettre à jour les paramètres. Veuillez essayer plus tard.</value>
@@ -524,6 +656,12 @@
   </data>
   <data name="OtherSettingsUpdateSuccess.Text" xml:space="preserve">
     <value>Les paramètres ont été mis à jour.</value>
+  </data>
+  <data name="PageSizeOptions.Text" xml:space="preserve">
+    <value>{0} résultats par page</value>
+  </data>
+  <data name="PageSummary.Text" xml:space="preserve">
+    <value>Affichage des résultats {0}-{1} sur {2}</value>
   </data>
   <data name="Pass.Text" xml:space="preserve">
     <value>REUSSITE</value>
@@ -588,6 +726,24 @@
   <data name="plAdminResetLinkValidity.Text" xml:space="preserve">
     <value>Durée du vie du lien de réinitialisation Administrateur (en minutes)</value>
   </data>
+  <data name="plAllowApiTokens.Help" xml:space="preserve">
+    <value>Autoriser les jetons API sur ce site</value>
+  </data>
+  <data name="plAllowApiTokens.Text" xml:space="preserve">
+    <value>Autoriser les jetons API</value>
+  </data>
+  <data name="plAllowOverrideThemeViaQueryString.Help" xml:space="preserve">
+    <value>Si cette option est activée, n'importe quel visiteur pourra charger des thèmes (y compris ceux qui ne sont pas utilisés) à l'aide du paramètre de chaîne de requête SkinSrc.</value>
+  </data>
+  <data name="plAllowOverrideThemeViaQueryString.Text" xml:space="preserve">
+    <value>Autoriser la modification du thème via la chaîne de requête</value>
+  </data>
+  <data name="plAllowRichTextModuleTitle.Help" xml:space="preserve">
+    <value>Si cette option est activée, le contenu HTML sera autorisé comme titre de module.</value>
+  </data>
+  <data name="plAllowRichTextModuleTitle.Text" xml:space="preserve">
+    <value>Autoriser les titres de modules en texte enrichi</value>
+  </data>
   <data name="plAsyncTimeout.Help" xml:space="preserve">
     <value>Définir une valeur qui indique la durée, en secondes, avant l'expiration des publications asynchrones si aucune réponse n'est reçue. Cette valeur doit être entre comprise entre 90 et 9999 secondes.</value>
   </data>
@@ -642,6 +798,12 @@
   <data name="plEnableStrengthMeter.Text" xml:space="preserve">
     <value>Activer la vérification de mot de passe fort</value>
   </data>
+  <data name="plEnableUnapprovedPasswordReminderNotification.Help" xml:space="preserve">
+    <value>Cochez cette case pour envoyer des notifications par courriel à l'administrateur principal lorsqu'un utilisateur non autorisé demande un rappel/une réinitialisation de mot de passe.</value>
+  </data>
+  <data name="plEnableUnapprovedPasswordReminderNotification.Text" xml:space="preserve">
+    <value>Recevoir une notification de rappel de mot de passe d'utilisateur non autorisé</value>
+  </data>
   <data name="plFileExtensions.Help" xml:space="preserve">
     <value>Entrez les extensions de fichier (séparées par des virgules) qui peuvent être chargées sur le site.</value>
   </data>
@@ -666,11 +828,23 @@
   <data name="plHideLoginControl.Text" xml:space="preserve">
     <value>Masquer le contrôle de connexion</value>
   </data>
+  <data name="plMaximumSiteTimespan.Help" xml:space="preserve">
+    <value>Définissez la durée de vie maximale des jetons d'API Tor pour chaque site sur cette instance DNN.</value>
+  </data>
+  <data name="plMaximumSiteTimespan.Text" xml:space="preserve">
+    <value>Durée maximale du site</value>
+  </data>
   <data name="plMaxUploadSize.Help" xml:space="preserve">
     <value>Taille maximale du fichier pouvant être chargé sur le site. Le minimum est de 12 Mo.</value>
   </data>
   <data name="plMaxUploadSize.Text" xml:space="preserve">
     <value>Taille maximale de chargement</value>
+  </data>
+  <data name="plNotes.Help" xml:space="preserve">
+    <value>Remarques facultatives concernant cette règle.</value>
+  </data>
+  <data name="plNotes.Text" xml:space="preserve">
+    <value>Notes</value>
   </data>
   <data name="plNumberPasswords.Help" xml:space="preserve">
     <value>Entrez le nombre de mots de passe à stocker pour vérification de réutilisation</value>
@@ -717,12 +891,6 @@
   <data name="plShowCriticalErrors.Text" xml:space="preserve">
     <value>Afficher les erreurs critiques à l'écran</value>
   </data>
-  <data name="plSSLEnabled.Help" xml:space="preserve">
-    <value>Cocher la case si un certificat SSL a été installé pour être utilisé sur ce site.</value>
-  </data>
-  <data name="plSSLEnabled.Text" xml:space="preserve">
-    <value>SSL est activé</value>
-  </data>
   <data name="plSSLEnforced.Help" xml:space="preserve">
     <value>Cocher la case si les pages non sécurisées ne sont pas accessibles avec SSL (HTTPS).</value>
   </data>
@@ -758,6 +926,24 @@
   </data>
   <data name="plUserRegistration.Text" xml:space="preserve">
     <value>Informations d'identification</value>
+  </data>
+  <data name="plUserRequestIpHeader.Help" xml:space="preserve">
+    <value>Lorsqu'il est défini, cetet en-tête permet de déterminer l'adresse IP réelle de l'utilisateur lorsque la requête est transférée (pare-feu applicatif web, proxy inverse, équilibreur de charge, etc.). L'entête « X-Forwarded-For » est couramment utilisé à cet effet. S'i elle n'est pas définie, la variable serveur « REMOTE_ADDR » est utilisée pour identifier l'adresse IP de chaque utilisateur.</value>
+  </data>
+  <data name="plUserRequestIpHeader.Text" xml:space="preserve">
+    <value>En-tête IP de la requête utilisateur</value>
+  </data>
+  <data name="plUserTokenTimespan.Help" xml:space="preserve">
+    <value>Définissez la durée de validité des jetons d'API générés par les utilisateurs sur ce site.</value>
+  </data>
+  <data name="plUserTokenTimespan.Text" xml:space="preserve">
+    <value>Durée du jeton de l'API utilisateur</value>
+  </data>
+  <data name="Portal.Header" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="Portal.Text" xml:space="preserve">
+    <value>Site</value>
   </data>
   <data name="PortalId.Text" xml:space="preserve">
     <value>Identifiant du portail</value>
@@ -864,6 +1050,33 @@
   <data name="Result.Text" xml:space="preserve">
     <value>RÉSULTAT</value>
   </data>
+  <data name="Revoke.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous révoquer ce jeton ? Attention : cette action est irréversible.</value>
+  </data>
+  <data name="Revoke.Text" xml:space="preserve">
+    <value>Révoquer</value>
+  </data>
+  <data name="Revoked.Text" xml:space="preserve">
+    <value>Révoqué</value>
+  </data>
+  <data name="RevokedBy.Header" xml:space="preserve">
+    <value>Révoqué par</value>
+  </data>
+  <data name="RevokedBy.Help" xml:space="preserve">
+    <value>Afficher le nom et le nom d'utilisateur de l'utilisateur qui a révoqué le jeton.</value>
+  </data>
+  <data name="RevokedBy.Text" xml:space="preserve">
+    <value>Révoqué par</value>
+  </data>
+  <data name="RevokedOn.Header" xml:space="preserve">
+    <value>Révoqué le</value>
+  </data>
+  <data name="RevokedOn.Text" xml:space="preserve">
+    <value>Révoqué le</value>
+  </data>
+  <data name="RevokedOrExpired.Text" xml:space="preserve">
+    <value>Révoqué ou expiré</value>
+  </data>
   <data name="Save.Text" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
@@ -875,6 +1088,15 @@
   </data>
   <data name="ScannerExplanation.Text" xml:space="preserve">
     <value>&amp;nbsp;</value>
+  </data>
+  <data name="Scope.Header" xml:space="preserve">
+    <value>Portée</value>
+  </data>
+  <data name="Scope.Help" xml:space="preserve">
+    <value>La portée définit le niveau d'accès du jeton. Il existe trois niveaux : Utilisateur, Site et Hôte. La portée Utilisateur autorise le jeton à accéder aux données d'un utilisateur. La portée Site autorise le jeton à accéder aux données du site et la portée Hôte autorise le jeton à accéder aux données du système.</value>
+  </data>
+  <data name="Scope.Text" xml:space="preserve">
+    <value>Portée</value>
   </data>
   <data name="SearchDatabaseResult.Text" xml:space="preserve">
     <value>Base de données : {0} Instances trouvé</value>
@@ -966,6 +1188,33 @@
   <data name="SingleIP.Text" xml:space="preserve">
     <value>IP unique</value>
   </data>
+  <data name="SslAdvanced.Help" xml:space="preserve">
+    <value>Dans ce mode, votre site web affichera des pages sécurisées et non sécurisées selon le paramètre de chaque page. Veuillez noter que ce site comporte [NumberOfNonSecureTabs] pages non sécurisées.</value>
+  </data>
+  <data name="SslAdvanced.Text" xml:space="preserve">
+    <value>Avancé</value>
+  </data>
+  <data name="SslOff.Help" xml:space="preserve">
+    <value>Utilisez cette méthode si vous n'avez pas de certificat SSL installé sur votre serveur.</value>
+  </data>
+  <data name="SslOff.Text" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="SslOn.Help" xml:space="preserve">
+    <value>Utilisez ce mode pour diffuser tout le contenu en toute sécurité</value>
+  </data>
+  <data name="SslOn.Text" xml:space="preserve">
+    <value>Activé</value>
+  </data>
+  <data name="SslSetAllPagesSecure.Completed" xml:space="preserve">
+    <value>Toutes les pages du site ont été configurées pour être sécurisées.</value>
+  </data>
+  <data name="SslSetAllPagesSecure.Confirm" xml:space="preserve">
+    <value>Souhaitez-vous configurer toutes les pages de ce site pour qu'elles soient accessibles uniquement via https ?</value>
+  </data>
+  <data name="SslSetAllPagesSecure.Text" xml:space="preserve">
+    <value>Configurer toutes les pages en mode sécurisé</value>
+  </data>
   <data name="SslSettingsError.Text" xml:space="preserve">
     <value>Impossible de mettre à jour les paramètres SSL. Veuillez essayer plus tard.</value>
   </data>
@@ -987,8 +1236,17 @@
   <data name="SysAdmin.Error" xml:space="preserve">
     <value>Le compte SQL Server actuel est 'sysadmin'.</value>
   </data>
+  <data name="TabApiTokens.Text" xml:space="preserve">
+    <value>Jetons API</value>
+  </data>
+  <data name="TabApiTokenSettings.Text" xml:space="preserve">
+    <value>PARAMÈTRES DE JETON API</value>
+  </data>
   <data name="TabAuditChecks.Text" xml:space="preserve">
     <value>VÉRIFICATIONS D’AUDIT</value>
+  </data>
+  <data name="TabAuthenticationSettings.Text" xml:space="preserve">
+    <value>Authentification</value>
   </data>
   <data name="TabBasicLoginSettings.Text" xml:space="preserve">
     <value>PARAMÈTRES DE CONNEXION DE BASE</value>
@@ -998,9 +1256,6 @@
   </data>
   <data name="TabIpFilters.Text" xml:space="preserve">
     <value>FILTRES DE CONNEXION IP</value>
-  </data>
-  <data name="TabLoginSettings.Text" xml:space="preserve">
-    <value>Paramètres de connexion</value>
   </data>
   <data name="TabMemberAccounts.Text" xml:space="preserve">
     <value>Comptes membres</value>
@@ -1035,6 +1290,18 @@
   <data name="TabSuperuserActivity.Text" xml:space="preserve">
     <value>ACTIVITÉ DE SUPER-UTILISATEUR</value>
   </data>
+  <data name="TokenName.Header" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="TokenName.Help" xml:space="preserve">
+    <value>Nom descriptif du jeton. Vous pouvez laisser ce champ vide.</value>
+  </data>
+  <data name="TokenName.Text" xml:space="preserve">
+    <value>Nom du jeton</value>
+  </data>
+  <data name="User.Text" xml:space="preserve">
+    <value>Utilisateur</value>
+  </data>
   <data name="UserId.Text" xml:space="preserve">
     <value>Identifiant de l'utilisateur</value>
   </data>
@@ -1049,6 +1316,12 @@
   </data>
   <data name="Verified.Text" xml:space="preserve">
     <value>Vérifié</value>
+  </data>
+  <data name="Years1.Text" xml:space="preserve">
+    <value>1 an</value>
+  </data>
+  <data name="Years2.Text" xml:space="preserve">
+    <value>2 ans</value>
   </data>
   <data name="Yes.Text" xml:space="preserve">
     <value>Oui</value>

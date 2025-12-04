@@ -39,8 +39,14 @@
   <data name="BlanktextTT.Text" xml:space="preserve">
     <value>Il s'agit du texte affiché par défaut lorsque le contenu du module est vide.</value>
   </data>
+  <data name="BrowAllowFollowPerms.Text" xml:space="preserve">
+    <value>Autoriser les utilisateurs disposant des permissions de dossier</value>
+  </data>
   <data name="BrowserRootFolder.Text" xml:space="preserve">
     <value>Dossier racine du navigateur de fichiers :</value>
+  </data>
+  <data name="BrowserRootFolderForImg.Text" xml:space="preserve">
+    <value>Dossier racine du navigateur pour les images</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>Fermer</value>
@@ -120,11 +126,23 @@
   <data name="FileListViewModeLabel.Text" xml:space="preserve">
     <value>Mode d'affichage par défaut pour le listage des fichiers :</value>
   </data>
+  <data name="HostBrowserRootFolder.Text" xml:space="preserve">
+    <value>Nom du dossier racine du navigateur pour tous les portails (remplace le paramètre ci-dessous)</value>
+  </data>
+  <data name="HostBrowserRootFolderForImg.Text" xml:space="preserve">
+    <value>Nom du dossier racine des images du navigateur pour tous les portails (remplace le paramètre ci-dessous)</value>
+  </data>
   <data name="HostHasSettingLabel.Text" xml:space="preserve">
     <value>Contient les paramètres de l’hôte</value>
   </data>
   <data name="HostNoSettingLabel.Text" xml:space="preserve">
     <value>Ne contient aucun paramètres de l’hôte</value>
+  </data>
+  <data name="HostUploadFolderLabel.Text" xml:space="preserve">
+    <value>Dossier de téléchargement par défaut pour tous les portails (remplace le paramètre ci-dessous)</value>
+  </data>
+  <data name="HostUploadFolderLabelForImg.Text" xml:space="preserve">
+    <value>Dossier de téléchargement par défaut pour les images sur tous les portails (remplace le paramètre ci-dessous)</value>
   </data>
   <data name="IconLegendLabel.Text" xml:space="preserve">
     <value>Légende de l'icône</value>
@@ -146,6 +164,9 @@
   </data>
   <data name="lblBrowAllow.Text" xml:space="preserve">
     <value>Rôles autorisés :</value>
+  </data>
+  <data name="lblBrowAllowFollowPerms.Text" xml:space="preserve">
+    <value>Autoriser les utilisateurs de dossiers</value>
   </data>
   <data name="lblBrowser.Text" xml:space="preserve">
     <value>Navigateur de fichiers :</value>
@@ -210,8 +231,14 @@
   <data name="lblResizeHeight.Text" xml:space="preserve">
     <value>Hauteur par défaut du redimensionnement de l'image :</value>
   </data>
+  <data name="lblResizeHeightUpload.Text" xml:space="preserve">
+    <value>Redimensionnement de l'image en hauteur lors du chargement :</value>
+  </data>
   <data name="lblResizeWidth.Text" xml:space="preserve">
     <value>Largeur par défaut du redimensionnement de l'image :</value>
+  </data>
+  <data name="lblResizeWidthUpload.Text" xml:space="preserve">
+    <value>Redimensionnement de la largeur de l'image lors du chargement :</value>
   </data>
   <data name="lblRole.Text" xml:space="preserve">
     <value>Rôle</value>

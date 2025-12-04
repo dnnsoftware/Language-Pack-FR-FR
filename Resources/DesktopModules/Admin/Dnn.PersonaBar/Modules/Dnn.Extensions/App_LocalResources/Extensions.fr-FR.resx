@@ -994,7 +994,7 @@
     <value>Affichage des pages du site :</value>
   </data>
   <data name="PersonaBar.Type" xml:space="preserve">
-    <value>Persona Bar</value>
+    <value>Barre de personalisation</value>
   </data>
   <data name="plLocales.Help" xml:space="preserve">
     <value>Choisissez une langue pour afficher la liste des extensions disposant d'un pack de langue dans la langue sélectionnée. Si un pack de langue existe, suivez le lien pour télécharger et installer le pack de langue.</value>
