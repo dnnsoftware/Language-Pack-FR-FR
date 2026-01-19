@@ -18,8 +18,8 @@
   <data name="btn_LoadMore.Text" xml:space="preserve">
     <value>Charger plus</value>
   </data>
-  <data name="CriticalUpdate.Text" xml:space="preserve">
-    <value>[Mise à jour critique]</value>
+  <data name="Critical.Text" xml:space="preserve">
+    <value>Critique</value>
   </data>
   <data name="DisableEditBar.Help" xml:space="preserve">
     <value>Cette installation DNN exécute une autre barre d'édition.</value>
@@ -72,6 +72,9 @@
   <data name="Framework.Text" xml:space="preserve">
     <value>Framework .Net</value>
   </data>
+  <data name="LatestVersion.Text" xml:space="preserve">
+    <value>Dernière version</value>
+  </data>
   <data name="LicenseKey.Text" xml:space="preserve">
     <value>Clé de licence</value>
   </data>
@@ -85,7 +88,7 @@
     <value>&amp;nbsp;</value>
   </data>
   <data name="nav_Analytics.Text" xml:space="preserve">
-    <value>Analytics</value>
+    <value>Analytiques</value>
   </data>
   <data name="nav_Content.Text" xml:space="preserve">
     <value>Contenu</value>
@@ -213,7 +216,7 @@
   <data name="UnlockEditMode.Text" xml:space="preserve">
     <value>Cliquez pour déverrouiller le mode d'édition.</value>
   </data>
-  <data name="UpgradeLicense.Text" xml:space="preserve">
-    <value>[Mise à niveau vers Evoq]</value>
+  <data name="Update.Text" xml:space="preserve">
+    <value>Mise à jour</value>
   </data>
 </root>

@@ -318,6 +318,9 @@
   <data name="RoleGroupUpdated.Message" xml:space="preserve">
     <value>Groupe de rôles correctement mis à jour.</value>
   </data>
+  <data name="RoleId.Text" xml:space="preserve">
+    <value>ID de rôle</value>
+  </data>
   <data name="RoleName.Header" xml:space="preserve">
     <value>Nom du rôle&amp;nbsp;</value>
   </data>

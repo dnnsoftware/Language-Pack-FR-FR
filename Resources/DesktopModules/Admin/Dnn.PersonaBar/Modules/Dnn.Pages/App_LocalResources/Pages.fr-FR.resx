@@ -270,6 +270,12 @@
   <data name="EmptyUser.Text" xml:space="preserve">
     <value>Ajouter un utilisateur pour définir les autorisations par utilisateur</value>
   </data>
+  <data name="EnabledVersioning" xml:space="preserve">
+    <value>Activer le versionnage</value>
+  </data>
+  <data name="EnabledVersioning_tooltip" xml:space="preserve">
+    <value>Lorsqu'elle est activée, DNN créera une nouvelle version de la page publiée lors de la modification et conservera plusieurs versions antérieures dans l'historique.</value>
+  </data>
   <data name="EnableScheduling.Text" xml:space="preserve">
     <value>Activer la programmation horaire</value>
   </data>
@@ -324,8 +330,14 @@
   <data name="FilterbyPageTypeText.Text" xml:space="preserve">
     <value>Filtrer par type de page</value>
   </data>
+  <data name="FilterByPublishDateText.Text" xml:space="preserve">
+    <value>Filtrer par date de publication</value>
+  </data>
   <data name="FilterbyPublishStatusText.Text" xml:space="preserve">
     <value>Filtrer par statut de publication</value>
+  </data>
+  <data name="FilterbyWorkflowText.Text" xml:space="preserve">
+    <value>Filtrer par flux de travail</value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>Dossier</value>
@@ -615,6 +627,9 @@
   <data name="On.Text" xml:space="preserve">
     <value>Actifé</value>
   </data>
+  <data name="OnlyAddedSomeMissingLanguagesWarning.Text" xml:space="preserve">
+    <value>Ajout des langues manquantes terminé. Seules les langues de la page parente ont été ajoutées.</value>
+  </data>
   <data name="OpenLinkInNewWindow.Text" xml:space="preserve">
     <value>Ouvrir le lien dans une nouvelle fenêtre</value>
   </data>
@@ -750,6 +765,60 @@
   <data name="PermanentRedirectTooltip.Text" xml:space="preserve">
     <value>Cocher cette case si vous souhaitez informer le client que cette page doit être considérée comme définitivement déplacée. Cela permet aux moteurs de recherche de modifier leurs URLs pour établir un lien direct vers la ressource. C'est ignoré si le Type de lien est réglé sur Aucun.</value>
   </data>
+  <data name="PermissionAdd.Text" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="PermissionAddDescription.Text" xml:space="preserve">
+    <value>Permet d'ajouter des pages enfants.</value>
+  </data>
+  <data name="PermissionContent.Text" xml:space="preserve">
+    <value>Contenu</value>
+  </data>
+  <data name="PermissionContentDescription.Text" xml:space="preserve">
+    <value>Permet de modifier le contenu de la page.</value>
+  </data>
+  <data name="PermissionCopy.Text" xml:space="preserve">
+    <value>Copie</value>
+  </data>
+  <data name="PermissionCopyDescription.Text" xml:space="preserve">
+    <value>Permet de copier la page.</value>
+  </data>
+  <data name="PermissionDelete.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="PermissionDeleteDescription.Text" xml:space="preserve">
+    <value>Permet de supprimer la page.</value>
+  </data>
+  <data name="PermissionEditTab.Text" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="PermissionEditTabDescription.Text" xml:space="preserve">
+    <value>Permet un contrôle total, y compris l'ajout de modules et la modification des autorisations.</value>
+  </data>
+  <data name="PermissionExport.Text" xml:space="preserve">
+    <value>Exporter</value>
+  </data>
+  <data name="PermissionExportDescription.Text" xml:space="preserve">
+    <value>Permet d'exporter la page.</value>
+  </data>
+  <data name="PermissionImport.Text" xml:space="preserve">
+    <value>Importer</value>
+  </data>
+  <data name="PermissionImportDescription.Text" xml:space="preserve">
+    <value>Permet d'importer la page.</value>
+  </data>
+  <data name="PermissionManage.Text" xml:space="preserve">
+    <value>Gérer</value>
+  </data>
+  <data name="PermissionManageDescription.Text" xml:space="preserve">
+    <value>Permet de gérer les paramètres de la page, à l'exception des autorisations.</value>
+  </data>
+  <data name="PermissionNavigate.Text" xml:space="preserve">
+    <value>Naviguer</value>
+  </data>
+  <data name="PermissionNavigateDescription.Text" xml:space="preserve">
+    <value>Permet d'afficher la page dans les menus de navigation.</value>
+  </data>
   <data name="Permissions.Text" xml:space="preserve">
     <value>Permissions</value>
   </data>
@@ -758,6 +827,12 @@
   </data>
   <data name="PermissionsByUser.Text" xml:space="preserve">
     <value>AUTORISATIONS PAR UTILISATEUR</value>
+  </data>
+  <data name="PermissionViewTab.Text" xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data name="PermissionViewTabDescription.Text" xml:space="preserve">
+    <value>Permet de visualiser la page.</value>
   </data>
   <data name="PleaseSelectLayoutContainer.Text" xml:space="preserve">
     <value>Vous devez sélectionner une mise en page et un conteneur pour effectuer cette opération.</value>
@@ -1158,8 +1233,17 @@
   <data name="View.Text" xml:space="preserve">
     <value>Voir</value>
   </data>
-  <data name="ViewTab.Text" xml:space="preserve">
-    <value>Voir</value>
+  <data name="WorkflowEnabled" xml:space="preserve">
+    <value>Activer le flux de travail de contenu</value>
+  </data>
+  <data name="WorkflowEnabled_tooltip" xml:space="preserve">
+    <value>Lorsque activée, DNN appliquera le flux de travail de contenu sélectionné lors du processus de publication des modifications de page.</value>
+  </data>
+  <data name="WorkflowSettings.Text" xml:space="preserve">
+    <value>Paramètres du flux de travail</value>
+  </data>
+  <data name="WorkflowTitle.Text" xml:space="preserve">
+    <value>Flux de travail</value>
   </data>
   <data name="WrongFormat.Text" xml:space="preserve">
     <value>Le Format n'est pas bon</value>
