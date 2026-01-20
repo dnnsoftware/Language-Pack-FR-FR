@@ -97,7 +97,7 @@
     <value>Souhaitez-vous supprimer ce serveur Web?</value>
   </data>
   <data name="DeleteUpgradePackage.Confirm" xml:space="preserve">
-    <value>Supprimer ce package de mise à niveau ?</value>
+    <value>Supprimer ce paquet de mise à niveau ?</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
     <value>Éditer</value>
