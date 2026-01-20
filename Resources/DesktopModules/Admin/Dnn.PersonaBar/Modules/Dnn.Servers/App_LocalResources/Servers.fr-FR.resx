@@ -655,7 +655,7 @@
     <value>Le fichier téléchargé {0} est un paquet DNN obsolète.</value>
   </data>
   <data name="Upgrade_UploadNotAllowed.Text" xml:space="preserve">
-    <value>Le téléchargement des packages de mise à niveau DNN a été désactivé.</value>
+    <value>Le téléchargement des paquets de mise à niveau DNN a été désactivé.</value>
   </data>
   <data name="UpgradeDone.Text" xml:space="preserve">
     <value>Copie de fichiers terminée</value>
