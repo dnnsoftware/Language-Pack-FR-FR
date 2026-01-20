@@ -21,6 +21,9 @@
   <data name="AuthorizeCompleted.Text" xml:space="preserve">
     <value>La configuration de votre fournisseur OAuth est terminée.</value>
   </data>
+  <data name="Backup.Confirm" xml:space="preserve">
+    <value>Veuillez confirmer que vous avez effectué une sauvegarde de cette installation avant la mise à niveau.</value>
+  </data>
   <data name="BackupFinished.Text" xml:space="preserve">
     <value>Terminé</value>
   </data>
@@ -38,6 +41,9 @@
   </data>
   <data name="Cancel.Text" xml:space="preserve">
     <value>Annuler</value>
+  </data>
+  <data name="CanInstall.Text" xml:space="preserve">
+    <value>Peut installer</value>
   </data>
   <data name="Change.Text" xml:space="preserve">
     <value>Changement</value>
@@ -89,6 +95,9 @@
   </data>
   <data name="DeleteServerConfirm.Text" xml:space="preserve">
     <value>Souhaitez-vous supprimer ce serveur Web?</value>
+  </data>
+  <data name="DeleteUpgradePackage.Confirm" xml:space="preserve">
+    <value>Supprimer ce paquet de mise à niveau ?</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
     <value>Éditer</value>
@@ -216,6 +225,15 @@
   <data name="infoMessageRestartingApplication.Text" xml:space="preserve">
     <value>Redémarrage de l'application</value>
   </data>
+  <data name="Install.Text" xml:space="preserve">
+    <value>Installer</value>
+  </data>
+  <data name="IsOutdated.Text" xml:space="preserve">
+    <value>Dépassé</value>
+  </data>
+  <data name="IsValid.Text" xml:space="preserve">
+    <value>Valide</value>
+  </data>
   <data name="LastActivityDate.Text" xml:space="preserve">
     <value>Dernière Activité</value>
   </data>
@@ -255,11 +273,17 @@
   <data name="Logs_UpgradeLog.Text" xml:space="preserve">
     <value>Journal de mise à niveau</value>
   </data>
+  <data name="MinDnnVersion.Text" xml:space="preserve">
+    <value>Version DNN requise</value>
+  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nom</value>
   </data>
   <data name="nav_Servers.Text" xml:space="preserve">
     <value>Serveurs</value>
+  </data>
+  <data name="No.Text" xml:space="preserve">
+    <value>Non</value>
   </data>
   <data name="NoBackups.Text" xml:space="preserve">
     <value>Cette base de données n'a pas été sauvegardée.</value>
@@ -300,23 +324,11 @@
   <data name="PerformanceTab_ClientResourceManagementTitle.Text" xml:space="preserve">
     <value>Gestion des ressources client</value>
   </data>
-  <data name="PerformanceTab_ClientResourcesManagementMode.Help" xml:space="preserve">
-    <value>Le mode hôte utilise les paramètres de gestion des ressources client définis au niveau de l'application. Le réglage au niveau du site vous permet de sélectionner vos propres paramètres de gestion des ressources client.</value>
-  </data>
-  <data name="PerformanceTab_ClientResourcesManagementMode.Text" xml:space="preserve">
-    <value>Mode de gestion des ressources client</value>
-  </data>
   <data name="PerformanceTab_CurrentHostVersion.Text" xml:space="preserve">
     <value>Version actuelle de l’hôte :</value>
   </data>
   <data name="PerformanceTab_CurrentPortalVersion.Text" xml:space="preserve">
     <value>Version du site :</value>
-  </data>
-  <data name="PerformanceTab_EnableCompositeFiles.Help" xml:space="preserve">
-    <value>Les fichiers composites sont des combinaisons de ressources (JavaScript et CSS) créées afin de réduire le nombre de fichiers à charger par le navigateur. Ceci réduira significativement le temps de chargement de vos pages.</value>
-  </data>
-  <data name="PerformanceTab_EnableCompositeFiles.Text" xml:space="preserve">
-    <value>Activer les fichiers composites</value>
   </data>
   <data name="PerformanceTab_GlobalClientResourcesManagementMode.Text" xml:space="preserve">
     <value>Global</value>
@@ -332,21 +344,6 @@
   </data>
   <data name="PerformanceTab_Memory.Text" xml:space="preserve">
     <value>En mémoire</value>
-  </data>
-  <data name="PerformanceTab_MinifactionWarning.Text" xml:space="preserve">
-    <value>Remarque importante concernant les paramètres de minification.&lt;br/&gt;Si les paramètres de minification sont modifiés lorsque les fichiers composites sont activés, vous devez d'abord enregistrer les paramètres de minification en cliquant sur Enregistrer, puis incrémenter le numéro de version. Cela créera de nouveaux fichiers composites en utilisant les nouveaux paramètres de minification.</value>
-  </data>
-  <data name="PerformanceTab_MinifyCss.Help" xml:space="preserve">
-    <value>La minification CSS réduira la taille du code CSS en utilisant des expressions régulières pour supprimer les commentaires, les espaces et les "CSS morts". Ceci n'est disponible que lorsque les fichiers composites sont activés.</value>
-  </data>
-  <data name="PerformanceTab_MinifyCss.Text" xml:space="preserve">
-    <value>Réduire CSS</value>
-  </data>
-  <data name="PerformanceTab_MinifyJs.Help" xml:space="preserve">
-    <value>La réduction JS réduira le poids du Javscript en utilisant JSMin. Cette option requiert l’activation des fichiers composites.</value>
-  </data>
-  <data name="PerformanceTab_MinifyJs.Text" xml:space="preserve">
-    <value>Réduire JS</value>
   </data>
   <data name="PerformanceTab_Moderate.Text" xml:space="preserve">
     <value>Cache moyen</value>
@@ -399,6 +396,9 @@
   <data name="PerformanceTab_UnauthCacheability.Text" xml:space="preserve">
     <value>Mise en cache non authentifiée</value>
   </data>
+  <data name="plAvailableUpgrades.Text" xml:space="preserve">
+    <value>Mises à niveau disponibles</value>
+  </data>
   <data name="plBackups.Text" xml:space="preserve">
     <value>Historique des sauvegardes de base de données :</value>
   </data>
@@ -413,6 +413,12 @@
   </data>
   <data name="plConnectionLimit.Text" xml:space="preserve">
     <value>Limite de connexion :</value>
+  </data>
+  <data name="plCurrentVersion.Help" xml:space="preserve">
+    <value>La version actuelle de cette application.</value>
+  </data>
+  <data name="plCurrentVersion.Text" xml:space="preserve">
+    <value>Version actuelle :</value>
   </data>
   <data name="plDataProvider.Help" xml:space="preserve">
     <value>Le fournisseur de données par défaut pour cette application.</value>
@@ -624,8 +630,65 @@
   <data name="tabSystemInfoTitle.Text" xml:space="preserve">
     <value>Information système</value>
   </data>
+  <data name="tabUpgrades.Text" xml:space="preserve">
+    <value>Mises à niveau</value>
+  </data>
   <data name="tabWebTitle.Text" xml:space="preserve">
     <value>Web</value>
+  </data>
+  <data name="TryAgain.Text" xml:space="preserve">
+    <value>[Essayer à nouveau]</value>
+  </data>
+  <data name="Upgrade_InvalidPackage.Text" xml:space="preserve">
+    <value>Le fichier téléchargé {0} n'est pas un paquet DNN valide.</value>
+  </data>
+  <data name="Upgrade_NoUpgrade.Text" xml:space="preserve">
+    <value>Aucune mise à niveau à appliquer</value>
+  </data>
+  <data name="Upgrade_NoUpgradesAvailable.Text" xml:space="preserve">
+    <value>Aucune mise à niveau n'est disponible.</value>
+  </data>
+  <data name="Upgrade_NoValidUpgrade.Text" xml:space="preserve">
+    <value>Aucune mise à niveau valide n'est disponible pour le paquet {0}</value>
+  </data>
+  <data name="Upgrade_OutdatedPackage.Text" xml:space="preserve">
+    <value>Le fichier téléchargé {0} est un paquet DNN obsolète.</value>
+  </data>
+  <data name="Upgrade_UploadNotAllowed.Text" xml:space="preserve">
+    <value>Le téléchargement des paquets de mise à niveau DNN a été désactivé.</value>
+  </data>
+  <data name="UpgradeDone.Text" xml:space="preserve">
+    <value>Copie de fichiers terminée</value>
+  </data>
+  <data name="UpgradeDoneLink.Text" xml:space="preserve">
+    <value>Veuillez cliquer ici pour démarrer le processus de mise à niveau</value>
+  </data>
+  <data name="Upgrading.Help" xml:space="preserve">
+    <value>Veuillez patienter pendant que nous préparons la mise à niveau de votre serveur.</value>
+  </data>
+  <data name="Upgrading.Text" xml:space="preserve">
+    <value>Mise à niveau...</value>
+  </data>
+  <data name="UploadPackage.Text" xml:space="preserve">
+    <value>Télécharger le paquet</value>
+  </data>
+  <data name="UploadPackage_FileUploadDefault.Text" xml:space="preserve">
+    <value>Glissez-déposez un fichier ou cliquez sur l'icône pour parcourir les fichiers.</value>
+  </data>
+  <data name="UploadPackage_FileUploadDragOver.Text" xml:space="preserve">
+    <value>Glissez-déposez un fichier</value>
+  </data>
+  <data name="UploadPackage_UploadAFile.Text" xml:space="preserve">
+    <value>Téléversez un paquet DNN au format ZIP.</value>
+  </data>
+  <data name="UploadPackage_UploadComplete.Text" xml:space="preserve">
+    <value>Téléchargement terminé</value>
+  </data>
+  <data name="UploadPackage_UploadFailedUnknown.Text" xml:space="preserve">
+    <value>Une erreur inconnue s'est produite lors du chargement de ce fichier.</value>
+  </data>
+  <data name="UploadPackage_Uploading.Text" xml:space="preserve">
+    <value>Téléchargement</value>
   </data>
   <data name="Url.Help" xml:space="preserve">
     <value>L'URL pour la connexion directe à ce serveur Web. Dans les environnements multi-serveurs, il s'agit généralement d'une adresse IP ou d'une entrée DNS unique qui pointe directement vers un serveur individuel.</value>
@@ -636,7 +699,13 @@
   <data name="UserRestart.Text" xml:space="preserve">
     <value>Utiliser un déclencheur pour redémarrer l'application</value>
   </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Version</value>
+  </data>
   <data name="VersionIncrementedConfirmation.Text" xml:space="preserve">
     <value>Version incrémentée avec succès</value>
+  </data>
+  <data name="Yes.Text" xml:space="preserve">
+    <value>Oui</value>
   </data>
 </root>
