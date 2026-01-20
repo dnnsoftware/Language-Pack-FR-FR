@@ -102,6 +102,12 @@
   <data name="isShareableViewOnlyLabel.Text" xml:space="preserve">
     <value>Affichage uniquement</value>
   </data>
+  <data name="JavaScriptInFooter.Text" xml:space="preserve">
+    <value>JavaScript n'est pas autorisé dans le pied de page des modules.</value>
+  </data>
+  <data name="JavaScriptInHeader.Text" xml:space="preserve">
+    <value>JavaScript n'est pas autorisé dans l'en-tête des modules.</value>
+  </data>
   <data name="lblNoRecords.Text" xml:space="preserve">
     <value>Ce module n'a pas été ajouté à d'autres pages.</value>
   </data>

@@ -675,6 +675,18 @@
   <data name="plAllowedExtensionsWhitelist.Text" xml:space="preserve">
     <value>Extensions de fichiers autorisées</value>
   </data>
+  <data name="plAllowJsInModuleFooters.Help" xml:space="preserve">
+    <value>Lorsque cette option est activée, les scripts JavaScript seront autorisés dans la valeur définie pour le pied de page d'un module.</value>
+  </data>
+  <data name="plAllowJsInModuleFooters.Text" xml:space="preserve">
+    <value>Autoriser JavaScript dans le pied de page du module</value>
+  </data>
+  <data name="plAllowJsInModuleHeaders.Help" xml:space="preserve">
+    <value>Lorsque cette option est activée, les scripts JavaScript seront autorisés dans la valeur définie pour l'en-tête d'un module.</value>
+  </data>
+  <data name="plAllowJsInModuleHeaders.Text" xml:space="preserve">
+    <value>Autoriser JavaScript dans l'en-tête du module</value>
+  </data>
   <data name="plAutoAddPortalAlias.Help" xml:space="preserve">
     <value>Ce paramètre détermine comment le site répond aux URL qui sont mappées sur le site mais qui ne figurent pas actuellement dans la liste des alias. Ce paramètre est efficace dans la configuration d'un site unique. Sélectionnez cette option pour mapper automatiquement la nouvelle URL.</value>
   </data>
