@@ -679,7 +679,7 @@
     <value>Glissez-déposez un fichier</value>
   </data>
   <data name="UploadPackage_UploadAFile.Text" xml:space="preserve">
-    <value>Téléversez un package DNN au format ZIP.</value>
+    <value>Téléversez un paquet DNN au format ZIP.</value>
   </data>
   <data name="UploadPackage_UploadComplete.Text" xml:space="preserve">
     <value>Téléchargement terminé</value>
