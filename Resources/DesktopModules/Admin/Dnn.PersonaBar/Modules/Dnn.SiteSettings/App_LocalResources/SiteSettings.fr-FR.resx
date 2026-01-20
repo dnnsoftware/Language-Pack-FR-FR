@@ -682,7 +682,7 @@
     <value>Autoriser JavaScript dans le pied de page du module</value>
   </data>
   <data name="plAllowJsInModuleHeaders.Help" xml:space="preserve">
-    <value>Lorsque cette option est activée, aucun script JavaScript ne sera autorisé dans la valeur définie pour l'en-tête d'un module.</value>
+    <value>Lorsque cette option est activée, les scripts JavaScript seront autorisés dans la valeur définie pour l'en-tête d'un module.</value>
   </data>
   <data name="plAllowJsInModuleHeaders.Text" xml:space="preserve">
     <value>Autoriser JavaScript dans l'en-tête du module</value>
